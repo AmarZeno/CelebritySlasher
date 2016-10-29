@@ -293,4 +293,702 @@ LogInit: Object subsystem initialized
 [2016.10.29-07.25.06:752][586]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2444.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2444.exp
 [2016.10.29-07.25.06:752][586]CompilerResultsLog: Info Total build time: 7.85 seconds
 [2016.10.29-07.25.06:752][586]LogMainFrame: MainFrame: Module compiling took 8.054 seconds
-[2016.10.29-07.25.06:772][586]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0014 seconds. Added 2 classes and 2 fold
+[2016.10.29-07.25.06:772][586]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.25.06:773][586]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.25.06:798][586]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.25.06:800][586]Warning: HotReload took  8.1s.
+[2016.10.29-07.28.42:457][535]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/PositionReport.h'
+[2016.10.29-07.28.42:464][535]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/PositionReport.cpp'
+[2016.10.29-07.36.51:225][127]Recompiling BuildingEscape...
+[2016.10.29-07.36.51:225][127]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 726 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.36.51:227][127]Warning: Starting HotReload took  0.3s.
+[2016.10.29-07.36.59:790][880]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:36:59 PM
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.9171279 seconds
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-726.dll
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-726.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-726.exp
+[2016.10.29-07.36.59:791][880]CompilerResultsLog: Info Total build time: 8.12 seconds
+[2016.10.29-07.36.59:791][880]LogMainFrame: MainFrame: Module compiling took 8.571 seconds
+[2016.10.29-07.36.59:813][880]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.36.59:814][880]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.36.59:838][880]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.36.59:841][880]Warning: HotReload took  8.9s.
+[2016.10.29-07.37.08:200][186]Recompiling BuildingEscape...
+[2016.10.29-07.37.08:200][186]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 649 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.37.08:201][186]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.37.08:913][271]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:37:08 PM
+[2016.10.29-07.37.08:913][271]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.37.08:913][271]CompilerResultsLog: Info Target is up to date
+[2016.10.29-07.37.08:913][271]LogMainFrame: MainFrame: Module compiling took 0.718 seconds
+[2016.10.29-07.37.08:930][271]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.37.08:932][271]Warning: HotReload took  0.7s.
+[2016.10.29-07.37.52:091][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.37.52:091][532]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:37:52 PM)
+[2016.10.29-07.37.52:091][532]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.37.52:093][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001803s)
+[2016.10.29-07.37.52:094][532]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.37.52:095][532]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2016.10.29-07.37.52:095][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003461s)
+[2016.10.29-07.37.52:126][532]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.37.52:134][532]LogInit: FAudioDevice initialized.
+[2016.10.29-07.37.52:198][532]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.37.52:201][532]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.37.52
+[2016.10.29-07.37.52:202][532]LogWorld: Bringing up level for play took: 0.001594
+[2016.10.29-07.37.52:215][532]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2016.10.29-07.37.52:216][532]LogTemp:Warning: Position reporting for duty! 
+[2016.10.29-07.37.52:217][532]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.511
+[2016.10.29-07.37.58:193][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.37.58:194][235]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:37:58 PM)
+[2016.10.29-07.37.58:194][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.37.58:196][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002117s)
+[2016.10.29-07.37.58:197][235]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.37.58:197][235]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2016.10.29-07.37.58:197][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003330s)
+[2016.10.29-07.37.58:226][235]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.37.58:232][235]LogInit: FAudioDevice initialized.
+[2016.10.29-07.37.58:282][235]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.37.58:284][235]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.37.58
+[2016.10.29-07.37.58:285][235]LogWorld: Bringing up level for play took: 0.001610
+[2016.10.29-07.37.58:286][235]LogTemp:Warning: Position reporting for duty! 
+[2016.10.29-07.37.58:286][235]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.441
+[2016.10.29-07.38.15:185][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.38.15:185][769]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:38:15 PM)
+[2016.10.29-07.38.15:185][769]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.38.15:188][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2016.10.29-07.38.15:188][769]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.38.15:188][769]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2016.10.29-07.38.15:189][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003149s)
+[2016.10.29-07.38.15:217][769]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.38.15:224][769]LogInit: FAudioDevice initialized.
+[2016.10.29-07.38.15:275][769]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.38.15:277][769]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.38.15
+[2016.10.29-07.38.15:277][769]LogWorld: Bringing up level for play took: 0.001799
+[2016.10.29-07.38.15:279][769]LogTemp:Warning: Position reporting for duty! 
+[2016.10.29-07.38.15:279][769]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.552
+[2016.10.29-07.39.30:549][286]Recompiling BuildingEscape...
+[2016.10.29-07.39.30:549][286]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 6644 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.39.30:550][286]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.39.38:963][291]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:39:38 PM
+[2016.10.29-07.39.38:963][291]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-07.39.38:963][291]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.39.38:963][291]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.9515087 seconds
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-6644.dll
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-6644.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-6644.exp
+[2016.10.29-07.39.38:964][291]CompilerResultsLog: Info Total build time: 8.27 seconds
+[2016.10.29-07.39.38:964][291]LogMainFrame: MainFrame: Module compiling took 8.420 seconds
+[2016.10.29-07.39.38:986][291]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.39.38:986][291]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.39.39:011][291]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.39.39:013][291]Warning: HotReload took  8.5s.
+[2016.10.29-07.41.03:135][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.41.03:135][383]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:41:03 PM)
+[2016.10.29-07.41.03:136][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.41.03:138][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001969s)
+[2016.10.29-07.41.03:138][383]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.41.03:139][383]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2016.10.29-07.41.03:139][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003373s)
+[2016.10.29-07.41.03:169][383]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.41.03:177][383]LogInit: FAudioDevice initialized.
+[2016.10.29-07.41.03:226][383]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.41.03:228][383]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.41.03
+[2016.10.29-07.41.03:228][383]LogWorld: Bringing up level for play took: 0.001674
+[2016.10.29-07.41.03:230][383]LogTemp:Warning: Position reporting for duty on CHair! 
+[2016.10.29-07.41.03:230][383]LogTemp:Warning: Position reporting for duty on CHair! 
+[2016.10.29-07.41.03:230][383]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.506
+[2016.10.29-07.42.47:758][849]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2016.10.29-07.43.14:298][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-07.43.15:012][603]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2016.10.29-07.43.36:751][779]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.29-07.44.05:920][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.10.29-07.44.45:996][616]LogSavePackage: Save=22.38ms
+[2016.10.29-07.44.45:997][616]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap395B1B75416D3E47B3FF9EAF77615B18.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.44.46:001][616]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.52.03:173][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.52.03:173][754]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:52:03 PM)
+[2016.10.29-07.52.03:174][754]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.52.03:176][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002059s)
+[2016.10.29-07.52.03:177][754]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.52.03:177][754]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2016.10.29-07.52.03:177][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003844s)
+[2016.10.29-07.52.03:206][754]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.52.03:214][754]LogInit: FAudioDevice initialized.
+[2016.10.29-07.52.03:260][754]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.52.03:263][754]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.52.03
+[2016.10.29-07.52.03:263][754]LogWorld: Bringing up level for play took: 0.001951
+[2016.10.29-07.52.03:264][754]LogTemp:Warning: Position reporting for duty on CHair! 
+[2016.10.29-07.52.03:264][754]LogTemp:Warning: Position reporting for duty on CHair! 
+[2016.10.29-07.52.03:264][754]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.543
+[2016.10.29-07.52.22:773][ 93]Recompiling BuildingEscape...
+[2016.10.29-07.52.22:773][ 93]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 6417 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.52.22:775][ 93]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.52.30:442][  8]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:52:30 PM
+[2016.10.29-07.52.30:442][  8]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-07.52.30:442][  8]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.52.30:442][  8]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.52.30:442][  8]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.837551 seconds
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Source\BuildingEscape\PositionReport.cpp(26) : error C4002: too many actual parameters for macro 'TEXT'
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog: Info ERROR: UBT ERROR: Failed to produce item: C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-6417.dll
+[2016.10.29-07.52.30:443][  8]CompilerResultsLog: Info Total build time: 7.52 seconds
+[2016.10.29-07.52.30:443][  8]LogMainFrame: MainFrame: Module compiling took 7.674 seconds
+[2016.10.29-07.52.30:443][  8]Warning: HotReload failed, recompile failed
+[2016.10.29-07.53.21:251][ 34]Recompiling BuildingEscape...
+[2016.10.29-07.53.21:251][ 34]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 4402 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.53.21:252][ 34]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.53.29:522][ 24]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:53:29 PM
+[2016.10.29-07.53.29:522][ 24]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-07.53.29:522][ 24]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.53.29:522][ 24]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.53.29:522][ 24]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.8385464 seconds
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-4402.dll
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4402.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-4402.exp
+[2016.10.29-07.53.29:523][ 24]CompilerResultsLog: Info Total build time: 8.12 seconds
+[2016.10.29-07.53.29:523][ 24]LogMainFrame: MainFrame: Module compiling took 8.277 seconds
+[2016.10.29-07.53.29:546][ 24]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.53.29:547][ 24]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.53.29:576][ 24]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.53.29:578][ 24]Warning: HotReload took  8.3s.
+[2016.10.29-07.53.31:336][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-07.53.31:336][234]PIE: New page: PIE session: NewMap (Oct 28, 2016, 6:53:31 PM)
+[2016.10.29-07.53.31:336][234]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-07.53.31:337][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001432s)
+[2016.10.29-07.53.31:338][234]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-07.53.31:338][234]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2016.10.29-07.53.31:339][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.002666s)
+[2016.10.29-07.53.31:367][234]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-07.53.31:374][234]LogInit: FAudioDevice initialized.
+[2016.10.29-07.53.31:422][234]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-07.53.31:424][234]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-01.53.31
+[2016.10.29-07.53.31:425][234]LogWorld: Bringing up level for play took: 0.001601
+[2016.10.29-07.53.31:426][234]LogTemp:Warning: Position report for SM_Chair_4 !
+[2016.10.29-07.53.31:426][234]LogTemp:Warning: Position report for SM_Rock_7 !
+[2016.10.29-07.53.31:426][234]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.707
+[2016.10.29-08.01.01:060][910]Recompiling BuildingEscape...
+[2016.10.29-08.01.01:060][910]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 5775 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-08.01.01:062][910]Warning: Starting HotReload took  0.0s.
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 7:01:09 PM
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.8632031 seconds
+[2016.10.29-08.01.09:472][919]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-08.01.09:473][919]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-08.01.09:473][919]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-5775.dll
+[2016.10.29-08.01.09:473][919]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5775.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5775.exp
+[2016.10.29-08.01.09:473][919]CompilerResultsLog: Info Total build time: 8.26 seconds
+[2016.10.29-08.01.09:473][919]LogMainFrame: MainFrame: Module compiling took 8.417 seconds
+[2016.10.29-08.01.09:495][919]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2016.10.29-08.01.09:496][919]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-08.01.09:521][919]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-08.01.09:523][919]Warning: HotReload took  8.5s.
+[2016.10.29-08.01.13:307][363]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-08.01.13:307][363]PIE: New page: PIE session: NewMap (Oct 28, 2016, 7:01:13 PM)
+[2016.10.29-08.01.13:307][363]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-08.01.13:309][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002120s)
+[2016.10.29-08.01.13:310][363]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-08.01.13:310][363]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2016.10.29-08.01.13:311][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003564s)
+[2016.10.29-08.01.13:340][363]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-08.01.13:348][363]LogInit: FAudioDevice initialized.
+[2016.10.29-08.01.13:395][363]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-08.01.13:398][363]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-02.01.13
+[2016.10.29-08.01.13:398][363]LogWorld: Bringing up level for play took: 0.002071
+[2016.10.29-08.01.13:399][363]LogTemp:Warning: SM_Chair_4 is at X = something, Y = something else, etc !
+[2016.10.29-08.01.13:400][363]LogTemp:Warning: SM_Rock_7 is at X = something, Y = something else, etc !
+[2016.10.29-08.01.13:400][363]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.687
+[2016.10.29-08.06.08:662][195]Recompiling BuildingEscape...
+[2016.10.29-08.06.08:662][195]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 57 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-08.06.08:664][195]Warning: Starting HotReload took  0.0s.
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 7:06:16 PM
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.9214796 seconds
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-08.06.16:403][120]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-08.06.16:403][120]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Source\BuildingEscape\PositionReport.cpp(27) : error C2228: left of '.GetLocation' must have class/struct/union
+[2016.10.29-08.06.16:404][120]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Source\BuildingEscape\PositionReport.cpp(27) : error C2228: left of '.ToString' must have class/struct/union
+[2016.10.29-08.06.16:404][120]CompilerResultsLog: Info ERROR: UBT ERROR: Failed to produce item: C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Binaries\Win64\UE4Editor-BuildingEscape-57.dll
+[2016.10.29-08.06.16:404][120]CompilerResultsLog: Info Total build time: 7.60 seconds
+[2016.10.29-08.06.16:404][120]LogMainFrame: MainFrame: Module compiling took 7.747 seconds
+[2016.10.29-08.06.16:404][120]Warning: HotReload failed, recompile failed
+[2016.10.29-08.06.55:047][ 22]Recompiling BuildingEscape...
+[2016.10.29-08.06.55:047][ 22]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 5582 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-08.06.55:049][ 22]Warning: Starting HotReload took  0.0s.
+[2016.10.29-08.07.03:260][  5]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 7:07:03 PM
+[2016.10.29-08.07.03:260][  5]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-08.07.03:260][  5]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-08.07.03:260][  5]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-08.07.03:260][  5]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.8542293 seconds
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-5582.dll
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5582.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-5582.exp
+[2016.10.29-08.07.03:261][  5]CompilerResultsLog: Info Total build time: 8.07 seconds
+[2016.10.29-08.07.03:261][  5]LogMainFrame: MainFrame: Module compiling took 8.219 seconds
+[2016.10.29-08.07.03:287][  5]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2016.10.29-08.07.03:288][  5]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-08.07.03:311][  5]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-08.07.03:313][  5]Warning: HotReload took  8.3s.
+[2016.10.29-08.07.05:237][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-08.07.05:237][235]PIE: New page: PIE session: NewMap (Oct 28, 2016, 7:07:05 PM)
+[2016.10.29-08.07.05:237][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-08.07.05:239][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002108s)
+[2016.10.29-08.07.05:240][235]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-08.07.05:240][235]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2016.10.29-08.07.05:240][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003389s)
+[2016.10.29-08.07.05:267][235]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-08.07.05:273][235]LogInit: FAudioDevice initialized.
+[2016.10.29-08.07.05:318][235]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-08.07.05:321][235]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-02.07.05
+[2016.10.29-08.07.05:322][235]LogWorld: Bringing up level for play took: 0.002233
+[2016.10.29-08.07.05:323][235]LogTemp:Warning: SM_Chair_4 is at X=-130.000 Y=-150.000 Z=20.000 !
+[2016.10.29-08.07.05:323][235]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-08.07.05:323][235]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.617
+[2016.10.29-08.16.13:634][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-08.16.13:635][ 55]PIE: New page: PIE session: NewMap (Oct 28, 2016, 7:16:13 PM)
+[2016.10.29-08.16.13:635][ 55]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-08.16.13:637][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001715s)
+[2016.10.29-08.16.13:637][ 55]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-08.16.13:638][ 55]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2016.10.29-08.16.13:638][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003191s)
+[2016.10.29-08.16.13:667][ 55]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-08.16.13:674][ 55]LogInit: FAudioDevice initialized.
+[2016.10.29-08.16.13:725][ 55]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-08.16.13:728][ 55]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-02.16.13
+[2016.10.29-08.16.13:728][ 55]LogWorld: Bringing up level for play took: 0.002064
+[2016.10.29-08.16.13:730][ 55]LogTemp:Warning: SM_Chair_4 is at X=-130.000 Y=-150.000 Z=20.000 !
+[2016.10.29-08.16.13:730][ 55]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-08.16.13:730][ 55]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 1.034
+[2016.10.29-08.16.26:065][392]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-08.16.27:057][494]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-08.16.27:764][570]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-08.16.36:202][524]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-08.18.02:095][843]LogTexture:Display: Building textures: T_Frame_N (BC5)
+[2016.10.29-08.18.02:450][843]LogTexture:Display: Building textures: T_Frame_M (DXT1)
+[2016.10.29-08.18.02:989][843]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.02:989][843]LogActorFactory: Actor Factory created SM_DoorFrame
+[2016.10.29-08.18.02:989][843]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:045][847]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:586][908]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:596][909]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:599][909]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:606][910]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:610][910]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:618][911]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:621][911]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:630][912]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:632][912]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:640][913]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:641][913]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:644][913]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:652][914]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:655][914]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:663][915]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:664][915]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:667][915]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:675][916]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:676][916]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:679][916]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:687][917]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:688][917]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:698][918]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:709][919]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:718][920]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:729][921]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:730][921]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:766][925]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:784][927]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:820][931]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:831][932]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:840][933]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:841][933]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:851][934]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:861][935]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:864][935]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:872][936]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:875][936]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:883][937]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:886][937]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:894][938]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:897][938]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:906][939]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:916][940]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:918][940]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:928][941]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:937][942]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:938][942]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:940][942]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:949][943]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:950][943]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:953][943]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:961][944]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:964][944]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:972][945]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:983][946]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:983][946]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:986][946]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:994][947]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.03:995][947]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:004][948]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:006][948]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:009][948]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:017][949]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:027][950]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:030][950]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:038][951]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:056][953]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:084][956]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:094][957]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:104][958]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:114][959]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:123][960]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:134][961]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:135][961]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:153][963]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:164][964]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:167][964]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:175][965]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:186][966]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:195][967]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:204][968]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:223][970]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:233][971]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:236][971]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:245][972]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:255][973]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:264][974]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:265][974]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:268][974]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:285][976]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:302][978]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:312][979]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:315][979]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:323][980]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:333][981]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:343][982]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:347][982]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:354][983]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:364][984]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:374][985]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:386][986]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:394][987]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:405][988]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:414][989]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:425][990]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:426][990]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:436][991]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:446][992]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:456][993]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:465][994]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:468][994]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:485][996]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:495][997]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:498][997]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:515][999]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:525][  0]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:544][  2]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:553][  3]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:556][  3]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:565][  4]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:574][  5]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:594][  7]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:603][  8]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:622][ 10]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:623][ 10]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:626][ 10]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:651][ 13]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:670][ 15]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:682][ 16]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:691][ 17]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:712][ 19]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:731][ 21]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:752][ 23]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:762][ 24]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:796][ 28]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:825][ 31]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:835][ 32]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:846][ 33]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:854][ 34]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:881][ 37]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:918][ 41]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:937][ 43]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:956][ 45]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:960][ 45]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:967][ 46]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:978][ 47]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.04:998][ 49]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:009][ 50]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:026][ 52]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:035][ 53]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:054][ 55]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:066][ 56]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:074][ 57]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:102][ 60]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:120][ 62]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:138][ 64]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:159][ 66]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:184][ 69]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:220][ 73]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:232][ 74]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:249][ 76]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:261][ 77]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:278][ 79]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:297][ 81]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:316][ 83]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:326][ 84]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:336][ 85]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:346][ 86]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:356][ 87]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:366][ 88]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:369][ 88]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:385][ 90]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:396][ 91]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:399][ 91]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:416][ 93]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:435][ 95]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:436][ 95]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:455][ 97]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:465][ 98]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:468][ 98]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:486][100]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:538][106]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:548][107]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:566][109]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:585][111]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:596][112]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:606][113]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:616][114]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:635][116]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:638][116]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:648][117]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:656][118]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:675][120]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:685][121]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:695][122]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:706][123]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:716][124]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:735][126]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:746][127]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:756][128]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:757][128]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:766][129]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:785][131]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:787][131]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:796][132]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:806][133]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:817][134]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:817][134]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:836][136]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:846][137]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:856][138]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:867][139]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:894][142]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:913][144]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:923][145]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:959][149]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:977][151]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.05:996][153]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:015][155]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:218][178]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:227][179]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:230][179]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:237][180]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:257][182]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:276][184]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:297][186]PIE:Warning: Warning Mobility of SM_DoorFrame : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:709][233]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.06:709][233]LogActorFactory: Actor Factory created SM_DoorFrame
+[2016.10.29-08.18.06:723][233]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.16:187][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame)
+[2016.10.29-08.18.18:462][200]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:462][200]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:492][202]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:492][202]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:505][203]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:506][203]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:546][206]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:546][206]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:729][220]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:730][220]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:756][222]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:757][222]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:796][225]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:796][225]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:834][228]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:834][228]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:888][232]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.18:888][232]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.19:006][241]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.19:006][241]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:017][531]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:017][531]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:031][532]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:031][532]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:045][533]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:045][533]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:058][534]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:058][534]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:072][535]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:072][535]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:085][536]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:085][536]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:098][537]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:099][537]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:126][539]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:126][539]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:165][542]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:165][542]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:205][545]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:205][545]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:246][548]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:247][548]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:351][556]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:351][556]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:378][558]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:378][558]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:391][559]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:391][559]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:418][561]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:418][561]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:445][563]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:445][563]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:458][564]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:458][564]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:484][566]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:485][566]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:531][569]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:531][569]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:557][571]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:558][571]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:610][575]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:610][575]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:741][585]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:741][585]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:796][589]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:796][589]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:822][591]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:822][591]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:864][594]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.22:864][594]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:362][794]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:362][794]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:375][795]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:376][795]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:389][796]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:389][796]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:402][797]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:402][797]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:416][798]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:416][798]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:430][799]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:430][799]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:469][802]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:470][802]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:528][806]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.25:528][806]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.26:652][901]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.26:652][901]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.26:877][918]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.26:877][918]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.27:059][932]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.27:059][932]PIE:Warning: Warning Mobility of SM_DoorFrame_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-08.18.33:899][496]LogActorFactory: Actor Factory created SM_DoorFrame
+[2016.10.29-08.18.35:587][697]LogActorFactory: Actor Factory created SM_DoorFrame
+[2016.10.29-08.19.07:566][708]LogTexture:Display: Building textures: T_Door_N (BC5)
+[2016.10.29-08.19.07:944][708]LogTexture:Display: Building textures: T_Door_M (DXT1)
+[2016.10.29-08.19.08:301][708]LogActorFactory: Actor Factory created SM_Door
+[2016.10.29-08.19.12:417][195]LogActorFactory: Actor Factory created SM_Door
+[2016.10.29-08.19.13:857][354]LogSavePackage: Save=22.64ms
+[2016.10.29-08.19.13:857][354]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto240BF27624C5604B29722A2B50BF045E7.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2016.10.29-08.19.13:859][354]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap
+[2016.10.29-08.19.13:861][354]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.042
+[2016.10.29-08.19.13:861][354]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.042
+[2016.10.29-08.19.17:488][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2016.10.29-08.19.19:078][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2016.10.29-08.19.20:178][ 76]Cmd: DELETE
+[2016.10.29-08.19.20:178][ 76]Cmd: ACTOR DELETE
+[2016.10.29-08.19.20:179][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.10.29-08.19.20:185][ 76]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2016.10.29-08.19.21:987][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2016.10.29-08.19.31:686][211]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2016.10.29-08.20.18:137][653]MapCheck: New page: Map Check
+[2016.10.29-08.20.18:158][653]LightingResults: New page: Lighting Build - Oct 28, 2016, 7:20:18 PM
+[2016.10.29-08.20.18:228][653]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.29-08.20.18:323][653]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.29-08.20.18:333][653]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.29-08.20.18:841][653]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.29-08.20.18:841][653]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14344
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.29-08.20.21:775][653]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.29-08.20.21:939][653]LogEditorBuildUtils: Build time 0:03
+[2016.10.29-08.20.21:946][653]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2016.10.29-08.20.21:952][653]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2016.10.29-08.20.21:967][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2016.10.29-08.20.21:971][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2016.10.29-08.20.21:976][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2016.10.29-08.20.21:981][654]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2016.10.29-08.20.22:037][655]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2016.10.29-08.20.22:041][655]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2016.10.29-08.20.22:061][656]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2016.10.29-08.20.22:066][656]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2016.10.29-08.20.22:071][656]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2016.10.29-08.20.22:076][656]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2016.10.29-08.20.22:112][657]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2016.10.29-08.20.22:117][657]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2016.10.29-08.20.22:158][658]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.10.29-08.20.22:164][658]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.10.29-08.20.26:061][779]Job is a success!
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.10.29-08.20.29:487][141]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.10.29-08.20.29:503][141]Lightmass on eae-d-089: 4.31 sec total, 112 ms importing, 22 ms setup, 282 ms photons, 3.88 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 27.0 sec total, 1.24 sec processing.
+[2016.10.29-08.20.29:517][141]LogStaticLightingSystem: Illumination: 8.04 sec (66 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2016.10.29-08.20.29:517][141]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.10.29-08.20.29:517][141]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.29-08.20.29:781][141]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.29-08.20.29:781][141]MapCheck: New page: NewMap - Oct 28, 2016, 7:20:29 PM
+[2016.10.29-08.20.29:825][141]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.027ms to complete.
+[2016.10.29-08.21.00:675][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2016.10.29-08.21.02:188][883]Cmd: MODE GRID=0
+[2016.10.29-08.21.02:927][970]Cmd: MODE GRID=1
+[2016.10.29-08.22.12:574][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2016.10.29-08.23.13:354][199]Running C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape Win64 Development -editorrecompile "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject" -invalidatemakefilesonly
+[2016.10.29-08.23.13:657][199]Invalidating makefiles only in this run.
+[2016.10.29-08.23.14:068][199]Recompiling BuildingEscape...
+[2016.10.29-08.23.14:069][199]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 1549 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 7:23:21 PM
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (no existing makefile)
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.6363075 seconds
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info OpenDoor.cpp
+[2016.10.29-08.23.21:791][199]CompilerResultsLog: Info BuildingEscape.generated.cpp
+[2016.10.29-08.23.21:792][199]CompilerResultsLog: Info [3/3] Link UE4Editor-BuildingEscape-1549.dll
+[2016.10.29-08.23.21:792][199]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Developm
