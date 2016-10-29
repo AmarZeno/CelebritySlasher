@@ -13,12 +13,19 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 	{
 	}
 	IMPLEMENT_CLASS(ABuildingEscapeGameMode, 167805301);
+	void UPositionReport::StaticRegisterNativesUPositionReport()
+	{
+	}
+	IMPLEMENT_CLASS(UPositionReport, 3775878253);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AGameMode();
+	ENGINE_API class UClass* Z_Construct_UClass_UActorComponent();
 
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_ABuildingEscapeGameMode_NoRegister();
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_ABuildingEscapeGameMode();
+	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UPositionReport_NoRegister();
+	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UPositionReport();
 	BUILDINGESCAPE_API class UPackage* Z_Construct_UPackage__Script_BuildingEscape();
 	UClass* Z_Construct_UClass_ABuildingEscapeGameMode_NoRegister()
 	{
@@ -54,6 +61,41 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABuildingEscapeGameMode(Z_Construct_UClass_ABuildingEscapeGameMode, &ABuildingEscapeGameMode::StaticClass, TEXT("ABuildingEscapeGameMode"), false, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABuildingEscapeGameMode);
+	UClass* Z_Construct_UClass_UPositionReport_NoRegister()
+	{
+		return UPositionReport::StaticClass();
+	}
+	UClass* Z_Construct_UClass_UPositionReport()
+	{
+		static UClass* OuterClass = NULL;
+		if (!OuterClass)
+		{
+			Z_Construct_UClass_UActorComponent();
+			Z_Construct_UPackage__Script_BuildingEscape();
+			OuterClass = UPositionReport::StaticClass();
+			if (!(OuterClass->ClassFlags & CLASS_Constructed))
+			{
+				UObjectForceRegistration(OuterClass);
+				OuterClass->ClassFlags |= 0x20B00080;
+
+
+				OuterClass->StaticLink();
+#if WITH_METADATA
+				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
+				MetaData->SetValue(OuterClass, TEXT("BlueprintSpawnableComponent"), TEXT(""));
+				MetaData->SetValue(OuterClass, TEXT("ClassGroupNames"), TEXT("Custom"));
+				MetaData->SetValue(OuterClass, TEXT("HideCategories"), TEXT("ComponentReplication"));
+				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("PositionReport.h"));
+				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("PositionReport.h"));
+				MetaData->SetValue(OuterClass, TEXT("OnlyDefaultConstructorDeclared"), TEXT(""));
+#endif
+			}
+		}
+		check(OuterClass->GetClass());
+		return OuterClass;
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UPositionReport(Z_Construct_UClass_UPositionReport, &UPositionReport::StaticClass, TEXT("UPositionReport"), false, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UPositionReport);
 	UPackage* Z_Construct_UPackage__Script_BuildingEscape()
 	{
 		static UPackage* ReturnPackage = NULL;
@@ -62,8 +104,8 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/BuildingEscape")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xB7FF160D;
-			Guid.B = 0x99B1FD06;
+			Guid.A = 0x805EF883;
+			Guid.B = 0x21A87C2C;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);

@@ -212,4 +212,85 @@ LogInit: Object subsystem initialized
 [2016.10.29-07.01.24:790][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
 [2016.10.29-07.02.08:889][158]Cmd: STAT FPS
 [2016.10.29-07.03.33:913][635]LogSavePackage: Save=21.58ms
-[2016.10.29-07.03.33:913][635]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapCDE7C31544359DE14B21A3984E995C9F.tmp' to '../../..
+[2016.10.29-07.03.33:913][635]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapCDE7C31544359DE14B21A3984E995C9F.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.03.33:918][635]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.03.48:049][955]LogSavePackage: Save=22.02ms
+[2016.10.29-07.03.48:049][955]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapF0C247D04AA1301F19DA9CA1757D8652.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.03.48:050][955]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.18.08:176][106]Running C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject" -game -rocket -progress
+[2016.10.29-07.18.08:539][106]Discovering modules, targets and source code for project...
+[2016.10.29-07.18.11:459][106]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.10.29-07.18.11:466][106]Recompiling BuildingEscape...
+[2016.10.29-07.18.11:466][106]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 8652 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:18:25 PM
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Performing full C++ include scan (hot reloading a new target)
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (no existing makefile)
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.6829851 seconds
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info BuildingEscape.generated.cpp
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info [3/3] Link UE4Editor-BuildingEscape-8652.dll
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-8652.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-8652.exp
+[2016.10.29-07.18.25:171][106]CompilerResultsLog: Info Total build time: 13.57 seconds
+[2016.10.29-07.18.25:171][106]LogMainFrame: MainFrame: Module compiling took 13.713 seconds
+[2016.10.29-07.18.25:192][106]LogClass: Could not find existing class PositionReport in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-07.18.25:193][106]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.18.25:195][106]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.18.25:253][106]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.18.25:255][106]Warning: HotReload took 13.8s.
+[2016.10.29-07.18.25:256][106]Warning: HotReload operation took 13.8s.
+[2016.10.29-07.18.25:295][106]LogHotReload: New module detected: UE4Editor-BuildingEscape-8652.dll
+[2016.10.29-07.18.25:335][107]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-07.18.25:372][107]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2016.10.29-07.18.25:373][107]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-07.18.25:382][107]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.18.25:388][107]Warning: HotReload took  0.1s.
+[2016.10.29-07.18.33:454][611]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/PositionReport.h'
+[2016.10.29-07.18.33:484][611]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/PositionReport.cpp'
+[2016.10.29-07.18.51:594][666]LogSavePackage: Save=28.81ms
+[2016.10.29-07.18.51:594][666]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto1B9DFDA5D408C4842077B959A4CCA840F.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2016.10.29-07.18.51:595][666]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto1.umap
+[2016.10.29-07.18.51:601][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.056
+[2016.10.29-07.18.51:601][666]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2016.10.29-07.22.09:915][442]LogSavePackage: Save=20.67ms
+[2016.10.29-07.22.09:915][442]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap374315AF4DE61A8C9A4AA3BD71F2E63A.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.22.09:919][442]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.22.09:941][442]LogFileHelpers: Saving map 'NewMap' took 0.106
+[2016.10.29-07.22.14:759][741]LogSavePackage: Save=21.34ms
+[2016.10.29-07.22.14:759][741]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapC766B2654818C2BD8962A69D84223654.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.22.14:761][741]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.22.15:201][790]Recompiling BuildingEscape...
+[2016.10.29-07.22.15:201][790]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 5749 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.22.15:202][790]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.22.15:902][874]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:22:15 PM
+[2016.10.29-07.22.15:902][874]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.22.15:902][874]CompilerResultsLog: Info Target is up to date
+[2016.10.29-07.22.15:902][874]LogMainFrame: MainFrame: Module compiling took 0.705 seconds
+[2016.10.29-07.22.15:920][874]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2051 classes and 375 folders.
+[2016.10.29-07.22.15:922][874]Warning: HotReload took  0.7s.
+[2016.10.29-07.24.56:952][979]LogSavePackage: Save=20.71ms
+[2016.10.29-07.24.56:952][979]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap6361A9034A182B066E695CA7345D41DD.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.24.56:953][979]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.24.58:698][176]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.10.29-07.24.58:703][176]Recompiling BuildingEscape...
+[2016.10.29-07.24.58:703][176]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 2444 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-07.24.58:704][176]Warning: Starting HotReload took  0.0s.
+[2016.10.29-07.25.00:567][394]LogSavePackage: Save=19.76ms
+[2016.10.29-07.25.00:567][394]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap32EAE5934CD3513DE23EB48081523933.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-07.25.00:568][394]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: New page: Compilation - Oct 28, 2016, 6:25:06 PM
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.7141108 seconds
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info PositionReport.cpp
+[2016.10.29-07.25.06:751][586]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-2444.dll
+[2016.10.29-07.25.06:752][586]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2444.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2444.exp
+[2016.10.29-07.25.06:752][586]CompilerResultsLog: Info Total build time: 7.85 seconds
+[2016.10.29-07.25.06:752][586]LogMainFrame: MainFrame: Module compiling took 8.054 seconds
+[2016.10.29-07.25.06:772][586]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0014 seconds. Added 2 classes and 2 fold
