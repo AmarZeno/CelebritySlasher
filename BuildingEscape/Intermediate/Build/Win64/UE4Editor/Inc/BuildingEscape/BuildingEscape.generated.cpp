@@ -13,10 +13,14 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 	{
 	}
 	IMPLEMENT_CLASS(ABuildingEscapeGameMode, 167805301);
+	void UGrabber::StaticRegisterNativesUGrabber()
+	{
+	}
+	IMPLEMENT_CLASS(UGrabber, 3701276488);
 	void UOpenDoor::StaticRegisterNativesUOpenDoor()
 	{
 	}
-	IMPLEMENT_CLASS(UOpenDoor, 3232493719);
+	IMPLEMENT_CLASS(UOpenDoor, 2428109896);
 	void UPositionReport::StaticRegisterNativesUPositionReport()
 	{
 	}
@@ -29,6 +33,8 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_ABuildingEscapeGameMode_NoRegister();
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_ABuildingEscapeGameMode();
+	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UGrabber_NoRegister();
+	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UGrabber();
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor_NoRegister();
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor();
 	BUILDINGESCAPE_API class UClass* Z_Construct_UClass_UPositionReport_NoRegister();
@@ -68,6 +74,41 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABuildingEscapeGameMode(Z_Construct_UClass_ABuildingEscapeGameMode, &ABuildingEscapeGameMode::StaticClass, TEXT("ABuildingEscapeGameMode"), false, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABuildingEscapeGameMode);
+	UClass* Z_Construct_UClass_UGrabber_NoRegister()
+	{
+		return UGrabber::StaticClass();
+	}
+	UClass* Z_Construct_UClass_UGrabber()
+	{
+		static UClass* OuterClass = NULL;
+		if (!OuterClass)
+		{
+			Z_Construct_UClass_UActorComponent();
+			Z_Construct_UPackage__Script_BuildingEscape();
+			OuterClass = UGrabber::StaticClass();
+			if (!(OuterClass->ClassFlags & CLASS_Constructed))
+			{
+				UObjectForceRegistration(OuterClass);
+				OuterClass->ClassFlags |= 0x20B00080;
+
+
+				OuterClass->StaticLink();
+#if WITH_METADATA
+				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
+				MetaData->SetValue(OuterClass, TEXT("BlueprintSpawnableComponent"), TEXT(""));
+				MetaData->SetValue(OuterClass, TEXT("ClassGroupNames"), TEXT("Custom"));
+				MetaData->SetValue(OuterClass, TEXT("HideCategories"), TEXT("ComponentReplication"));
+				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("Grabber.h"));
+				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("Grabber.h"));
+				MetaData->SetValue(OuterClass, TEXT("OnlyDefaultConstructorDeclared"), TEXT(""));
+#endif
+			}
+		}
+		check(OuterClass->GetClass());
+		return OuterClass;
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGrabber(Z_Construct_UClass_UGrabber, &UGrabber::StaticClass, TEXT("UGrabber"), false, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGrabber);
 	UClass* Z_Construct_UClass_UOpenDoor_NoRegister()
 	{
 		return UOpenDoor::StaticClass();
@@ -89,7 +130,7 @@ void EmptyLinkFunctionForGeneratedCode1BuildingEscape() {}
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 				UProperty* NewProp_DoorCloseDelay = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("DoorCloseDelay"), RF_Public|RF_Transient|RF_MarkAsNative) UFloatProperty(CPP_PROPERTY_BASE(DoorCloseDelay, UOpenDoor), 0x0040000000000001);
 				UProperty* NewProp_PressurePlate = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("PressurePlate"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(CPP_PROPERTY_BASE(PressurePlate, UOpenDoor), 0x0040000000000001, Z_Construct_UClass_ATriggerVolume_NoRegister());
-				UProperty* NewProp_OpenAngle = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("OpenAngle"), RF_Public|RF_Transient|RF_MarkAsNative) UFloatProperty(CPP_PROPERTY_BASE(OpenAngle, UOpenDoor), 0x0040000000020001);
+				UProperty* NewProp_OpenAngle = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("OpenAngle"), RF_Public|RF_Transient|RF_MarkAsNative) UFloatProperty(CPP_PROPERTY_BASE(OpenAngle, UOpenDoor), 0x0040000000000001);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 				OuterClass->StaticLink();
 #if WITH_METADATA
@@ -157,8 +198,8 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/BuildingEscape")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0x91CAB7CC;
-			Guid.B = 0x87BD0E9D;
+			Guid.A = 0x03B0A32D;
+			Guid.B = 0xA2622F8F;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);

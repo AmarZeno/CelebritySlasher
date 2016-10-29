@@ -8,6 +8,9 @@
 #ifndef BUILDINGESCAPE_BuildingEscapeGameMode_generated_h
 	#include "BuildingEscapeGameMode.h"
 #endif
+#ifndef BUILDINGESCAPE_Grabber_generated_h
+	#include "Grabber.h"
+#endif
 #ifndef BUILDINGESCAPE_OpenDoor_generated_h
 	#include "OpenDoor.h"
 #endif

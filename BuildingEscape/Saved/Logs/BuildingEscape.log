@@ -7067,3 +7067,148 @@ LogInit: Object subsystem initialized
 [2016.10.29-20.45.19:935][342]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.45.19
 [2016.10.29-20.45.19:936][342]LogWorld: Bringing up level for play took: 0.003107
 [2016.10.29-20.45.19:937][342]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.45.19:937][342]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.079
+[2016.10.29-20.54.38:997][557]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.10.29-20.54.38:997][557]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.10.29-20.54.38:997][557]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.10.29-20.54.38:997][557]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.10.29-20.54.39:116][557]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (BGRA8)
+[2016.10.29-20.54.39:117][557]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2016.10.29-20.54.39:131][557]Lightmass on eae-d-089: 11:30 min total, 168 ms importing, 20 ms setup, 417 ms photons, 11:29 min processing, 0 ms extra exporting [19/19 mappings]. Threads: 1:20:28 hours total, 8.38 sec processing.
+[2016.10.29-20.54.39:136][557]LogStaticLightingSystem: Illumination: 8.03 sec (242 ms encoding lightmaps, 118 ms encoding shadowmaps)
+[2016.10.29-20.54.39:136][557]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.10.29-20.54.39:136][557]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.29-20.54.39:142][558]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.29-20.54.39:142][558]MapCheck: New page: NewMap - Oct 29, 2016, 7:54:39 AM
+[2016.10.29-20.54.39:186][558]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 44.157ms to complete.
+[2016.10.29-20.54.45:275][  3]LogSavePackage: Save=29.82ms
+[2016.10.29-20.54.45:275][  3]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto6B21C3C04470992627CCB20B486135EC3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto6.umap'
+[2016.10.29-20.54.45:277][  3]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto6.umap
+[2016.10.29-20.54.45:279][  3]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.053
+[2016.10.29-20.54.45:279][  3]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2016.10.29-20.57.15:243][708]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.29-21.06.58:534][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-21.06.58:534][ 11]PIE: New page: PIE session: NewMap (Oct 29, 2016, 8:06:58 AM)
+[2016.10.29-21.06.58:534][ 11]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-21.06.58:538][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
+[2016.10.29-21.06.58:539][ 11]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-21.06.58:539][ 11]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2016.10.29-21.06.58:539][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004730s)
+[2016.10.29-21.06.58:573][ 11]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-21.06.58:580][ 11]LogInit: FAudioDevice initialized.
+[2016.10.29-21.06.58:634][ 11]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-21.06.58:639][ 11]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-15.06.58
+[2016.10.29-21.06.58:639][ 11]LogWorld: Bringing up level for play took: 0.003561
+[2016.10.29-21.06.58:640][ 11]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-21.06.58:641][ 11]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.807
+[2016.10.29-21.07.03:079][470]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-21.07.05:932][777]LogText:Warning: Failed to parse argument "GameModeName" as a number (using "0" as a fallback). Please check your format string for errors: "GameMode: {GameModeName}".
+[2016.10.29-21.07.22:091][250]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 111 classes and 0 folders.
+[2016.10.29-21.07.22:556][250]LogTexture:Display: Building textures: TilePatine_N (BC5)
+[2016.10.29-21.07.22:591][250]LogTexture:Display: Building textures: TilePatine_D (AutoDXT)
+[2016.10.29-21.07.48:304][399]LogMetaData: Removing '/Game/DefaultPawn_BP.DefaultPawn_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:305][399]LogMetaData: Removing '/Game/DefaultPawn_BP.SKEL_DefaultPawn_BP_C' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:305][399]LogMetaData: Removing '/Game/DefaultPawn_BP.DefaultPawn_BP_C' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:305][399]LogMetaData: Removing '/Game/DefaultPawn_BP.DefaultPawn_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:305][399]LogMetaData: Removing '/Game/DefaultPawn_BP.DefaultPawn_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:305][399]LogMetaData: Removing '/Game/DefaultPawn_BP.DefaultPawn_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/DefaultPawn_BPt.PackageMetaData'
+[2016.10.29-21.07.48:333][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2016.10.29-21.07.48:353][399]LogSavePackage: Save=18.69ms
+[2016.10.29-21.07.48:353][399]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BP4237E4D94EA68909F1D37E8D41F87FCD.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2016.10.29-21.07.48:358][399]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset
+[2016.10.29-21.10.00:138][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2016.10.29-21.10.00:164][938]LogSavePackage: Save=18.17ms
+[2016.10.29-21.10.00:164][938]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BP4420472347F84EC45ABCB3B9743BB247.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2016.10.29-21.10.00:167][938]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset
+[2016.10.29-21.10.20:542][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2016.10.29-21.10.20:556][521]LogSavePackage: Save=10.73ms
+[2016.10.29-21.10.20:557][521]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BPD2225328458ACFEDA7DB918BA3091B54.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2016.10.29-21.10.20:558][521]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset
+[2016.10.29-21.10.21:523][632]BlueprintLog: New page: Compile DefaultPawn_BP
+[2016.10.29-21.10.21:731][632]BlueprintEditorCompileResults: Info [9857.34] Compile of DefaultPawn_BP successful! [in 208 ms] (/Game/DefaultPawn_BP.DefaultPawn_BP)
+[2016.10.29-21.10.42:844][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-21.10.42:844][899]PIE: New page: PIE session: NewMap (Oct 29, 2016, 8:10:42 AM)
+[2016.10.29-21.10.42:844][899]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-21.10.42:847][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002595s)
+[2016.10.29-21.10.42:848][899]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-21.10.42:848][899]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2016.10.29-21.10.42:848][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003850s)
+[2016.10.29-21.10.42:882][899]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-21.10.42:889][899]LogInit: FAudioDevice initialized.
+[2016.10.29-21.10.42:939][899]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-21.10.42:942][899]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-15.10.42
+[2016.10.29-21.10.42:943][899]LogWorld: Bringing up level for play took: 0.003112
+[2016.10.29-21.10.42:944][899]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-21.10.42:944][899]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.885
+[2016.10.29-21.11.04:928][389]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_400x304)
+[2016.10.29-21.11.33:633][278]LogSavePackage: Save=34.39ms
+[2016.10.29-21.11.33:633][278]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto7600D43724D9508D062CB86BFC91FE960.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto7.umap'
+[2016.10.29-21.11.33:634][278]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto7.umap
+[2016.10.29-21.11.33:637][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.062
+[2016.10.29-21.11.33:637][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.062
+[2016.10.29-21.11.33:644][278]LogSavePackage: Save=2.99ms
+[2016.10.29-21.11.33:644][278]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BPt_Auto7023EEDE94CAD41F72C0CF48E96D65B0D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/DefaultPawn_BPt_Auto7.uasset'
+[2016.10.29-21.11.33:645][278]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/DefaultPawn_BPt_Auto7.uasset
+[2016.10.29-21.11.33:645][278]LogFileHelpers: Auto-saving content packages took 0.007
+[2016.10.29-21.11.52:295][451]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP2)
+[2016.10.29-21.11.53:545][598]Cmd: DELETE
+[2016.10.29-21.11.53:546][598]Cmd: ACTOR DELETE
+[2016.10.29-21.11.53:546][598]LogEditorActor: Deleted Actor: DefaultPawn_BP_C
+[2016.10.29-21.11.53:558][598]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2016.10.29-21.12.29:621][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2016.10.29-21.12.29:642][407]LogSavePackage: Save=17.07ms
+[2016.10.29-21.12.29:642][407]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BP235518854CE71D1C2A1721966DA5283A.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2016.10.29-21.12.29:645][407]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset
+[2016.10.29-21.12.30:225][472]BlueprintLog: New page: Compile DefaultPawn_BP
+[2016.10.29-21.12.30:246][472]LogUObjectGlobals:Warning: Guid referenced by SphereComponent /Game/NewMap.NewMap:PersistentLevel.DefaultPawn_BP_2.CollisionComponent0 is already used by SphereComponent /Game/NewMap.NewMap:PersistentLevel.REINST_DefaultPawn_BP_C_0.CollisionComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-21.12.30:247][472]LogUObjectGlobals:Warning: Guid referenced by FloatingPawnMovement /Game/NewMap.NewMap:PersistentLevel.DefaultPawn_BP_2.MovementComponent0 is already used by FloatingPawnMovement /Game/NewMap.NewMap:PersistentLevel.REINST_DefaultPawn_BP_C_0.MovementComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-21.12.30:247][472]LogUObjectGlobals:Warning: Guid referenced by StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.DefaultPawn_BP_2.MeshComponent0 is already used by StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.REINST_DefaultPawn_BP_C_0.MeshComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-21.12.30:524][472]BlueprintEditorCompileResults: Info [9986.14] Compile of DefaultPawn_BP successful! [in 297 ms] (/Game/DefaultPawn_BP.DefaultPawn_BP)
+[2016.10.29-21.12.40:230][524]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn_BP_C (DefaultPawn_BP)
+[2016.10.29-21.12.46:760][282]Cmd: DELETE
+[2016.10.29-21.12.46:760][282]Cmd: ACTOR DELETE
+[2016.10.29-21.12.46:760][282]LogEditorActor: Deleted Actor: DefaultPawn_BP_C
+[2016.10.29-21.12.46:772][282]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2016.10.29-21.13.46:489][416]Running C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject" -game -rocket -progress
+[2016.10.29-21.13.46:791][416]Discovering modules, targets and source code for project...
+[2016.10.29-21.13.49:613][416]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.10.29-21.13.49:619][416]Recompiling BuildingEscape...
+[2016.10.29-21.13.49:619][416]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 7450 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-21.13.57:490][416]CompilerResultsLog: New page: Compilation - Oct 29, 2016, 8:13:57 AM
+[2016.10.29-21.13.57:490][416]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (new files with reflected types)
+[2016.10.29-21.13.57:490][416]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-21.13.57:490][416]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.5794908 seconds
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info Performing 4 actions (4 in parallel)
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info Grabber.cpp
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info BuildingEscape.generated.cpp
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info OpenDoor.cpp
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info [4/4] Link UE4Editor-BuildingEscape-7450.dll
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-7450.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-7450.exp
+[2016.10.29-21.13.57:491][416]CompilerResultsLog: Info Total build time: 7.73 seconds
+[2016.10.29-21.13.57:491][416]LogMainFrame: MainFrame: Module compiling took 7.878 seconds
+[2016.10.29-21.13.57:521][416]LogClass: Could not find existing class Grabber in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-21.13.57:521][416]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-21.13.57:525][416]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-21.13.57:573][416]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0017 seconds. Added 4 classes and 2 folders.
+[2016.10.29-21.13.57:575][416]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-21.13.57:765][416]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2053 classes and 375 folders.
+[2016.10.29-21.13.57:765][416]Warning: HotReload took  8.2s.
+[2016.10.29-21.13.57:766][416]Warning: HotReload operation took  8.2s.
+[2016.10.29-21.13.57:791][416]LogHotReload: New module detected: UE4Editor-BuildingEscape-7450.dll
+[2016.10.29-21.13.57:815][417]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-21.13.57:875][417]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0018 seconds. Added 4 classes and 2 folders.
+[2016.10.29-21.13.57:877][417]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-21.13.58:070][417]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2053 classes and 375 folders.
+[2016.10.29-21.13.58:075][417]Warning: HotReload took  0.3s.
+[2016.10.29-21.14.10:159][554]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/Grabber.h'
+[2016.10.29-21.14.10:180][554]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Source/BuildingEscape/Grabber.cpp'
+[2016.10.29-21.15.01:437][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultPawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset" SILENT=true
+[2016.10.29-21.15.01:475][676]LogSavePackage: Save=26.00ms
+[2016.10.29-21.15.01:475][676]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/DefaultPawn_BPE330AF414E80AB63E2881E90C5729448.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset'
+[2016.10.29-21.15.01:478][676]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/DefaultPawn_BP.uasset
+[2016.10.29-21.15.01:970][732]BlueprintLog: New page: Compile DefaultPawn_BP
+[2016.10.29-21.15.02:462][732]BlueprintEditorCompileResults: Info [0138.08] Compile of DefaultPawn_BP successful! [in 492 ms] (/Game/DefaultPawn_BP.DefaultPawn_BP)
+[2016.10.29-21.15.51:635][674]LogSavePackage: Save=89.54ms
+[2016.10.29-21.15.51:635][674]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap7D844F46495C834E8157BFB91F5A9B9C.tmp' to '../../../../.
