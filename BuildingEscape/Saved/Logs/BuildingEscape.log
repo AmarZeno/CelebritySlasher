@@ -6028,4 +6028,212 @@ LogInit: Object subsystem initialized
 [2016.10.29-19.12.27:962][859]CompilerResultsLog: New page: Compilation - Oct 29, 2016, 6:12:27 AM
 [2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (modules to compile have changed)
 [2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Compiling game modules for hot reload
-[2016.10.29-19.12.27:962][859]CompilerResu
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.9484301 seconds
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info BuildingEscape.generated.cpp
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info OpenDoor.cpp
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info [3/3] Link UE4Editor-BuildingEscape-9381.dll
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-9381.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-9381.exp
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Total build time: 8.27 seconds
+[2016.10.29-19.12.27:962][859]LogMainFrame: MainFrame: Module compiling took 8.690 seconds
+[2016.10.29-19.12.27:983][859]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 3 classes and 2 folders.
+[2016.10.29-19.12.27:984][859]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-19.12.28:014][859]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-19.12.28:014][859]Warning: HotReload took  9.1s.
+[2016.10.29-19.13.54:914][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2016.10.29-19.14.29:612][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-19.14.34:293][749]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2016.10.29-19.14.41:568][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.14.41:569][611]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:14:41 AM)
+[2016.10.29-19.14.41:569][611]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.14.41:571][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002619s)
+[2016.10.29-19.14.41:572][611]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.14.41:572][611]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2016.10.29-19.14.41:572][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003582s)
+[2016.10.29-19.14.41:605][611]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.14.41:611][611]LogInit: FAudioDevice initialized.
+[2016.10.29-19.14.41:662][611]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.14.41:666][611]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.14.41
+[2016.10.29-19.14.41:666][611]LogWorld: Bringing up level for play took: 0.003424
+[2016.10.29-19.14.41:668][611]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.14.41:668][611]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.14.41:668][611]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.286
+[2016.10.29-19.15.17:734][878]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2016.10.29-19.18.20:732][867]LogHotReload: New module detected: UE4Editor-BuildingEscape-8116.dll
+[2016.10.29-19.18.22:743][874]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-19.18.22:774][874]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-19.18.22:776][874]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-19.18.22:776][874]LogUObjectGlobals:Warning: Guid referenced by OpenDoor /Game/NewMap.NewMap:PersistentLevel.SM_Door.OpenDoor is already used by HOTRELOADED_OpenDoor_2 /Game/NewMap.NewMap:PersistentLevel.SM_Door.HOTRELOADED_OpenDoor_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-19.18.22:777][874]LogUObjectGlobals:Warning: Guid referenced by OpenDoor /Game/NewMap.NewMap:PersistentLevel.SM_Door2.OpenDoor is already used by HOTRELOADED_OpenDoor_2 /Game/NewMap.NewMap:PersistentLevel.SM_Door2.HOTRELOADED_OpenDoor_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-19.18.22:808][874]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 3 classes and 2 folders.
+[2016.10.29-19.18.22:809][874]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-19.18.22:836][874]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-19.18.22:841][874]Warning: HotReload took  0.1s.
+[2016.10.29-19.22.04:628][438]LogHotReload: New module detected: UE4Editor-BuildingEscape-3655.dll
+[2016.10.29-19.22.06:304][444]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-19.22.06:336][444]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 3 classes and 2 folders.
+[2016.10.29-19.22.06:337][444]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-19.22.06:368][444]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-19.22.06:372][444]Warning: HotReload took  0.1s.
+[2016.10.29-19.22.23:001][711]MapCheck: New page: Map Check
+[2016.10.29-19.22.23:010][711]LightingResults: New page: Lighting Build - Oct 29, 2016, 6:22:23 AM
+[2016.10.29-19.22.23:020][711]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.29-19.22.23:024][711]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.29-19.22.23:024][711]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.29-19.22.23:025][711]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.29-19.22.23:025][711]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11932
+[2016.10.29-19.22.27:531][711]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.29-19.22.27:532][711]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.29-19.22.27:532][711]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.29-19.22.27:532][711]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.29-19.22.27:532][711]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.29-19.22.27:532][711]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.29-19.22.27:618][711]LogEditorBuildUtils: Build time 0:04
+[2016.10.29-19.22.28:284][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.22.28:284][730]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:22:28 AM)
+[2016.10.29-19.22.28:284][730]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.22.28:287][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2016.10.29-19.22.28:288][730]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.22.28:288][730]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2016.10.29-19.22.28:288][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004564s)
+[2016.10.29-19.22.28:315][730]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.22.28:322][730]LogInit: FAudioDevice initialized.
+[2016.10.29-19.22.28:375][730]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.22.28:378][730]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.22.28
+[2016.10.29-19.22.28:379][730]LogWorld: Bringing up level for play took: 0.002908
+[2016.10.29-19.22.28:380][730]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.22.28:380][730]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.22.28:380][730]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.435
+[2016.10.29-19.22.30:331][961]Job is a success!
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (BGRA8)
+[2016.10.29-19.22.34:499][413]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2016.10.29-19.22.34:508][413]LogStaticLightingSystem: Illumination: 7.73 sec (253 ms encoding lightmaps, 119 ms encoding shadowmaps)
+[2016.10.29-19.22.34:508][413]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.10.29-19.22.34:508][413]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.29-19.22.34:510][413]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.29-19.22.34:510][413]MapCheck: New page: UEDPIE_0_NewMap - Oct 29, 2016, 6:22:34 AM
+[2016.10.29-19.22.34:511][413]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.10.29-19.22.34:552][413]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 41.518ms to complete.
+[2016.10.29-19.22.36:887][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.22.36:888][668]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:22:36 AM)
+[2016.10.29-19.22.36:888][668]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.22.36:891][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002946s)
+[2016.10.29-19.22.36:891][668]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.22.36:891][668]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2016.10.29-19.22.36:892][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003750s)
+[2016.10.29-19.22.36:921][668]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.22.36:927][668]LogInit: FAudioDevice initialized.
+[2016.10.29-19.22.36:982][668]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.22.36:985][668]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.22.36
+[2016.10.29-19.22.36:985][668]LogWorld: Bringing up level for play took: 0.002712
+[2016.10.29-19.22.36:987][668]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.22.36:987][668]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.22.36:987][668]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 1.042
+[2016.10.29-19.22.57:391][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-19.23.19:029][208]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.10.29-19.23.31:598][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2016.10.29-19.24.00:635][884]PIE:Warning: Warning Mobility of SM_Door2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.34:118][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2016.10.29-19.36.35:389][260]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.35:389][260]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.35:811][289]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.35:811][289]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.36:197][316]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.36:197][316]PIE:Warning: Warning Mobility of Wall_400x301 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2016.10.29-19.36.50:366][857]MapCheck: New page: Map Check
+[2016.10.29-19.36.50:373][857]LightingResults: New page: Lighting Build - Oct 29, 2016, 6:36:50 AM
+[2016.10.29-19.36.50:386][857]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.29-19.36.50:390][857]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.29-19.36.50:390][857]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.29-19.36.50:391][857]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.29-19.36.50:391][857]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11932
+[2016.10.29-19.36.54:898][857]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.29-19.36.54:898][857]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.29-19.36.54:898][857]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.29-19.36.54:899][857]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.29-19.36.54:899][857]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.29-19.36.54:899][857]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.29-19.36.54:989][857]LogEditorBuildUtils: Build time 0:04
+[2016.10.29-19.36.58:253][129]Job is a success!
+[2016.10.29-19.36.58:586][130]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.29-19.36.58:586][130]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.10.29-19.36.58:586][130]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.10.29-19.36.58:586][130]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.10.29-19.36.58:713][130]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (BGRA8)
+[2016.10.29-19.36.58:713][130]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2016.10.29-19.36.58:733][130]Lightmass on eae-d-089: 3.15 sec total, 164 ms importing, 22 ms setup, 443 ms photons, 2.51 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 17.4 sec total, 11.1 sec processing.
+[2016.10.29-19.36.58:740][130]LogStaticLightingSystem: Illumination: 8.35 sec (278 ms encoding lightmaps, 124 ms encoding shadowmaps)
+[2016.10.29-19.36.58:740][130]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.10.29-19.36.58:740][130]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.29-19.36.58:749][131]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.29-19.36.58:749][131]MapCheck: New page: NewMap - Oct 29, 2016, 6:36:58 AM
+[2016.10.29-19.36.58:802][131]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 52.797ms to complete.
+[2016.10.29-19.37.17:173][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.37.17:173][290]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:37:17 AM)
+[2016.10.29-19.37.17:173][290]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.37.17:175][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002529s)
+[2016.10.29-19.37.17:176][290]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.37.17:176][290]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2016.10.29-19.37.17:176][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003592s)
+[2016.10.29-19.37.17:206][290]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.37.17:213][290]LogInit: FAudioDevice initialized.
+[2016.10.29-19.37.17:267][290]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.37.17:271][290]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.37.17
+[2016.10.29-19.37.17:272][290]LogWorld: Bringing up level for play took: 0.003308
+[2016.10.29-19.37.17:273][290]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.37.17:273][290]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.37.17:273][290]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.655
+[2016.10.29-19.38.21:948][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.38.21:949][337]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:38:21 AM)
+[2016.10.29-19.38.21:949][337]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.38.21:952][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002755s)
+[2016.10.29-19.38.21:952][337]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.38.21:952][337]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2016.10.29-19.38.21:953][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003870s)
+[2016.10.29-19.38.21:981][337]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.38.21:988][337]LogInit: FAudioDevice initialized.
+[2016.10.29-19.38.22:041][337]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.38.22:044][337]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.38.22
+[2016.10.29-19.38.22:044][337]LogWorld: Bringing up level for play took: 0.002741
+[2016.10.29-19.38.22:045][337]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.38.22:046][337]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.38.22:046][337]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.119
+[2016.10.29-19.38.28:563][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2016.10.29-19.39.06:649][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-19.39.06:649][ 43]PIE: New page: PIE session: NewMap (Oct 29, 2016, 6:39:06 AM)
+[2016.10.29-19.39.06:649][ 43]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-19.39.06:654][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004816s)
+[2016.10.29-19.39.06:654][ 43]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-19.39.06:655][ 43]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2016.10.29-19.39.06:655][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005872s)
+[2016.10.29-19.39.06:685][ 43]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-19.39.06:693][ 43]LogInit: FAudioDevice initialized.
+[2016.10.29-19.39.06:749][ 43]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-19.39.06:753][ 43]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-13.39.06
+[2016.10.29-19.39.06:753][ 43]LogWorld: Bringing up level for play took: 0.003461
+[2016.10.29-19.39.06:755][ 43]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-19.39.06:755][ 43]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-19.39.06:755][ 43]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.829
+[2016.10.29-19.39.14:111][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2016.10.29-19.40.20:307][193]LogSavePackage: Save=35.87ms
+[2016.10.29-19.40.20:307][193]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto4EC522B064A87CB332E47AE99657C4D63.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto4.umap'
+[2016.10.29-19.40.20:309][193]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto4.umap
+[2016.10.29-19.40.20:312][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.074
+[2016.10.29-19.40.20:312][193]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2016.10.29-19.58.25:936][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-20.04.17:202][524]LogHotReload: New module detected: UE4Editor-BuildingEscape-874.dll
+[2016.10.29-20.04.18:891][530]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-20.04.18:977][530]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-20.04.18:980][530]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-20.04.19:017][530]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0016 seconds. Added 3 classes and 2 folders.
+[2016.10.29-20.04.19:018][530]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-20.04.19:048][530]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-20.04.19:051][530]Warning: HotReload took  0.2s.
+[2016.10.29-20.05.02:593][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.05.02:593][ 69]PIE: New page: PIE session: NewMap (Oct 29, 2
