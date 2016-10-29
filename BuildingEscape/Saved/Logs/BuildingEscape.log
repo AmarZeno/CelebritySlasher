@@ -5452,4 +5452,510 @@ LogInit: Object subsystem initialized
 [2016.10.29-18.46.16:607][466]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
 [2016.10.29-18.46.17:745][589]LogSavePackage: Save=73.07ms
 [2016.10.29-18.46.17:745][589]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap394E94114E157CAC1E65EF9B93F74AD9.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
-[2016.10.29-18.46.17:746][589]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEs
+[2016.10.29-18.46.17:746][589]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-18.46.20:701][939]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.10.29-18.46.20:705][939]Recompiling BuildingEscape...
+[2016.10.29-18.46.20:705][939]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 2549 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-18.46.20:762][939]Warning: Starting HotReload took  0.1s.
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: New page: Compilation - Oct 29, 2016, 5:46:36 AM
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.8736684 seconds
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info OpenDoor.cpp
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info [2/2] Link UE4Editor-BuildingEscape-2549.dll
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2549.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-2549.exp
+[2016.10.29-18.46.36:396][794]CompilerResultsLog: Info Total build time: 15.47 seconds
+[2016.10.29-18.46.36:396][794]LogMainFrame: MainFrame: Module compiling took 15.695 seconds
+[2016.10.29-18.46.36:417][794]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0016 seconds. Added 3 classes and 2 folders.
+[2016.10.29-18.46.36:418][794]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-18.46.36:478][794]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-18.46.36:478][794]Warning: HotReload took 15.8s.
+[2016.10.29-18.46.38:070][973]LogSavePackage: Save=71.91ms
+[2016.10.29-18.46.38:070][973]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap3230A187403B2D99E76F77A667162BDF.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-18.46.38:071][973]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-18.48.10:850][387]LogTexture:Display: Building textures: T_Ground_Moss_N (BC5)
+[2016.10.29-18.48.11:325][387]LogTexture:Display: Building textures: T_ground_Moss_D (AutoDXT)
+[2016.10.29-18.48.13:393][387]LogTexture:Display: Building textures: T_Perlin_Noise_M (AutoDXT)
+[2016.10.29-18.48.15:257][387]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2016.10.29-18.48.15:366][387]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2016.10.29-18.48.15:373][387]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.48.15:397][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2016.10.29-18.48.15:400][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2016.10.29-18.48.15:404][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2016.10.29-18.48.15:408][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_5, compiling. 
+[2016.10.29-18.48.15:412][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2016.10.29-18.48.15:416][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2016.10.29-18.48.15:420][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2016.10.29-18.48.17:072][479]MaterialEditorStats: Info Base pass shader with static lighting: 106 instructions
+[2016.10.29-18.48.17:072][479]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 75 instructions
+[2016.10.29-18.48.17:072][479]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.48.17:072][479]MaterialEditorStats: Info Texture samplers: 6/16
+[2016.10.29-18.49.34:733][148]LogTexture:Display: Building textures: T_Wood_Walnut_N (BC5)
+[2016.10.29-18.49.35:158][148]LogTexture:Display: Building textures: T_Wood_Walnut_D (AutoDXT)
+[2016.10.29-18.50.10:996][576]Cmd: STAT FPS
+[2016.10.29-18.50.11:769][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x302)
+[2016.10.29-18.50.44:090][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-18.52.33:314][117]LogTexture:Display: Building textures: T_Brick_Clay_New_M (AutoDXT)
+[2016.10.29-18.52.35:577][117]LogTexture:Display: Building textures: T_Brick_Clay_New_N (BC5)
+[2016.10.29-18.52.36:114][117]LogTexture:Display: Building textures: T_Brick_Clay_New_D (AutoDXT)
+[2016.10.29-18.52.56:960][115]LogTexture:Display: Building textures: T_Concrete_Grime_D (AutoDXT)
+[2016.10.29-18.52.59:055][115]LogTexture:Display: Building textures: T_Metal_Rust_N (BC5)
+[2016.10.29-18.53.47:071][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2016.10.29-18.54.09:307][248]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.54.09:376][248]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.54.09:383][248]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.54.09:413][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2016.10.29-18.54.09:417][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2016.10.29-18.54.09:421][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.54.09:425][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2016.10.29-18.54.09:428][248]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2016.10.29-18.54.10:609][318]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.54.10:609][318]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.54.10:609][318]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.54.10:609][318]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.55.02:880][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.02:889][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.02:914][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.02:917][ 70]0.414709
+[2016.10.29-18.55.02:920][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.02:929][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.02:959][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.02:961][ 70]0.395970
+[2016.10.29-18.55.02:963][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.02:970][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.02:996][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.02:998][ 70]0.359186
+[2016.10.29-18.55.03:000][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:007][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:034][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:037][ 70]0.289613
+[2016.10.29-18.55.03:040][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:049][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:078][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:080][ 70]0.128847
+[2016.10.29-18.55.03:083][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:092][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:117][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:120][ 70]0.164702
+[2016.10.29-18.55.03:123][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:133][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:161][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:163][ 70]0.351398
+[2016.10.29-18.55.03:166][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:176][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:205][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:208][ 70]0.504859
+[2016.10.29-18.55.03:211][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:222][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:250][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:252][ 70]0.577726
+[2016.10.29-18.55.03:255][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:266][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:294][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:296][ 70]0.582309
+[2016.10.29-18.55.03:299][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:310][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:339][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:342][ 70]0.587873
+[2016.10.29-18.55.03:345][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:352][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:377][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:379][ 70]0.571020
+[2016.10.29-18.55.03:382][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:391][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:415][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:417][ 70]0.575279
+[2016.10.29-18.55.03:420][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:427][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:454][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:456][ 70]0.593841
+[2016.10.29-18.55.03:460][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:468][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:497][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:500][ 70]0.627253
+[2016.10.29-18.55.03:503][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:512][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:542][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:544][ 70]0.679084
+[2016.10.29-18.55.03:547][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:555][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:581][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:587][ 70]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:598][ 70]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:625][ 70]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.03:627][ 70]0.737821
+[2016.10.29-18.55.03:789][ 81]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.03:796][ 81]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.03:826][ 81]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.04:819][146]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.55.04:819][146]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.55.04:819][146]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.55.04:819][146]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.55.05:433][199]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.05:439][199]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.05:464][199]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.05:467][199]0.773363
+[2016.10.29-18.55.05:657][212]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.05:665][212]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.05:692][212]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.06:606][273]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.55.06:607][273]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.55.06:607][273]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.55.06:607][273]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.55.12:468][791]LogMaterialEditor: Saving and Compiling material M_Chair
+[2016.10.29-18.55.13:206][791]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.13:220][791]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.13:238][791]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.13:268][791]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.55.13:284][791]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.15:892][791]LogSavePackage: Save=16.52ms
+[2016.10.29-18.55.15:892][791]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/M_ChairFFF0CE6A47DF04AF8B8B92AFD71187C7.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2016.10.29-18.55.15:896][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2016.10.29-18.55.15:902][791]MaterialEditorStats: Info Base pass shader with static lighting: 109 instructions
+[2016.10.29-18.55.15:902][791]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 79 instructions
+[2016.10.29-18.55.15:902][791]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.55.15:902][791]MaterialEditorStats: Info Texture samplers: 5/16
+[2016.10.29-18.55.22:916][510]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.55.22:985][510]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.55.22:991][510]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.55.23:016][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2016.10.29-18.55.23:018][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2016.10.29-18.55.23:022][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.55.23:026][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2016.10.29-18.55.23:030][510]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2016.10.29-18.55.23:901][559]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.55.23:901][559]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.55.23:901][559]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.55.23:901][559]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.00:559][578]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:565][578]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:593][578]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:596][578]0.609620
+[2016.10.29-18.56.00:616][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:625][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:650][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:653][579]0.589716
+[2016.10.29-18.56.00:656][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:667][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:695][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:696][579]0.454768
+[2016.10.29-18.56.00:699][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:707][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:732][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:735][579]0.321738
+[2016.10.29-18.56.00:739][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:748][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:777][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:780][579]0.260417
+[2016.10.29-18.56.00:783][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:792][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:822][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:825][579]0.228693
+[2016.10.29-18.56.00:828][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:835][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:859][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:862][579]0.241613
+[2016.10.29-18.56.00:864][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:876][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:906][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:909][579]0.296280
+[2016.10.29-18.56.00:913][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:924][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:951][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:954][579]0.388920
+[2016.10.29-18.56.00:957][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.00:964][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.00:989][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.00:993][579]0.461283
+[2016.10.29-18.56.00:996][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.01:005][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.01:034][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.01:036][579]0.536231
+[2016.10.29-18.56.01:039][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.01:050][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.01:078][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.01:080][579]0.598483
+[2016.10.29-18.56.01:083][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.01:092][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.01:116][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.01:119][579]0.632764
+[2016.10.29-18.56.01:122][579]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.01:131][579]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.01:161][579]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.01:163][579]0.638483
+[2016.10.29-18.56.01:309][588]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.01:319][588]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.01:349][588]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.02:327][647]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.02:327][647]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.02:327][647]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.02:327][647]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.03:778][765]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.03:784][765]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.03:811][765]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.03:814][765]0.638483
+[2016.10.29-18.56.03:917][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.03:927][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.03:955][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.03:958][771]0.629842
+[2016.10.29-18.56.03:960][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.03:968][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.03:993][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.03:996][771]0.562886
+[2016.10.29-18.56.03:998][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:007][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:031][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:034][771]0.456911
+[2016.10.29-18.56.04:037][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:047][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:076][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:079][771]0.377451
+[2016.10.29-18.56.04:083][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:093][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:122][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:125][771]0.313194
+[2016.10.29-18.56.04:127][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:138][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:166][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:169][771]0.299920
+[2016.10.29-18.56.04:172][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:181][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:204][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:206][771]0.324091
+[2016.10.29-18.56.04:208][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:217][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:242][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:245][771]0.358430
+[2016.10.29-18.56.04:248][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:256][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:286][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:290][771]0.424152
+[2016.10.29-18.56.04:292][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:300][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:324][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:327][771]0.520833
+[2016.10.29-18.56.04:329][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:337][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:363][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:365][771]0.594481
+[2016.10.29-18.56.04:368][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:376][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:401][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:405][771]0.664466
+[2016.10.29-18.56.04:407][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:415][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:440][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:442][771]0.702874
+[2016.10.29-18.56.04:445][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:453][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:478][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:480][771]0.732803
+[2016.10.29-18.56.04:484][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:492][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:517][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:520][771]0.753536
+[2016.10.29-18.56.04:523][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:530][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:555][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:558][771]0.762981
+[2016.10.29-18.56.04:561][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:570][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:599][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:601][771]0.782984
+[2016.10.29-18.56.04:604][771]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:611][771]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:637][771]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:713][775]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:723][775]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:753][775]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.04:756][775]0.803165
+[2016.10.29-18.56.04:841][780]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.04:849][780]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.04:877][780]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.05:829][836]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.05:829][836]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.05:829][836]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.05:829][836]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.07:076][934]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.07:082][934]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.07:109][934]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.07:182][938]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.07:193][938]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.07:219][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.08:807][996]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.08:807][996]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.08:807][996]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.08:807][996]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.11:136][185]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.11:142][185]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.11:169][185]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.11:250][190]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.11:258][190]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.11:285][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.12:242][248]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.12:242][248]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.12:242][248]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.12:242][248]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.17:021][638]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.17:027][638]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.17:055][638]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.17:170][645]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.17:179][645]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.17:206][645]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.18:043][694]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.18:056][694]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.18:082][694]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.18:185][700]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.18:195][700]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.18:226][700]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.19:197][757]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.19:197][757]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.19:197][757]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.19:197][757]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.19:816][806]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.19:823][806]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.19:850][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.19:970][813]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.19:978][813]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.20:006][813]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.21:020][872]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.21:020][872]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.21:020][872]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.21:020][872]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.23:054][903]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.23:061][903]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.23:089][903]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.23:094][903]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.23:101][903]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.23:127][903]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.24:151][961]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.24:151][961]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.24:151][961]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.24:151][961]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.24:897][ 22]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.24:904][ 22]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.24:933][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.25:055][ 29]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.25:062][ 29]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.25:089][ 29]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.26:047][ 87]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.26:047][ 87]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.26:047][ 87]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.26:047][ 87]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.34:044][517]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.34:050][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.34:076][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.34:078][517]0.665689
+[2016.10.29-18.56.34:082][517]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.34:092][517]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.34:120][517]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.35:125][575]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.35:125][575]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.35:125][575]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.35:125][575]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.37:233][743]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.37:240][743]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.37:264][743]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.37:364][749]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.37:372][749]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.37:401][749]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.38:324][806]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.38:324][806]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.38:324][806]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.38:324][806]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.40:426][980]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.40:432][980]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.40:461][980]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.40:535][984]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.40:544][984]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.40:571][984]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.41:505][ 40]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.41:505][ 40]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.41:506][ 40]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.41:506][ 40]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.42:919][158]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.42:925][158]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.42:955][158]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.43:046][163]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.43:055][163]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.43:086][163]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.43:992][218]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.43:992][218]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.43:992][218]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.43:992][218]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.44:481][255]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.44:487][255]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.44:516][255]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.44:595][260]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.44:605][260]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.44:632][260]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.45:606][317]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.45:606][317]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.45:606][317]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.45:606][317]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.48:698][576]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.48:704][576]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.48:730][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.48:734][576]0.920034
+[2016.10.29-18.56.48:807][581]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.48:818][581]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.48:848][581]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.49:812][640]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.49:812][640]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.49:812][640]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.49:812][640]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.52:788][891]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.52:794][891]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.52:821][891]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.52:823][891]0.923800
+[2016.10.29-18.56.52:891][895]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.52:902][895]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.52:933][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2016.10.29-18.56.53:863][951]MaterialEditorStats: Info Base pass shader with static lighting: 79 instructions
+[2016.10.29-18.56.53:863][951]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 48 instructions
+[2016.10.29-18.56.53:863][951]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.56.53:863][951]MaterialEditorStats: Info Texture samplers: 4/16
+[2016.10.29-18.56.57:525][252]LogMaterialEditor: Saving and Compiling material M_Chair
+[2016.10.29-18.56.57:871][252]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.10.29-18.56.57:885][252]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.56.57:899][252]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.56.57:928][252]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2016.10.29-18.56.57:945][252]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.10.29-18.57.00:398][252]LogSavePackage: Save=14.42ms
+[2016.10.29-18.57.00:398][252]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/M_ChairCD3D0B2C4F47E26116B35F8FFA1DD7A8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset'
+[2016.10.29-18.57.00:400][252]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/Materials/M_Chair.uasset
+[2016.10.29-18.57.00:403][252]MaterialEditorStats: Info Base pass shader with static lighting: 109 instructions
+[2016.10.29-18.57.00:403][252]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 79 instructions
+[2016.10.29-18.57.00:403][252]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.10.29-18.57.00:403][252]MaterialEditorStats: Info Texture samplers: 5/16
+[2016.10.29-18.58.07:280][477]MapCheck: New page: Map Check
+[2016.10.29-18.58.07:290][477]LightingResults: New page: Lighting Build - Oct 29, 2016, 5:58:07 AM
+[2016.10.29-18.58.07:299][477]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.29-18.58.07:301][477]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.29-18.58.07:301][477]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.29-18.58.07:302][477]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.29-18.58.07:302][477]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11932
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.29-18.58.11:809][477]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.29-18.58.11:893][477]LogEditorBuildUtils: Build time 0:04
+[2016.10.29-18.58.12:020][477]LogSavePackage: Save=72.97ms
+[2016.10.29-18.58.12:020][477]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto2EBA600034A7B762A1F4588B7E103B5E5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2016.10.29-18.58.12:021][477]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto2.umap
+[2016.10.29-18.58.12:026][477]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.098
+[2016.10.29-18.58.12:026][477]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2016.10.29-18.58.12:039][477]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2016.10.29-18.58.12:043][477]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2016.10.29-18.58.12:059][478]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2016.10.29-18.58.12:064][478]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Chair, compiling. 
+[2016.10.29-18.58.12:087][479]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2016.10.29-18.58.12:092][479]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Brick_Clay_New, compiling. 
+[2016.10.29-18.58.12:107][480]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2016.10.29-18.58.12:111][480]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
+[2016.10.29-18.58.16:061][682]Job is a success!
