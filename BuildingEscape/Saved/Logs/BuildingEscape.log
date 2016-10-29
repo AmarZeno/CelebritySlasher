@@ -6236,4 +6236,834 @@ LogInit: Object subsystem initialized
 [2016.10.29-20.04.19:048][530]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2052 classes and 375 folders.
 [2016.10.29-20.04.19:051][530]Warning: HotReload took  0.2s.
 [2016.10.29-20.05.02:593][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2016.10.29-20.05.02:593][ 69]PIE: New page: PIE session: NewMap (Oct 29, 2
+[2016.10.29-20.05.02:593][ 69]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:05:02 AM)
+[2016.10.29-20.05.02:593][ 69]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.05.02:601][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007279s)
+[2016.10.29-20.05.02:602][ 69]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.05.02:602][ 69]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2016.10.29-20.05.02:602][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008765s)
+[2016.10.29-20.05.02:632][ 69]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.05.02:639][ 69]LogInit: FAudioDevice initialized.
+[2016.10.29-20.05.02:696][ 69]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.05.02:700][ 69]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.05.02
+[2016.10.29-20.05.02:701][ 69]LogWorld: Bringing up level for play took: 0.003733
+[2016.10.29-20.05.02:702][ 69]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.05.02:703][ 69]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.05.02:703][ 69]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.806
+[2016.10.29-20.05.09:372][801]LogEditorViewport: Clicking on Actor (LMB): DefaultPawn (DefaultPawn)
+[2016.10.29-20.08.00:226][613]LogSavePackage: Save=100.76ms
+[2016.10.29-20.08.00:226][613]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapAA1E63064A542FAF8FC9B8B4AD61FB53.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-20.08.00:230][613]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-20.13.00:891][617]LogRenderer: Reallocating scene render targets to support 1432x924 (Frame:334931).
+[2016.10.29-20.15.15:438][202]LogSavePackage: Save=11.93ms
+[2016.10.29-20.15.15:438][202]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/SM_DoorD7BD30374B5F8E1D9EC5F4A25EBC5079.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/SM_Door.uasset'
+[2016.10.29-20.15.15:443][202]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/StarterContent/Props/SM_Door.uasset
+[2016.10.29-20.15.18:865][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.15.18:865][580]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:15:18 AM)
+[2016.10.29-20.15.18:865][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.15.18:871][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005032s)
+[2016.10.29-20.15.18:872][580]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.15.18:872][580]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2016.10.29-20.15.18:872][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006185s)
+[2016.10.29-20.15.18:903][580]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.15.18:910][580]LogInit: FAudioDevice initialized.
+[2016.10.29-20.15.18:962][580]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.15.18:966][580]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.15.18
+[2016.10.29-20.15.18:966][580]LogWorld: Bringing up level for play took: 0.003161
+[2016.10.29-20.15.18:968][580]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.15.18:968][580]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.15.18:968][580]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 1.083
+[2016.10.29-20.15.30:225][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.15.30:225][918]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:15:30 AM)
+[2016.10.29-20.15.30:225][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.15.30:228][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002721s)
+[2016.10.29-20.15.30:229][918]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.15.30:229][918]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2016.10.29-20.15.30:229][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003672s)
+[2016.10.29-20.15.30:260][918]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.15.30:266][918]LogInit: FAudioDevice initialized.
+[2016.10.29-20.15.30:318][918]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.15.30:321][918]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.15.30
+[2016.10.29-20.15.30:321][918]LogWorld: Bringing up level for play took: 0.002831
+[2016.10.29-20.15.30:323][918]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.15.30:323][918]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.15.30:323][918]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.438
+[2016.10.29-20.19.02:957][505]LogActorFactory: Actor Factory created SM_GlassWindow
+[2016.10.29-20.19.04:165][643]LogActorFactory: Actor Factory created SM_GlassWindow
+[2016.10.29-20.19.58:147][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2016.10.29-20.20.00:003][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-20.20.01:710][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x305)
+[2016.10.29-20.20.02:399][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x306)
+[2016.10.29-20.20.05:308][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.10.29-20.20.06:381][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x303)
+[2016.10.29-20.20.07:138][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.10.29-20.22.24:222][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.22.24:223][483]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:22:24 AM)
+[2016.10.29-20.22.24:223][483]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.22.24:226][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003049s)
+[2016.10.29-20.22.24:227][483]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.22.24:227][483]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2016.10.29-20.22.24:227][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004775s)
+[2016.10.29-20.22.24:255][483]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.22.24:262][483]LogInit: FAudioDevice initialized.
+[2016.10.29-20.22.24:318][483]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.22.24:322][483]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.22.24
+[2016.10.29-20.22.24:322][483]LogWorld: Bringing up level for play took: 0.003120
+[2016.10.29-20.22.24:323][483]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.22.24:324][483]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.22.24:324][483]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.441
+[2016.10.29-20.22.34:852][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.22.34:852][700]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:22:34 AM)
+[2016.10.29-20.22.34:852][700]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.22.34:855][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002946s)
+[2016.10.29-20.22.34:856][700]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.22.34:856][700]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2016.10.29-20.22.34:856][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004140s)
+[2016.10.29-20.22.34:882][700]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.22.34:890][700]LogInit: FAudioDevice initialized.
+[2016.10.29-20.22.34:942][700]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.22.34:945][700]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.22.34
+[2016.10.29-20.22.34:946][700]LogWorld: Bringing up level for play took: 0.002858
+[2016.10.29-20.22.34:947][700]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.22.34:947][700]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.22.34:947][700]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 1.065
+[2016.10.29-20.23.17:472][880]LogSavePackage: Save=83.91ms
+[2016.10.29-20.23.17:472][880]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap47763D324A21A62D7FA806BF60F98738.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-20.23.17:475][880]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-20.24.23:733][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2016.10.29-20.24.43:102][ 54]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2016.10.29-20.24.52:977][995]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume)
+[2016.10.29-20.25.22:525][501]Cmd: TRANSACTION UNDO
+[2016.10.29-20.25.22:525][501]LogEditorTransaction: Undo Scale Actors
+[2016.10.29-20.29.39:018][505]0.239810
+[2016.10.29-20.29.39:018][505]0.245842
+[2016.10.29-20.29.39:030][506]0.258745
+[2016.10.29-20.29.39:072][510]0.272630
+[2016.10.29-20.29.39:072][510]0.279896
+[2016.10.29-20.29.39:085][511]0.287357
+[2016.10.29-20.29.39:096][512]0.309359
+[2016.10.29-20.29.39:107][513]0.331538
+[2016.10.29-20.29.39:119][514]0.346266
+[2016.10.29-20.29.39:131][515]0.360994
+[2016.10.29-20.29.39:131][515]0.368285
+[2016.10.29-20.29.39:143][516]0.375723
+[2016.10.29-20.29.39:164][518]0.405180
+[2016.10.29-20.29.39:175][519]0.419909
+[2016.10.29-20.29.39:196][521]0.442187
+[2016.10.29-20.29.39:233][525]0.449850
+[2016.10.29-20.29.39:254][527]0.457623
+[2016.10.29-20.29.39:275][529]0.464565
+[2016.10.29-20.29.39:375][540]0.480185
+[2016.10.29-20.29.39:396][542]0.496188
+[2016.10.29-20.29.39:407][543]0.504322
+[2016.10.29-20.29.39:418][544]0.512538
+[2016.10.29-20.29.39:430][545]0.520833
+[2016.10.29-20.29.39:441][546]0.529204
+[2016.10.29-20.29.39:453][547]0.537645
+[2016.10.29-20.29.39:465][548]0.546155
+[2016.10.29-20.29.39:494][551]0.554730
+[2016.10.29-20.29.39:505][552]0.563367
+[2016.10.29-20.29.39:517][553]0.566441
+[2016.10.29-20.29.39:529][554]0.575279
+[2016.10.29-20.29.39:544][555]0.569878
+[2016.10.29-20.29.39:556][556]0.578852
+[2016.10.29-20.29.39:585][559]0.573674
+[2016.10.29-20.29.39:614][562]0.568639
+[2016.10.29-20.29.39:651][566]0.573011
+[2016.10.29-20.29.39:671][568]0.582309
+[2016.10.29-20.29.39:671][568]0.577726
+[2016.10.29-20.29.39:692][570]0.573295
+[2016.10.29-20.29.39:729][574]0.569021
+[2016.10.29-20.29.40:153][624]0.588150
+[2016.10.29-20.29.40:165][625]0.603538
+[2016.10.29-20.29.40:166][625]0.613258
+[2016.10.29-20.29.40:196][628]0.642549
+[2016.10.29-20.29.40:217][630]0.652353
+[2016.10.29-20.29.40:248][633]0.662176
+[2016.10.29-20.29.40:401][651]0.665689
+[2016.10.29-20.29.40:413][652]0.669347
+[2016.10.29-20.29.40:443][655]0.677083
+[2016.10.29-20.29.40:444][655]0.681158
+[2016.10.29-20.29.40:455][656]0.685366
+[2016.10.29-20.29.40:467][657]0.689706
+[2016.10.29-20.29.40:487][659]0.698771
+[2016.10.29-20.29.40:499][660]0.708333
+[2016.10.29-20.29.40:510][661]0.713295
+[2016.10.29-20.29.40:522][662]0.718373
+[2016.10.29-20.29.40:748][688]0.737821
+[2016.10.29-20.29.40:786][692]0.750723
+[2016.10.29-20.29.40:826][696]0.764118
+[2016.10.29-20.29.40:838][697]0.773363
+[2016.10.29-20.29.40:860][699]0.777979
+[2016.10.29-20.29.40:882][701]0.787337
+[2016.10.29-20.29.40:894][702]0.796722
+[2016.10.29-20.29.40:905][703]0.806132
+[2016.10.29-20.29.40:905][703]0.801745
+[2016.10.29-20.29.40:927][705]0.811230
+[2016.10.29-20.29.40:937][706]0.807006
+[2016.10.29-20.29.40:950][707]0.816563
+[2016.10.29-20.29.40:987][711]0.826141
+[2016.10.29-20.29.41:336][752]0.818222
+[2016.10.29-20.29.41:381][756]0.814434
+[2016.10.29-20.29.41:393][757]0.804717
+[2016.10.29-20.29.41:430][761]0.795018
+[2016.10.29-20.29.41:468][765]0.785337
+[2016.10.29-20.29.41:480][766]0.781528
+[2016.10.29-20.29.41:525][771]0.768083
+[2016.10.29-20.29.41:651][785]0.758345
+[2016.10.29-20.29.41:721][793]0.748624
+[2016.10.29-20.29.41:751][796]0.738923
+[2016.10.29-20.29.41:782][799]0.729241
+[2016.10.29-20.29.41:889][811]0.719580
+[2016.10.29-20.29.42:482][881]0.723565
+[2016.10.29-20.29.42:609][895]0.727677
+[2016.10.29-20.29.42:683][903]0.731915
+[2016.10.29-20.29.42:713][906]0.736275
+[2016.10.29-20.29.42:733][908]0.740756
+[2016.10.29-20.29.42:754][910]0.745356
+[2016.10.29-20.29.42:825][918]0.754903
+[2016.10.29-20.29.43:262][970]0.745720
+[2016.10.29-20.29.43:273][971]0.736570
+[2016.10.29-20.29.59:634][665]0.454768
+[2016.10.29-20.29.59:646][666]0.445000
+[2016.10.29-20.29.59:669][668]0.435262
+[2016.10.29-20.29.59:692][670]0.425556
+[2016.10.29-20.29.59:693][670]0.415885
+[2016.10.29-20.29.59:728][673]0.396655
+[2016.10.29-20.29.59:753][675]0.387102
+[2016.10.29-20.29.59:766][676]0.377595
+[2016.10.29-20.29.59:813][681]0.358733
+[2016.10.29-20.29.59:833][683]0.349386
+[2016.10.29-20.29.59:844][684]0.340101
+[2016.10.29-20.29.59:922][693]0.326093
+[2016.10.29-20.30.15:616][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.10.29-20.30.17:652][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2016.10.29-20.33.18:182][206]LogSavePackage: Save=88.53ms
+[2016.10.29-20.33.18:182][206]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto55DB54A9B48916E73A4670C8FC24F83F1.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto5.umap'
+[2016.10.29-20.33.18:183][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto5.umap
+[2016.10.29-20.33.18:187][206]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.115
+[2016.10.29-20.33.18:187][206]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2016.10.29-20.34.39:696][451]LogHotReload: New module detected: UE4Editor-BuildingEscape-6262.dll
+[2016.10.29-20.34.41:376][457]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-20.34.41:409][457]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-20.34.41:411][457]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-20.34.41:450][457]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0020 seconds. Added 3 classes and 2 folders.
+[2016.10.29-20.34.41:452][457]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-20.34.41:496][457]LogContentBrowser: Native class hierarchy populated in 0.0154 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-20.34.41:501][457]Warning: HotReload took  0.1s.
+[2016.10.29-20.35.53:307][733]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2016.10.29-20.35.55:527][822]LogSavePackage: Save=96.78ms
+[2016.10.29-20.35.55:527][822]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap0A392A024DFC1A84016169869A5F3BB5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-20.35.55:530][822]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-20.35.55:556][822]LogFileHelpers: Saving map 'NewMap' took 1.396
+[2016.10.29-20.42.57:979][522]Recompiling BuildingEscape...
+[2016.10.29-20.42.57:979][522]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 6279 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-20.42.57:981][522]Warning: Starting HotReload took  0.9s.
+[2016.10.29-20.43.03:338][122]MapCheck: New page: Map Check
+[2016.10.29-20.43.03:351][122]LightingResults: New page: Lighting Build - Oct 29, 2016, 7:43:03 AM
+[2016.10.29-20.43.03:363][122]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.29-20.43.03:365][122]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.29-20.43.03:365][122]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.29-20.43.03:366][122]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.29-20.43.03:366][122]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11932
+[2016.10.29-20.43.07:875][122]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.29-20.43.07:875][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.29-20.43.07:875][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.29-20.43.07:875][122]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.29-20.43.07:876][122]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.29-20.43.07:876][122]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.29-20.43.07:971][122]LogEditorBuildUtils: Build time 0:04
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: New page: Compilation - Oct 29, 2016, 7:43:07 AM
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (working set of source files changed)
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info Parsing headers for BuildingEscapeEditor
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\BuildingEscape.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\BuildingEscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info Reflection code generated for BuildingEscapeEditor in 2.8411781 seconds
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info OpenDoor.cpp
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info BuildingEscape.generated.cpp
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info [3/3] Link UE4Editor-BuildingEscape-6279.dll
+[2016.10.29-20.43.07:974][122]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-6279.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape-6279.exp
+[2016.10.29-20.43.07:975][122]CompilerResultsLog: Info Total build time: 8.32 seconds
+[2016.10.29-20.43.07:975][122]LogMainFrame: MainFrame: Module compiling took 10.002 seconds
+[2016.10.29-20.43.07:993][122]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-20.43.07:995][122]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-20.43.08:028][122]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0024 seconds. Added 3 classes and 2 folders.
+[2016.10.29-20.43.08:029][122]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-20.43.08:055][122]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-20.43.08:056][122]Warning: HotReload took 11.0s.
+[2016.10.29-20.43.08:056][122]LogHotReload: New module detected: UE4Editor-BuildingEscape-6279.dll
+[2016.10.29-20.43.08:078][123]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-20.43.08:108][123]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0017 seconds. Added 3 classes and 2 folders.
+[2016.10.29-20.43.08:109][123]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-20.43.08:121][123]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-20.43.08:125][123]Warning: HotReload took  0.0s.
+[2016.10.29-20.43.08:948][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.43.08:948][157]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:43:08 AM)
+[2016.10.29-20.43.08:949][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.43.08:952][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003160s)
+[2016.10.29-20.43.08:953][157]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.43.08:953][157]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2016.10.29-20.43.08:953][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004458s)
+[2016.10.29-20.43.08:982][157]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.43.08:989][157]LogInit: FAudioDevice initialized.
+[2016.10.29-20.43.09:043][157]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.43.09:046][157]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.43.09
+[2016.10.29-20.43.09:047][157]LogWorld: Bringing up level for play took: 0.003366
+[2016.10.29-20.43.09:048][157]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.43.09:048][157]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.43.09:049][157]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap -0.812
+[2016.10.29-20.43.10:968][384]Job is a success!
+[2016.10.29-20.43.49:238][944]LogSavePackage: Save=87.99ms
+[2016.10.29-20.43.49:238][944]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMapC1B8B4A34F861B97C8A79B8101E2F7F4.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-20.43.49:242][944]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-20.43.58:318][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.43.58:318][ 10]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:43:58 AM)
+[2016.10.29-20.43.58:318][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.43.58:323][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004664s)
+[2016.10.29-20.43.58:324][ 10]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.43.58:324][ 10]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2016.10.29-20.43.58:324][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006099s)
+[2016.10.29-20.43.58:355][ 10]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.43.58:362][ 10]LogInit: FAudioDevice initialized.
+[2016.10.29-20.43.58:422][ 10]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.43.58:428][ 10]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.43.58
+[2016.10.29-20.43.58:428][ 10]LogWorld: Bringing up level for play took: 0.004400
+[2016.10.29-20.43.58:430][ 10]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.43.58:430][ 10]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.43.58:430][ 10]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.57
+[2016.10.29-20.44.54:337][375]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:341][375]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:348][376]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:350][376]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:356][377]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:359][377]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:364][378]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:367][378]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:373][379]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:375][379]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:381][380]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:383][380]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:389][381]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:392][381]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:398][382]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:400][382]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:406][383]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:409][383]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:414][384]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:417][384]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:424][385]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:426][385]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:432][386]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:434][386]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:441][387]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:444][387]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:450][388]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:453][388]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:459][389]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:461][389]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:467][390]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:470][390]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:477][391]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:479][391]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:486][392]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:488][392]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:494][393]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:496][393]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:502][394]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:505][394]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:511][395]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:513][395]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:519][396]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:521][396]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:527][397]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:530][397]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:536][398]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:538][398]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:544][399]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:546][399]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:552][400]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:555][400]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:561][401]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:563][401]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:569][402]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:572][402]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:578][403]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:580][403]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:586][404]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:588][404]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:594][405]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:597][405]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:603][406]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:605][406]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:611][407]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:613][407]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:619][408]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:622][408]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:628][409]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:630][409]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:636][410]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:638][410]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:644][411]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:647][411]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:653][412]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:655][412]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:661][413]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:663][413]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:669][414]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:671][414]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:678][415]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:680][415]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:686][416]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:688][416]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:694][417]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:697][417]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:702][418]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:705][418]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:711][419]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:713][419]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:719][420]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:721][420]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:728][421]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:730][421]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:736][422]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:738][422]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:744][423]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:746][423]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:752][424]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:755][424]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:761][425]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:763][425]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:769][426]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:771][426]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:777][427]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:780][427]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:786][428]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:788][428]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:794][429]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:797][429]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:802][430]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:805][430]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:811][431]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:813][431]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:819][432]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:821][432]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:827][433]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:830][433]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:836][434]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:838][434]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:844][435]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:847][435]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:852][436]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:855][436]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:861][437]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:864][437]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:869][438]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:872][438]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:878][439]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:880][439]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:886][440]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:888][440]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:894][441]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:897][441]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:902][442]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:905][442]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:911][443]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:913][443]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:919][444]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:922][444]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:928][445]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:930][445]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:936][446]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:938][446]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:944][447]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:946][447]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:952][448]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:955][448]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:961][449]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:963][449]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:969][450]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:972][450]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:978][451]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:980][451]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:986][452]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:989][452]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:994][453]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.54:997][453]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:002][454]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:005][454]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:011][455]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:013][455]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:019][456]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:022][456]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:027][457]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:030][457]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:036][458]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:038][458]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:044][459]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:047][459]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:052][460]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:055][460]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:061][461]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:063][461]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:069][462]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:071][462]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:077][463]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:080][463]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:086][464]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:089][464]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:095][465]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:097][465]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:103][466]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:105][466]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:111][467]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:114][467]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:120][468]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:122][468]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:128][469]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:130][469]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:136][470]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:138][470]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:144][471]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:147][471]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:153][472]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:155][472]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:161][473]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:164][473]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:170][474]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:172][474]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:178][475]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:180][475]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:186][476]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:188][476]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:194][477]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:197][477]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:203][478]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:205][478]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:211][479]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:213][479]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:219][480]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:221][480]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:228][481]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:230][481]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:236][482]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:238][482]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:244][483]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:247][483]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:253][484]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:255][484]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:261][485]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:263][485]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:269][486]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:271][486]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:278][487]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:280][487]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:286][488]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:288][488]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:294][489]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:297][489]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:303][490]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:305][490]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:311][491]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:313][491]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:319][492]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:322][492]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:328][493]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:330][493]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:336][494]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:338][494]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:344][495]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:347][495]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:353][496]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:355][496]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:361][497]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:363][497]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:370][498]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:372][498]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:378][499]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:380][499]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:386][500]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:388][500]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:394][501]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:397][501]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:402][502]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:405][502]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:411][503]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:413][503]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:419][504]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:422][504]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:428][505]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:430][505]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:436][506]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:439][506]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:445][507]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:447][507]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:453][508]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:455][508]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:461][509]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:464][509]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:470][510]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:472][510]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:478][511]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:481][511]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:486][512]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:489][512]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:495][513]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:497][513]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:503][514]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:505][514]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:511][515]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:514][515]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:519][516]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:522][516]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:528][517]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:530][517]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:536][518]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:538][518]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:545][519]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:547][519]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:553][520]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:555][520]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:561][521]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:563][521]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:569][522]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:572][522]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:578][523]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:580][523]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:586][524]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:588][524]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:594][525]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:597][525]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:603][526]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:605][526]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:611][527]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:614][527]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:619][528]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:622][528]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:628][529]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:630][529]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:636][530]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:639][530]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:644][531]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:647][531]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:653][532]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:655][532]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:661][533]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:663][533]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:669][534]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:672][534]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:678][535]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:680][535]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:686][536]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:688][536]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:695][537]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:697][537]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:703][538]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:705][538]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:711][539]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:713][539]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:719][540]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:722][540]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:728][541]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:730][541]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:736][542]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:738][542]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:744][543]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:747][543]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:753][544]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:755][544]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:761][545]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:763][545]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:769][546]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:772][546]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:778][547]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:780][547]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:786][548]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:788][548]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:794][549]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:797][549]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:803][550]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:805][550]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:811][551]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:813][551]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:819][552]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:822][552]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:828][553]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:830][553]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:836][554]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:838][554]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:844][555]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:847][555]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:853][556]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:855][556]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:861][557]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:864][557]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:871][558]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:874][558]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:880][559]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:883][559]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:888][560]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:891][560]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:897][561]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:899][561]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:905][562]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:908][562]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:913][563]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:916][563]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:922][564]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:924][564]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:930][565]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:932][565]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:938][566]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:941][566]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:947][567]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:949][567]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:955][568]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:958][568]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:963][569]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:966][569]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:972][570]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:975][570]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:980][571]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:983][571]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:989][572]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:991][572]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.55:997][573]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:000][573]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:006][574]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:009][574]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:014][575]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:016][575]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:022][576]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:025][576]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:031][577]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:033][577]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:039][578]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:041][578]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:047][579]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:050][579]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:056][580]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:058][580]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:064][581]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:066][581]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:072][582]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:075][582]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:081][583]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:083][583]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:089][584]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:092][584]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:098][585]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:100][585]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:106][586]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:108][586]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:114][587]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:116][587]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:122][588]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:125][588]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:131][589]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:133][589]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:139][590]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:142][590]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:147][591]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:150][591]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:156][592]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:158][592]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:164][593]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:166][593]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:172][594]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:175][594]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:181][595]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:183][595]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:189][596]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:192][596]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:198][597]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:200][597]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:206][598]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:208][598]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:214][599]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:216][599]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:222][600]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:225][600]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:231][601]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:233][601]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:239][602]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:241][602]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:247][603]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:249][603]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:256][604]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:258][604]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:264][605]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:266][605]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:272][606]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:275][606]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:280][607]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:283][607]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:289][608]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:291][608]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:297][609]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:299][609]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:305][610]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:308][610]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:314][611]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:316][611]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:322][612]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:325][612]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:330][613]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:333][613]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:339][614]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:341][614]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:347][615]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:349][615]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:355][616]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:358][616]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:364][617]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:366][617]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:372][618]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:374][618]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:380][619]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:383][619]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:389][620]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:391][620]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:397][621]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:399][621]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:405][622]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:408][622]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:414][623]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:416][623]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:422][624]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:425][624]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:430][625]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:433][625]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:439][626]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.44.56:441][626]LogText:Warning: Failed to parse argument "DropPath" as a number (using "0" as a fallback). Please check your format string for errors: "Move into "{DropPath}"".
+[2016.10.29-20.45.05:206][619]Cmd: ACTOR HIDE SELECTED
+[2016.10.29-20.45.07:871][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.45.07:871][937]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:45:07 AM)
+[2016.10.29-20.45.07:871][937]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.45.07:875][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003395s)
+[2016.10.29-20.45.07:876][937]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.45.07:876][937]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2016.10.29-20.45.07:876][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004580s)
+[2016.10.29-20.45.07:906][937]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.45.07:913][937]LogInit: FAudioDevice initialized.
+[2016.10.29-20.45.07:965][937]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.45.07:969][937]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.45.07
+[2016.10.29-20.45.07:969][937]LogWorld: Bringing up level for play took: 0.003231
+[2016.10.29-20.45.07:970][937]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
+[2016.10.29-20.45.07:970][937]LogTemp:Warning: SM_Rock_7 is at X=-150.000 Y=250.000 Z=30.000 !
+[2016.10.29-20.45.07:971][937]PIE: Info Play in editor start time for /Game/UEDPIE_0_NewMap 0.112
+[2016.10.29-20.45.17:589][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.10.29-20.45.17:597][ 74]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2016.10.29-20.45.19:838][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.29-20.45.19:839][342]PIE: New page: PIE session: NewMap (Oct 29, 2016, 7:45:19 AM)
+[2016.10.29-20.45.19:839][342]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2016.10.29-20.45.19:842][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003581s)
+[2016.10.29-20.45.19:843][342]LogAIModule: Creating AISystem for world NewMap
+[2016.10.29-20.45.19:843][342]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2016.10.29-20.45.19:843][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004680s)
+[2016.10.29-20.45.19:874][342]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.10.29-20.45.19:883][342]LogInit: FAudioDevice initialized.
+[2016.10.29-20.45.19:932][342]LogWorld: Game class is 'BuildingEscapeGameMode'
+[2016.10.29-20.45.19:935][342]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2016.10.29-14.45.19
+[2016.10.29-20.45.19:936][342]LogWorld: Bringing up level for play took: 0.003107
+[2016.10.29-20.45.19:937][342]LogTemp:Warning: SM_Chair_4 is at X=-415.000 Y=-375.000 Z=20.000 !
