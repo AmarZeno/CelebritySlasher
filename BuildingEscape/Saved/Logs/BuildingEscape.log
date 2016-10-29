@@ -5959,3 +5959,73 @@ LogInit: Object subsystem initialized
 [2016.10.29-18.58.12:107][480]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
 [2016.10.29-18.58.12:111][480]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Grime, compiling. 
 [2016.10.29-18.58.16:061][682]Job is a success!
+[2016.10.29-18.58.16:318][683]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.29-18.58.16:318][683]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.10.29-18.58.16:318][683]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.10.29-18.58.16:318][683]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.10.29-18.58.16:446][683]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (BGRA8)
+[2016.10.29-18.58.16:446][683]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2016.10.29-18.58.16:465][683]Lightmass on eae-d-089: 2.08 sec total, 119 ms importing, 22 ms setup, 387 ms photons, 1.54 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 10.6 sec total, 4.96 sec processing.
+[2016.10.29-18.58.16:472][683]LogStaticLightingSystem: Illumination: 9.16 sec (212 ms encoding lightmaps, 122 ms encoding shadowmaps)
+[2016.10.29-18.58.16:472][683]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.10.29-18.58.16:472][683]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.10.29-18.58.16:481][684]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.29-18.58.16:481][684]MapCheck: New page: NewMap - Oct 29, 2016, 5:58:16 AM
+[2016.10.29-18.58.16:523][684]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.945ms to complete.
+[2016.10.29-18.58.39:923][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2016.10.29-18.58.49:823][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2016.10.29-18.58.50:561][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2016.10.29-18.59.37:100][163]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.10.29-19.00.14:679][207]LogSavePackage: Save=75.27ms
+[2016.10.29-19.00.14:679][207]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap3FEE129A4824A108FF28D79DF38A425D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-19.00.14:682][207]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-19.04.12:318][332]LogHotReload: New module detected: UE4Editor-BuildingEscape-6250.dll
+[2016.10.29-19.04.14:330][339]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-19.04.14:366][339]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-19.04.14:368][339]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-19.04.14:368][339]LogUObjectGlobals:Warning: Guid referenced by OpenDoor /Game/NewMap.NewMap:PersistentLevel.SM_Door.OpenDoor is already used by HOTRELOADED_OpenDoor_0 /Game/NewMap.NewMap:PersistentLevel.SM_Door.HOTRELOADED_OpenDoor_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.10.29-19.04.14:398][339]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0016 seconds. Added 3 classes and 2 folders.
+[2016.10.29-19.04.14:399][339]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-19.04.14:424][339]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-19.04.14:428][339]Warning: HotReload took  0.1s.
+[2016.10.29-19.04.25:219][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.10.29-19.04.25:854][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.10.29-19.08.47:276][ 23]LogHotReload: New module detected: UE4Editor-BuildingEscape-5357.dll
+[2016.10.29-19.08.49:289][ 30]LogHotReload: Starting Hot-Reload from IDE
+[2016.10.29-19.08.49:321][ 30]LogClass: Could not find existing class OpenDoor in package /Script/BuildingEscape for HotReload, assuming new class
+[2016.10.29-19.08.49:323][ 30]LogHotReload: Re-instancing OpenDoor after hot-reload.
+[2016.10.29-19.08.49:355][ 30]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0015 seconds. Added 3 classes and 2 folders.
+[2016.10.29-19.08.49:356][ 30]Warning: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.10.29-19.08.49:385][ 30]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2052 classes and 375 folders.
+[2016.10.29-19.08.49:389][ 30]Warning: HotReload took  0.1s.
+[2016.10.29-19.09.37:880][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2016.10.29-19.09.39:252][840]Cmd: DELETE
+[2016.10.29-19.09.39:252][840]Cmd: ACTOR DELETE
+[2016.10.29-19.09.39:253][840]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.10.29-19.09.39:262][840]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2016.10.29-19.09.42:879][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2016.10.29-19.10.00:941][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2016.10.29-19.10.04:829][777]Cmd: TRANSACTION UNDO
+[2016.10.29-19.10.04:829][777]LogEditorTransaction: Undo Clicking on Actors
+[2016.10.29-19.10.05:386][835]Cmd: TRANSACTION UNDO
+[2016.10.29-19.10.05:386][835]LogEditorTransaction: Undo Marquee Select
+[2016.10.29-19.10.05:799][878]Cmd: TRANSACTION UNDO
+[2016.10.29-19.10.05:799][878]LogEditorTransaction: Undo Move Actors
+[2016.10.29-19.10.06:149][917]Cmd: TRANSACTION UNDO
+[2016.10.29-19.10.06:149][917]LogEditorTransaction: Undo Move Actors
+[2016.10.29-19.10.37:822][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x301)
+[2016.10.29-19.11.43:656][158]LogSavePackage: Save=77.39ms
+[2016.10.29-19.11.43:656][158]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap_Auto3B1C2AA5E472FE8F04FC7EA92614AADD8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2016.10.29-19.11.43:657][158]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/Autosaves/Game/NewMap_Auto3.umap
+[2016.10.29-19.11.43:659][158]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.098
+[2016.10.29-19.11.43:659][158]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2016.10.29-19.12.19:278][333]Recompiling BuildingEscape...
+[2016.10.29-19.12.19:279][333]Launching UnrealBuildTool... [C:/Program Files/Epic Games/4.12/Engine/Binaries/DotNET/UnrealBuildTool.exe BuildingEscape -ModuleWithSuffix BuildingEscape 9381 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/BuildingEscape.uproject"  -2015]
+[2016.10.29-19.12.19:280][333]Warning: Starting HotReload took  0.4s.
+[2016.10.29-19.12.22:742][676]LogSavePackage: Save=80.93ms
+[2016.10.29-19.12.22:742][676]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Saved/NewMap9325F10F420F45CA51B42DA66D3C629E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap'
+[2016.10.29-19.12.22:746][676]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/BuildingEscape/Content/NewMap.umap
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: New page: Compilation - Oct 29, 2016, 6:12:27 AM
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Creating makefile for hot reloading BuildingEscape (modules to compile have changed)
+[2016.10.29-19.12.27:962][859]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.29-19.12.27:962][859]CompilerResu
