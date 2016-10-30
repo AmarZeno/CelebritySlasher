@@ -57,7 +57,15 @@ void UGrabber::TickComponent( float DeltaTime, ELevelTick TickType, FActorCompon
 	);
 
 	// Ray-cast out to reach distance
+	FHitResult Hit;
 
+	GetWorld()->LineTraceSingleByObjectType(
+		OUT Hit,
+		PlayerViewPointLocation,
+		LineTraceEnd,
+		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
+
+	);
 	// See what we hit
 
 	//
