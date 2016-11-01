@@ -27,20 +27,9 @@ void UGyroMotion::BeginPlay()
 
 	Player = GetOwner();
 
-	GravityX = -0.2;
-
-	GravityY = -0.2;
-
 	UE_LOG(LogTemp, Warning, TEXT("GyroMotion reporting!"));
 
-	Player->GetComponents(Comps);
-	if (Comps.Num() > 0)
-	{
-		FoundComp = Comps[0];
-		//do stuff with FoundComp
-
-	
-	}
+	GetCameraComponent();
 }
 
 
@@ -51,6 +40,18 @@ void UGyroMotion::TickComponent( float DeltaTime, ELevelTick TickType, FActorCom
 
 	// ...
 
+	TransferMotionToCamera();
+}
+
+void UGyroMotion::GetCameraComponent() {
+	Player->GetComponents(Comps);
+	if (Comps.Num() > 0)
+	{
+		FoundComp = Comps[0];
+	}
+}
+
+void UGyroMotion::TransferMotionToCamera() {
 	FVector Tilt;
 	FVector RotationRate;
 	FVector Gravity;
@@ -62,38 +63,15 @@ void UGyroMotion::TickComponent( float DeltaTime, ELevelTick TickType, FActorCom
 		OUT Gravity,
 		OUT Acceleration);
 
-	//if ((GravityX - (roundf(Gravity.X * 10 * 10) / 10) > 2) || (GravityX - (roundf(Gravity.X * 10 * 10) / 10) < -2)) {
-	//	GravityX = -2 + roundf(Gravity.X * 10 * 10) / 10;
-	//}
+	FoundComp->AddLocalRotation(FRotator(0, -RotationRate.Y, 0));
 
-	//if ((GravityY - (roundf(-Gravity.Y * 10 * 10) / 10) > 2) || (GravityY - (roundf(-Gravity.Y * 10 * 10) / 10) < -2)) {
-	//	GravityY = -2 + roundf(-Gravity.Y * 10 * 10) / 10;
-	//}
-
-	/*if ((GravityX - (roundf(RotationRate.X * 10 * 10) / 10) > 0.2) || (GravityX - (roundf(RotationRate.X * 10 * 10) / 10) < -0.2)) {
-		GravityX = -0.2 + roundf(RotationRate.X * 10 * 10) / 10;
-	}
-
-	if ((GravityY - (roundf(-RotationRate.Y * 10) / 10) > 0.2) || (GravityY - (roundf(-RotationRate.Y * 10) / 10) < -0.2)) {
-		GravityY = -0.2 + roundf(-RotationRate.Y * 10) / 10;
-	}*/
-
-//	Player->SetActorRotation(FRotator(GravityX, GravityY, 0));
-
-	//Player->AddActorLocalRotation(FRotator(-RotationRate.X, -RotationRate.Y, -RotationRate.Z));
-
-	FoundComp->AddLocalRotation(FRotator(-RotationRate.X, -RotationRate.Y, 0));
-
-	//Player->GetComponentsByClass(UCameraComponent);
-
-	//Player->setactorlocalrotat AddActorLocalRotation(FRotator(Gravity.X, Gravity.Y, Gravity.Z));
-	print(FString::Printf(TEXT("TiltRate X : %f / Y : %f / Z : %f"), Tilt.X, Tilt.Y, Tilt.Z));
+	// Print on screen
+	/*print(FString::Printf(TEXT("TiltRate X : %f / Y : %f / Z : %f"), Tilt.X, Tilt.Y, Tilt.Z));
 	print(FString::Printf(TEXT("RotationRate X : %f / Y : %f / Z : %f"), RotationRate.X, RotationRate.Y, RotationRate.Z));
 	print(FString::Printf(TEXT("Gravity X : %f / Y : %f / Z : %f"), Gravity.X, Gravity.Y, Gravity.Z));
-	print(FString::Printf(TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z));
+	print(FString::Printf(TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z));*/
 
 	UE_LOG(LogTemp, Warning, TEXT("RotationRate X : %f / Y : %f / Z : %f"), RotationRate.X, RotationRate.Y, RotationRate.Z);
 	UE_LOG(LogTemp, Warning, TEXT("Gravity X : %f / Y : %f / Z : %f"), Gravity.X, Gravity.Y, Gravity.Z);
 	UE_LOG(LogTemp, Warning, TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z);
 }
-

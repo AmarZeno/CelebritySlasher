@@ -20,16 +20,16 @@ public:
 	
 	// Called every frame
 	virtual void TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction ) override;
-
 		
 	AActor* Player;
-
-	float GravityX;
-	float GravityY;
 
 	UPROPERTY(EditAnywhere)
 	TArray<UCameraComponent*> Comps;
 
 	UPROPERTY(EditAnywhere)
 	UCameraComponent* FoundComp;
+
+	void TransferMotionToCamera();
+
+	void GetCameraComponent();
 };
