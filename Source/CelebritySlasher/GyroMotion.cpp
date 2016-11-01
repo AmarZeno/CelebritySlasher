@@ -28,7 +28,7 @@ void UGyroMotion::BeginPlay()
 	Player = GetOwner();
 
 	// Hack. TODO Should be updated later to get location from player start
-	Player->SetActorLocation(FVector(Player->GetActorLocation().X, Player->GetActorLocation().Y, 780));
+	Player->SetActorLocation(FVector(Player->GetActorLocation().X, Player->GetActorLocation().Y, 4202));
 
 	UE_LOG(LogTemp, Warning, TEXT("GyroMotion reporting!"));
 
