@@ -21,8 +21,9 @@ void ULookAtAndMove::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
-	
+	UE_LOG(LogTemp, Warning, TEXT("LookAt and move reporting!"));
+
+	Enemy = GetOwner();
 }
 
 
@@ -34,3 +35,8 @@ void ULookAtAndMove::TickComponent( float DeltaTime, ELevelTick TickType, FActor
 	// ...
 }
 
+void ULookAtAndMove::LookAtCamera()
+{
+	/*FRotator *EnemyRot = FRotationMatrix::MakeFromX(Enemy->GetActorLocation() - actorLoc).Rotator();
+	Enemy->SetActorRotation(EnemyRot);*/
+}

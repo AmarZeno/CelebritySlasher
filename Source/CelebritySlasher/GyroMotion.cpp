@@ -74,7 +74,7 @@ void UGyroMotion::TransferMotionToCamera() {
 	print(FString::Printf(TEXT("Gravity X : %f / Y : %f / Z : %f"), Gravity.X, Gravity.Y, Gravity.Z));
 	print(FString::Printf(TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z));*/
 
-	UE_LOG(LogTemp, Warning, TEXT("RotationRate X : %f / Y : %f / Z : %f"), RotationRate.X, RotationRate.Y, RotationRate.Z);
+	/*UE_LOG(LogTemp, Warning, TEXT("RotationRate X : %f / Y : %f / Z : %f"), RotationRate.X, RotationRate.Y, RotationRate.Z);
 	UE_LOG(LogTemp, Warning, TEXT("Gravity X : %f / Y : %f / Z : %f"), Gravity.X, Gravity.Y, Gravity.Z);
-	UE_LOG(LogTemp, Warning, TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z);
+	UE_LOG(LogTemp, Warning, TEXT("Acceleration X : %f / Y : %f / Z : %f"), Acceleration.X, Acceleration.Y, Acceleration.Z);*/
 }
