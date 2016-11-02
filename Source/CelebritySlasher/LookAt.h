@@ -3,17 +3,17 @@
 #pragma once
 
 #include "Components/ActorComponent.h"
-#include "LookAtAndMove.generated.h"
+#include "LookAt.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class CELEBRITYSLASHER_API ULookAtAndMove : public UActorComponent
+class CELEBRITYSLASHER_API ULookAt : public UActorComponent
 {
 	GENERATED_BODY()
 
 public:	
 	// Sets default values for this component's properties
-	ULookAtAndMove();
+	ULookAt();
 
 	// Called when the game starts
 	virtual void BeginPlay() override;
@@ -21,7 +21,7 @@ public:
 	// Called every frame
 	virtual void TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction ) override;
 
-	void LookAtCamera();
-	
 	AActor *Enemy;
+
+	void LookAtCamera();
 };
