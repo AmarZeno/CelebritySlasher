@@ -24,5 +24,10 @@ public:
 	AActor *Enemy;
 
 	void MoveTowardsPlayer();
-	
+
+	//UPROPERTY(EditAnywhere)
+	//TArray<UCharacterMovementComponent*> Comps;
+
+	//UPROPERTY(EditAnywhere)
+	//	UCharacterMovementComponent* FoundComp;
 };

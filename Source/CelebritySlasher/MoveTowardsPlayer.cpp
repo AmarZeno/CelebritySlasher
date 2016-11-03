@@ -39,5 +39,14 @@ void UMoveTowardsPlayer::MoveTowardsPlayer() {
 	LocationDifference.Normalize();
 
 	Enemy->SetActorLocation(FVector(Enemy->GetActorLocation().X - LocationDifference.X, Enemy->GetActorLocation().Y, Enemy->GetActorLocation().Z));
+
+
+	//Enemy->GetComponents(Comps);
+	//if (Comps.Num() > 0)
+	//{
+	//	FoundComp = Comps[1];
+	//}
+	//
+	//FoundComp->appl
 }
 
