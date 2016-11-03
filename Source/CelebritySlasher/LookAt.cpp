@@ -25,6 +25,8 @@ void ULookAt::BeginPlay()
 	UE_LOG(LogTemp, Warning, TEXT("LookAt reporting!"));
 
 	Enemy = GetOwner();
+
+	LookAtCamera();
 }
 
 
@@ -33,7 +35,7 @@ void ULookAt::TickComponent( float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent( DeltaTime, TickType, ThisTickFunction );
 
-	LookAtCamera();
+	
 }
 
 void ULookAt::LookAtCamera()
@@ -61,7 +63,7 @@ void ULookAt::LookAtCamera()
 		FRotator NewControlRotation = Direction.Rotation();
 
 		// Hack adding 90 to correct the offset
-		NewControlRotation.Yaw = FRotator::ClampAxis(NewControlRotation.Yaw + 90);
+		NewControlRotation.Yaw = FRotator::ClampAxis(NewControlRotation.Yaw);
 
 		Enemy->SetActorRelativeRotation(NewControlRotation);
 

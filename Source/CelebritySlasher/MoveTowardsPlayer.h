@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "EnemyCharacter.h"
 #include "Components/ActorComponent.h"
 #include "MoveTowardsPlayer.generated.h"
 
@@ -21,9 +22,15 @@ public:
 	// Called every frame
 	virtual void TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction ) override;
 
-	AActor *Enemy;
+	AEnemyCharacter *Enemy;
+
+	FVector LocationDifference;
+
+	float RandomActionValue;
 
 	void MoveTowardsPlayer();
+
+	void TriggerZombieAction();
 
 	//UPROPERTY(EditAnywhere)
 	//TArray<UCharacterMovementComponent*> Comps;
