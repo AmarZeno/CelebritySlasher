@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\CelebritySlasher.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{2DDEA719-9943-451F-8310-72DD61AF21E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CelebritySlasher.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\CelebritySlasherEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{EDE45CC4-DD78-453F-8BC6-3B9BC4970BDB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\CelebritySlasher">
+			<UniqueIdentifier>{4CE76EF8-5A05-4263-9314-F3E08415A94B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\CelebritySlasher\CelebritySlasher.Build.cs">
+			<Filter>Source\CelebritySlasher</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\CelebritySlasher\CelebritySlasher.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\CelebritySlasher.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CelebritySlasher\CelebritySlasherGameMode.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\CelebritySlasherGameMode.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CelebritySlasher\EnemyCharacter.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\EnemyCharacter.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CelebritySlasher\GyroMotion.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\GyroMotion.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CelebritySlasher\LookAt.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\LookAt.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\CelebritySlasher\MoveTowardsPlayer.cpp">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\CelebritySlasher\MoveTowardsPlayer.h">
+			<Filter>Source\CelebritySlasher</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
