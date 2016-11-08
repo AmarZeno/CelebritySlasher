@@ -759,3 +759,404 @@ LogInit: Object subsystem initialized
 [2016.11.08-17.38.46:768][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
 [2016.11.08-17.38.49:943][451]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
 [2016.11.08-17.38.50:000][458]Job is a success!
+[2016.11.08-17.38.50:035][459]LogMaterial:Warning: Material /Game/Models/CityScape/lambert2.lambert2 needed to have new flag set bUsedWithStaticLighting !
+[2016.11.08-17.38.50:037][459]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.11.08-17.38.50:052][459]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.38.50:109][459]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.08-17.38.50:109][459]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.08-17.38.50:109][459]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.08-17.38.50:109][459]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: SkyOcclusion1_4 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.11.08-17.38.50:110][459]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.11.08-17.38.50:143][459]Lightmass on eae-d-089: 2.46 sec total, 142 ms importing, 27 ms setup, 945 ms photons, 1.33 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 9.17 sec total, 1.68 sec processing.
+[2016.11.08-17.38.50:146][459]LogStaticLightingSystem: Illumination: 8.05 sec (32 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2016.11.08-17.38.50:146][459]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.11.08-17.38.50:146][459]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.08-17.38.50:623][460]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-17.38.50:623][460]MapCheck: New page: GameMap - Nov 8, 2016, 3:38:50 AM
+[2016.11.08-17.38.50:692][460]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 68.882ms to complete.
+[2016.11.08-17.39.06:340][312]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.08-17.39.06:998][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal)
+[2016.11.08-17.39.21:028][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-17.39.21:107][ 65]LogSavePackage: Save=55.19ms
+[2016.11.08-17.39.21:107][ 65]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMapEDC481E34A1C55447CD172B35F050FE3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-17.39.21:110][ 65]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-17.41.17:163][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal)
+[2016.11.08-17.41.18:162][613]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.08-17.41.22:305][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal)
+[2016.11.08-17.41.23:220][209]Cmd: DELETE
+[2016.11.08-17.41.23:220][209]Cmd: ACTOR DELETE
+[2016.11.08-17.41.23:226][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.08-17.41.23:238][209]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2016.11.08-17.41.23:868][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.41.37:776][945]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.08-17.41.39:787][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.41.51:549][574]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.41.51:618][574]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.41.51:626][574]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.41.52:436][620]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.41.52:436][620]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.41.52:436][620]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.41.59:156][256]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.41.59:164][256]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.41.59:166][256]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.41.59:762][296]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.41.59:762][296]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.41.59:762][296]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.00:841][405]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.42.00:849][405]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.00:879][405]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.01:423][441]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.01:423][441]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.01:423][441]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.06:117][887]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.42.06:125][887]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.06:155][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.06:695][923]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.06:696][923]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.06:696][923]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.08:707][118]LogMaterialEditor: Applying material NewMaterial2
+[2016.11.08-17.42.09:079][118]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.42.09:093][118]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.09:107][118]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.42.09:127][118]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.42.09:143][118]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.13:525][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.08-17.42.21:791][544]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.21:847][544]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.21:855][544]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.21:880][544]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.22:432][576]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.22:432][576]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.22:432][576]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.28:060][149]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.28:067][149]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.28:097][149]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.29:881][316]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.29:889][316]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.29:913][316]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.30:455][351]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.30:455][351]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.30:455][351]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.32:729][575]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.32:737][575]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.32:764][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.33:870][668]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.33:877][668]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.33:906][668]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.34:447][703]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.34:447][703]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.34:447][703]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.45:890][878]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.45:898][878]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.46:446][913]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.46:446][913]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.46:446][913]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.55:297][793]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.55:305][793]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.55:865][831]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.55:865][831]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.55:865][831]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.57:108][957]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.57:115][957]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.57:674][996]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.57:674][996]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.57:674][996]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.42.58:717][106]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.42.58:725][106]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.42.58:755][106]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.42.59:445][158]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.42.59:445][158]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.42.59:445][158]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.43.03:611][565]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.03:619][565]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.04:385][616]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 118 instructions
+[2016.11.08-17.43.04:385][616]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.04:385][616]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.09:282][ 77]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.09:289][ 77]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.10:055][131]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.10:055][131]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.10:055][131]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.13:828][493]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.13:836][493]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.14:604][545]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.14:604][545]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.14:604][545]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.17:057][775]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.17:065][775]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.17:825][827]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.17:825][827]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.17:825][827]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.18:805][917]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.18:813][917]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.19:577][969]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.19:577][969]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.19:577][969]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.20:608][ 64]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.20:616][ 64]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.21:392][118]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.21:392][118]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.21:392][118]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.22:790][251]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.22:798][251]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.23:552][302]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.23:552][302]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.23:552][302]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.30:105][938]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.30:112][938]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.30:875][991]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.30:875][991]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.30:875][991]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.32:213][119]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.32:220][119]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.32:974][170]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 119 instructions
+[2016.11.08-17.43.32:974][170]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.32:974][170]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.35:441][416]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.35:448][416]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.36:122][462]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.36:122][462]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.36:122][462]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.42:049][ 32]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.42:057][ 32]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.42:726][ 79]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.42:726][ 79]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.42:726][ 79]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.43:851][192]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.43:858][192]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.44:509][237]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.44:509][237]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.44:509][237]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.45:550][337]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.45:558][337]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.46:266][385]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.46:266][385]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.46:266][385]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.47:510][511]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.47:518][511]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.48:188][558]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.48:188][558]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.48:188][558]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.50:772][811]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.50:780][811]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.51:476][861]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.51:476][861]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.51:476][861]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.53:405][ 50]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.53:413][ 50]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.54:102][ 99]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.54:102][ 99]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.54:102][ 99]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.55:935][267]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.55:942][267]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.56:609][313]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.56:609][313]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.56:609][313]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.43.58:201][469]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.43.58:209][469]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.43.58:901][519]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2016.11.08-17.43.58:901][519]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.43.58:901][519]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.11.08-17.44.09:414][483]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.09:421][483]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.09:963][518]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.44.09:963][518]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.44.09:963][518]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.23:561][867]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.23:569][867]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.24:195][907]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.44.24:195][907]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.08-17.44.24:195][907]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.27:676][253]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.27:684][253]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.28:322][296]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.08-17.44.28:322][296]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.28:322][296]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.44:994][195]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.45:002][195]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.45:028][195]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.44.45:651][244]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.08-17.44.45:651][244]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.45:651][244]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.47:434][448]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.47:442][448]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.47:468][448]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.44.48:118][497]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.08-17.44.48:118][497]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.48:118][497]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.49:570][661]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.49:578][661]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.49:608][661]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.44.50:214][708]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2016.11.08-17.44.50:214][708]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.50:214][708]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.51:191][824]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.51:198][824]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.51:224][824]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.44.51:786][869]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.08-17.44.51:786][869]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.51:786][869]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.44.56:696][427]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.44.56:703][427]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.44.56:732][427]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.44.57:308][472]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2016.11.08-17.44.57:308][472]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.44.57:308][472]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.45.02:199][ 24]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.45.02:207][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.45.02:236][ 24]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.45.02:812][ 71]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 25 instructions
+[2016.11.08-17.45.02:812][ 71]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.45.02:812][ 71]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.45.09:980][902]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.45.09:988][902]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.45.10:012][902]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.45.10:594][949]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.08-17.45.10:594][949]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.45.10:594][949]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.45.11:953][111]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.45.11:961][111]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.45.11:985][111]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2016.11.08-17.45.12:574][159]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.11.08-17.45.12:574][159]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.45.12:574][159]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.08-17.45.17:785][758]LogMaterialEditor: Applying material NewMaterial2
+[2016.11.08-17.45.18:158][758]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.11.08-17.45.18:174][758]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.45.18:187][758]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.45.18:208][758]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.45.18:220][758]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.45.19:867][910]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2016.11.08-17.45.19:868][910]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.11.08-17.45.19:868][910]MaterialEditorStats: Info Texture samplers: 3/16
+[2016.11.08-17.46.10:710][943]Cmd: TRANSACTION UNDO
+[2016.11.08-17.46.10:710][943]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.46.36:283][986]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.11.08-17.46.36:287][986]Recompiling CelebritySlasher...
+[2016.11.08-17.46.36:287][986]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 337 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-17.46.36:289][986]Warning: Starting HotReload took  0.0s.
+[2016.11.08-17.46.37:079][ 71]CompilerResultsLog: New page: Compilation - Nov 8, 2016, 3:46:37 AM
+[2016.11.08-17.46.37:080][ 71]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-17.46.37:080][ 71]CompilerResultsLog: Info Target is up to date
+[2016.11.08-17.46.37:080][ 71]LogMainFrame: MainFrame: Module compiling took 0.797 seconds
+[2016.11.08-17.46.37:295][ 71]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-17.46.37:295][ 71]Display: HotReload took  1.0s.
+[2016.11.08-17.46.38:423][198]MapCheck: New page: Map Check
+[2016.11.08-17.46.38:431][198]LightingResults: New page: Lighting Build - Nov 8, 2016, 3:46:38 AM
+[2016.11.08-17.46.38:442][198]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-17.46.38:444][198]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-17.46.38:444][198]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-17.46.38:444][198]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-17.46.38:444][198]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11032
+[2016.11.08-17.46.42:951][198]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-17.46.42:951][198]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-17.46.42:951][198]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-17.46.42:951][198]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-17.46.42:951][198]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-17.46.42:951][198]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-17.46.43:036][198]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-17.46.43:042][198]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2016.11.08-17.46.43:047][198]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2016.11.08-17.46.46:013][440]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
+[2016.11.08-17.46.46:053][445]Job is a success!
+[2016.11.08-17.46.46:090][446]LogMaterial:Warning: Material /Game/Materials/NewMaterial2.NewMaterial2 needed to have new flag set bUsedWithStaticLighting !
+[2016.11.08-17.46.46:092][446]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.08-17.46.46:111][446]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2016.11.08-17.46.46:166][446]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2016.11.08-17.46.46:220][446]Lightmass on eae-d-089: 2.23 sec total, 125 ms importing, 30 ms setup, 744 ms photons, 1.31 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 9.02 sec total, 1.62 sec processing.
+[2016.11.08-17.46.46:223][446]LogStaticLightingSystem: Illumination: 7.77 sec (31 ms encoding lightmaps, 18 ms encoding shadowmaps)
+[2016.11.08-17.46.46:223][446]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.11.08-17.46.46:223][446]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.08-17.46.46:969][447]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-17.46.46:969][447]MapCheck: New page: GameMap - Nov 8, 2016, 3:46:46 AM
+[2016.11.08-17.46.47:026][447]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 56.289ms to complete.
+[2016.11.08-17.47.43:595][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.47.45:490][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.47.47:497][631]Cmd: TRANSACTION UNDO
+[2016.11.08-17.47.47:497][631]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.48.17:829][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.48.20:824][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.08-17.48.21:515][691]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2016.11.08-17.49.03:713][728]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.08-17.49.14:270][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.49.14:537][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.08-17.49.15:290][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.08-17.49.20:294][700]MapCheck: New page: Map Check
+[2016.11.08-17.49.20:302][700]LightingResults: New page: Lighting Build - Nov 8, 2016, 3:49:20 AM
+[2016.11.08-17.49.20:309][700]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-17.49.20:311][700]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-17.49.20:311][700]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-17.49.20:312][700]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-17.49.20:312][700]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11032
+[2016.11.08-17.49.24:817][700]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-17.49.24:818][700]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-17.49.24:818][700]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-17.49.24:818][700]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-17.49.24:818][700]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-17.49.24:818][700]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-17.49.24:945][700]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-17.49.28:014][ 19]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
+[2016.11.08-17.49.28:062][ 25]Job is a success!
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: SkyOcclusion1_4 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (BGRA8)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (BGRA8)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (BGRA8)
+[2016.11.08-17.49.28:145][ 26]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (BGRA8)
+[2016.11.08-17.49.28:158][ 26]Lightmass on eae-d-089: 2.73 sec total, 124 ms importing, 27 ms setup, 865 ms photons, 1.71 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 11.8 sec total, 2.11 sec processing.
+[2016.11.08-17.49.28:176][ 26]LogStaticLightingSystem: Illumination: 7.86 sec (30 ms encoding lightmaps, 11 ms encoding shadowmaps)
+[2016.11.08-17.49.28:176][ 26]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.11.08-17.49.28:176][ 26]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.08-17.49.28:832][ 27]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-17.49.28:832][ 27]MapCheck: New page: GameMap - Nov 8, 2016, 3:49:28 AM
+[2016.11.08-17.49.28:878][ 27]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 45.187ms to complete.
+[2016.11.08-17.49.44:736][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CityScapeFinal2)
+[2016.11.08-17.49.45:629][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.08-17.49.48:528][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.08-17.49.48:838][407]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.08-17.51.09:332][355]LogSavePackage: Save=40.66ms
+[2016.11.08-17.51.09:332][355]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto5FB9AEF534AB645F6E2AAC48C7AB15B46.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto5.umap'
+[2016.11.08-17.51.09:333][355]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto5.umap
+[2016.11.08-17.51.09:335][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.073
+[2016.11.08-17.51.09:335][355]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2016.11.08-17.51.09:337][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/CityScape/CityScapeFinal] ([1] browsable assets)...
+[2016.11.08-17.51.09:366][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/CityScape/CityScapeFinal.CityScapeFinal]
+[2016.11.08-17.51.09:366][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CityScape/CityScapeFinal]
+[2016.11.08-17.51.09:380][355]LogSavePackage: Save=12.40ms
+[2016.11.
