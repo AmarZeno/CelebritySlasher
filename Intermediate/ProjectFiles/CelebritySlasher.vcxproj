@@ -590,6 +590,10 @@
     <NMakeOutput>..\..\Binaries\HTML5\CelebritySlasher-HTML5-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\CelebritySlasher\PlayerCharacter.cpp" />
+    <ClCompile Include="..\..\Source\CelebritySlasher\ScreenFeedback.cpp" />
+    <ClInclude Include="..\..\Source\CelebritySlasher\PlayerCharacter.h" />
+    <ClInclude Include="..\..\Source\CelebritySlasher\ScreenFeedback.h" />
     <None Include="..\..\CelebritySlasher.uproject" />
     <None Include="..\..\Source\CelebritySlasher.Target.cs" />
     <None Include="..\..\Source\CelebritySlasherEditor.Target.cs" />

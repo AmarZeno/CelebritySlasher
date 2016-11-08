@@ -32,3 +32,13 @@ void UScreenFeedback::TickComponent( float DeltaTime, ELevelTick TickType, FActo
 	// ...
 }
 
+float UScreenFeedback::GetCurrentHealth()
+{
+	return CurrentHealth;
+}
+
+void UScreenFeedback::SetCurrentHealth(float NewHealth)
+{
+	CurrentHealth = NewHealth;
+}
+

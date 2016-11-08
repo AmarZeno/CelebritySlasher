@@ -23,11 +23,15 @@ public:
 
 
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UPROPERTY(BlueprintReadWrite, Category = "Health")
 	float CurrentHealth;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	UPROPERTY(BlueprintReadWrite, Category = "Health")
 	float MaxHealth;
 
+	UFUNCTION(BlueprintCallable, Category = "Health")
+	float GetCurrentHealth();
 
+	UFUNCTION(BlueprintCallable, Category = "Health")
+	void SetCurrentHealth(float NewHealth);
 };
