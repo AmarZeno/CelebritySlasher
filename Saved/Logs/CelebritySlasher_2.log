@@ -829,4 +829,96 @@ Please see Output Log for details.
 [2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(16) RightArm
 [2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(17) RightForeArm
 [2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(18) RightHand
-[2016.11.08-19.19.53:804][762]LogFbx: SortedL
+[2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(19) RightHandIndex1
+[2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(20) RightHandIndex2
+[2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(21) RightHandIndex3
+[2016.11.08-19.19.53:804][762]LogFbx: SortedLinks :(22) RightHandIndex4
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(23) LeftUpLeg
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(24) LeftLeg
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(25) LeftFoot
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(26) LeftToeBase
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(27) LeftToe_End
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(28) RightUpLeg
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(29) RightLeg
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(30) RightFoot
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(31) RightToeBase
+[2016.11.08-19.19.53:805][762]LogFbx: SortedLinks :(32) RightToe_End
+[2016.11.08-19.19.53:805][762]LogFbx: Parsing AnimStack mixamo.com
+[2016.11.08-19.19.53:807][762]LogLinker:Warning: Can't find file '/Game/Models/Zombie/Marilyn/zombie_walk'
+[2016.11.08-19.19.53:807][762]LogLinker:Warning: Can't find file '/Game/Models/Zombie/Marilyn/zombie_walk'
+[2016.11.08-19.19.53:807][762]LogUObjectGlobals:Warning: Failed to find object 'Object /Game/Models/Zombie/Marilyn/zombie_walk.zombie_walk'
+[2016.11.08-19.19.53:973][762]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_walk.zombie_walk
+[2016.11.08-19.19.58:931][336]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2016.11.08-19.19.59:029][336]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.08-19.20.06:811][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-19.20.06:873][191]LogSavePackage: Save=39.85ms
+[2016.11.08-19.20.06:873][191]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap2CCAE6FF4D39E45D33640B8287401CB4.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-19.20.06:874][191]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-19.20.08:563][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-19.20.08:618][389]LogSavePackage: Save=39.30ms
+[2016.11.08-19.20.08:618][389]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap2A74ADCC46FF72373BD40BADC7CA63C3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-19.20.08:619][389]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-19.21.11:160][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Background Music.wav)
+[2016.11.08-19.21.11:251][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Background_Music...
+[2016.11.08-19.21.13:099][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Background_Music.Background_Music.
+[2016.11.08-19.21.13:111][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Death_converted.wav)
+[2016.11.08-19.21.13:112][955]Error: Unable to read wave file 'Death_converted' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2016.11.08-19.21.14:529][955]LogAssetTools:Warning: Failed to import '../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Death_converted.wav'. Failed to create asset '/Game/Audio/Death_converted'.
+Please see Output Log for details.
+[2016.11.08-19.21.14:530][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Endgame_1_converted.wav)
+[2016.11.08-19.21.14:535][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Endgame_1_converted...
+[2016.11.08-19.21.14:606][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Endgame_1_converted.Endgame_1_converted.
+[2016.11.08-19.21.14:609][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Endgame_4_converted.wav)
+[2016.11.08-19.21.14:612][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Endgame_4_converted...
+[2016.11.08-19.21.14:649][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Endgame_4_converted.Endgame_4_converted.
+[2016.11.08-19.21.14:651][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Enemy_Hit_converted.wav)
+[2016.11.08-19.21.14:654][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Enemy_Hit_converted...
+[2016.11.08-19.21.14:674][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Enemy_Hit_converted.Enemy_Hit_converted.
+[2016.11.08-19.21.14:676][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Groan3_converted.wav)
+[2016.11.08-19.21.14:679][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Groan3_converted...
+[2016.11.08-19.21.14:708][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Groan3_converted.Groan3_converted.
+[2016.11.08-19.21.14:710][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Long_Groan_converted.wav)
+[2016.11.08-19.21.14:715][955]Error: Unable to read wave file 'Long_Groan_converted' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2016.11.08-19.21.15:548][955]LogAssetTools:Warning: Failed to import '../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Long_Groan_converted.wav'. Failed to create asset '/Game/Audio/Long_Groan_converted'.
+Please see Output Log for details.
+[2016.11.08-19.21.15:549][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/MainMenu.wav)
+[2016.11.08-19.21.15:613][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave MainMenu...
+[2016.11.08-19.21.16:880][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/MainMenu.MainMenu.
+[2016.11.08-19.21.16:888][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/ProximityWarning.wav)
+[2016.11.08-19.21.16:891][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave ProximityWarning...
+[2016.11.08-19.21.16:913][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/ProximityWarning.ProximityWarning.
+[2016.11.08-19.21.16:915][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Slash_converted_1_converted.wav)
+[2016.11.08-19.21.16:915][955]Error: Unable to read wave file 'Slash_converted_1_converted' - "Invalid WAVE file."
+[2016.11.08-19.21.19:112][955]LogAssetTools:Warning: Failed to import '../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Slash_converted_1_converted.wav'. Failed to create asset '/Game/Audio/Slash_converted_1_converted'.
+Please see Output Log for details.
+[2016.11.08-19.21.19:113][955]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/drive-download-20161108T191907Z/Zombiedeath_converted.wav)
+[2016.11.08-19.21.19:116][955]LogAudioDerivedData:Display: Building compressed audio format OGG wave Zombiedeath_converted...
+[2016.11.08-19.21.19:153][955]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Zombiedeath_converted.Zombiedeath_converted.
+[2016.11.08-19.22.03:526][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-19.22.03:526][401]PIE: New page: PIE session: GameMap (Nov 8, 2016, 5:22:03 AM)
+[2016.11.08-19.22.03:526][401]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-19.22.03:532][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005888s)
+[2016.11.08-19.22.03:533][401]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-19.22.03:533][401]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2016.11.08-19.22.03:533][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.007035s)
+[2016.11.08-19.22.03:565][401]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-19.22.03:572][401]LogInit: FAudioDevice initialized.
+[2016.11.08-19.22.03:612][401]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-19.22.03:615][401]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-12.22.03
+[2016.11.08-19.22.03:615][401]LogWorld: Bringing up level for play took: 0.001658
+[2016.11.08-19.22.03:620][401]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2016.11.08-19.22.03:620][401]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-19.22.03:620][401]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-19.22.03:620][401]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-19.22.03:621][401]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-19.22.03:621][401]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-19.22.03:621][401]LogBlueprintUserMessages: [Spawn_BP_2] X=-3291.015 Y=197.629 Z=0.000
+[2016.11.08-19.22.03:623][401]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-19.22.03:623][401]LogTemp:Warning: LookAt reporting!
+[2016.11.08-19.22.03:623][401]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-19.22.03:623][401]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-19.22.03:624][401]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.695
+[2016.11.08-19.22.07:824][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-19.22.07:890][866]LogSavePackage: Save=40.29ms
+[2016.11.08-19.22.07:890][866]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap3DF24E844020C8FDE188228967C1347E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-19.22.07:894][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Map
