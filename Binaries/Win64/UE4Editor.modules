@@ -1,8 +1,8 @@
 {
 	"Changelist" : 3172292,
-	"BuildId" : "5893345b-ee2e-4eb3-a516-43dc191267eb",
+	"BuildId" : "",
 	"Modules" : 
 	{
-		"CelebritySlasher" : "UE4Editor-CelebritySlasher-4714.dll"
+		"CelebritySlasher" : "UE4Editor-CelebritySlasher.dll"
 	}
 }
