@@ -1,0 +1,1600 @@
+﻿Log file open, 11/08/16 02:13:04
+LogInit:Display: Running engine for game: CelebritySlasher
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2044807452) SRandInit(-2044807452).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.076931
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.08-09.13.04:903][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-09.13.04:903][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.08-09.13.04:915][  0]LogInit: Computer: DESKTOP-DKRONP8
+[2016.11.08-09.13.04:915][  0]LogInit: User: AjaySathish
+[2016.11.08-09.13.04:915][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.08-09.13.04:915][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2016.11.08-09.13.04:915][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.11.08-09.13.04:915][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.08-09.13.04:915][  0]LogMemory: Process Physical Memory: 256.35 MB used, 256.35 MB peak
+[2016.11.08-09.13.04:915][  0]LogMemory: Process Virtual Memory: 260.19 MB used, 260.19 MB peak
+[2016.11.08-09.13.04:915][  0]LogMemory: Physical Memory: 8723.48 MB used, 16247.77 MB total
+[2016.11.08-09.13.04:915][  0]LogMemory: Virtual Memory: 609.07 MB used, 134217728.00 MB total
+[2016.11.08-09.13.05:288][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.08-09.13.05:850][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.08-09.13.07:057][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2016.11.08-09.13.07:057][  0]LogD3D11RHI:       3040/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.08-09.13.07:066][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2016.11.08-09.13.07:066][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.11.08-09.13.07:067][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.08-09.13.07:067][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.08-09.13.07:067][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.08-09.13.07:072][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.08-09.13.07:072][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.08-09.13.07:072][  0]LogWindows: EnumDisplayDevices:
+[2016.11.08-09.13.07:072][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2016.11.08-09.13.07:072][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.11.08-09.13.07:072][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.11.08-09.13.07:072][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.11.08-09.13.07:072][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2016.11.08-09.13.07:072][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.11.08-09.13.07:072][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.11.08-09.13.07:072][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.08-09.13.07:549][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.08-09.13.07:780][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.08-09.13.07:781][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Intermediate/Shaders/WorkingDirectory/1712/).
+[2016.11.08-09.13.07:782][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AJAYSA~1/AppData/Local/Temp/UnrealShaderWorkingDir/33A8D45C48F86A947278B990DB7A1877/'.
+[2016.11.08-09.13.07:782][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.08-09.13.08:709][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.08-09.13.08:717][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.08-09.13.08:726][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.08-09.13.08:733][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.08-09.13.08:741][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.08-09.13.08:748][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.08-09.13.08:754][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.08-09.13.08:760][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.08-09.13.08:766][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.08-09.13.08:772][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.08-09.13.08:778][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.08-09.13.08:793][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.08-09.13.08:793][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.08-09.13.08:794][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.08-09.13.08:815][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.08-09.13.08:822][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.08-09.13.08:828][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.08-09.13.08:835][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.08-09.13.08:841][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.08-09.13.08:848][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.08-09.13.08:848][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.08-09.13.08:913][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.08-09.13.08:969][  0]LogDerivedDataCache: Loaded boot cache 0.06s 62MB C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-09.13.08:969][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.08-09.13.08:969][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.08-09.13.08:969][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.08-09.13.08:970][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.08-09.13.08:970][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.08-09.13.08:986][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.08-09.13.08:998][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.08-09.13.09:171][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-09.13.09:173][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.08-09.13.09:267][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.08-09.13.09:267][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.08-09.13.09:267][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.08-09.13.09:342][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.08-09.13.09:625][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: celebrityslasher, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 584922918
+[2016.11.08-09.13.09:726][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2016.11.08-09.13.09:772][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.038913 seconds
+[2016.11.08-09.13.09:777][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.08-09.13.09:777][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.08-09.13.09:777][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.08-09.13.09:783][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.08-09.13.09:966][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-09.13.09:966][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-09.13.10:543][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.11.08-09.13.10:553][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.08-09.13.10:572][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.08-09.13.10:815][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.13.10:868][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.13.10:877][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.13.10:885][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.13.11:164][  0]LogEngine: Initializing Engine...
+[2016.11.08-09.13.11:164][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.08-09.13.11:292][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.08-09.13.11:297][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.13.11:360][  0]LogInit: FAudioDevice initialized.
+[2016.11.08-09.13.11:391][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-09.13.11:398][  0]LogInit: Texture streaming: Enabled
+[2016.11.08-09.13.11:423][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.08-09.13.11:519][  0]LogInit: Transaction tracking system initialized
+[2016.11.08-09.13.11:540][  0]BlueprintLog: New page: Editor Load
+[2016.11.08-09.13.11:609][  0]LocalizationService: Info Localization service is disabled
+[2016.11.08-09.13.11:680][  0]LogConsoleResponse:Display: 
+[2016.11.08-09.13.11:793][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.08-09.13.11:793][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.08-09.13.11:950][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/' took 0.01s
+[2016.11.08-09.13.11:950][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.13.11:950][  0]Cmd: MAP LOAD FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-09.13.11:950][  0]LogEditorServer:Warning: Can't find file '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/GameMap.umap'
+[2016.11.08-09.13.11:950][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-09.13.11:984][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 33.668ms to complete.
+[2016.11.08-09.13.11:984][  0]LogFileHelpers: Loading map 'GameMap' took 0.034
+[2016.11.08-09.13.12:108][  0]LogCollectionManager: Loaded 1 collections in 0.001633 seconds
+[2016.11.08-09.13.12:150][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Collections/' took 0.01s
+[2016.11.08-09.13.12:150][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Developers/AjaySathish/Collections/' took 0.01s
+[2016.11.08-09.13.12:150][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Collections/' took 0.01s
+[2016.11.08-09.13.12:150][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000004 seconds
+[2016.11.08-09.13.12:150][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.11.08-09.13.12:159][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2161 classes and 423 folders.
+[2016.11.08-09.13.12:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.08-09.13.12:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.08-09.13.12:164][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0016 seconds. Added 12 classes and 0 folders.
+[2016.11.08-09.13.12:170][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2016.11.08-09.13.12:211][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2016.11.08-09.13.12:216][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2016.11.08-09.13.12:228][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.08-09.13.12:234][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.08-09.13.12:262][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2016.11.08-09.13.12:262][  0]LogLoad: (Engine Initialization) Total time: 8.35 seconds
+[2016.11.08-09.13.12:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2016.11.08-09.13.12:262][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.08-09.13.12:262][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.08-09.13.12:271][  0]LogOcInput: OculusInput pre-init called
+[2016.11.08-09.13.12:290][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.08-09.13.12:438][  0]LogRenderer: Reallocating scene render targets to support 820x436 (Frame:2).
+[2016.11.08-09.13.12:508][  1]LogAssetRegistry: Asset discovery search completed in 2.8143 seconds
+[2016.11.08-09.13.12:508][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000006 seconds (found 0 objects)
+[2016.11.08-09.13.12:508][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000021 seconds (updated 0 objects)
+[2016.11.08-09.13.19:072][670]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 112 classes and 0 folders.
+[2016.11.08-09.13.31:489][814]LogRenderer: Reallocating scene render targets to support 912x540 (Frame:1442).
+[2016.11.08-09.14.43:475][938]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2016.11.08-09.14.44:051][939]LogRenderer: Reallocating scene render targets to support 912x664 (Frame:13262).
+[2016.11.08-09.14.46:951][127]LogRenderer: Reallocating scene render targets to support 912x700 (Frame:13653).
+[2016.11.08-09.14.46:951][127]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.08-09.19.20:077][385]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2016.11.08-09.19.33:400][386]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Source/CelebritySlasher/LookAt.h'
+[2016.11.08-09.19.35:645][386]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Source/CelebritySlasher/LookAt.cpp'
+[2016.11.08-09.23.25:204][198]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.23.25:288][198]LogBlueprint:Warning: [Compiler Player_Pawn] Warning 'Item' is already a 'Zombie Character BP', you don't need  K2Node_DynamicCast_0 .
+[2016.11.08-09.23.29:383][198]BlueprintEditorCompileResults:Warning: Warning 'Item' is already a 'Zombie Character BP', you don't need  K2Node_DynamicCast_0 .
+[2016.11.08-09.23.29:384][198]LogBlueprint:Warning: [Compiler Player_Pawn] Warning [0625.47] Compile of Player_Pawn successful, but with 1 Warning(s) [in 4,179 ms] (/Game/Player_Pawn.Player_Pawn)
+[2016.11.08-09.23.51:313][336]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.23.51:349][336]LogBlueprint:Warning: [Compiler Player_Pawn] Warning 'Item' is already a 'Zombie Character BP', you don't need  K2Node_DynamicCast_0 .
+[2016.11.08-09.23.51:436][336]BlueprintEditorCompileResults:Warning: Warning 'Item' is already a 'Zombie Character BP', you don't need  K2Node_DynamicCast_0 .
+[2016.11.08-09.23.51:436][336]LogBlueprint:Warning: [Compiler Player_Pawn] Warning [0647.52] Compile of Player_Pawn successful, but with 1 Warning(s) [in 123 ms] (/Game/Player_Pawn.Player_Pawn)
+[2016.11.08-09.24.08:759][ 68]LogEditorTransaction: Undo Create Pin Link
+[2016.11.08-09.24.09:017][ 68]LogEditorTransaction: Undo Create Pin Link
+[2016.11.08-09.24.44:671][659]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.24.46:052][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.24.50:673][752]LogSavePackage: Save=860.17ms
+[2016.11.08-09.24.50:673][752]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn6241D3E14833D39214F1A68156723883.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.24.50:695][752]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.25.15:305][504]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.25.16:476][504]Cmd: MAP LOAD FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-09.25.16:513][504]LightingResults: New page: Lighting Build
+[2016.11.08-09.25.16:840][504]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0150 seconds. Added 5 classes and 0 folders.
+[2016.11.08-09.25.16:842][504]LoadErrors: New page: Loading map: GameMap.umap
+[2016.11.08-09.25.17:058][504]MapCheck: New page: Map Check
+[2016.11.08-09.25.17:058][504]LightingResults: New page: Lighting Build
+[2016.11.08-09.25.17:614][504]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2016.11.08-09.25.18:034][504]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-09.25.18:100][504]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 66.226ms to complete.
+[2016.11.08-09.25.18:100][504]LogFileHelpers: Loading map 'GameMap' took 1.658
+[2016.11.08-09.25.22:239][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.25.22:367][884]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:25:22 PM)
+[2016.11.08-09.25.22:386][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.25.22:468][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082642s)
+[2016.11.08-09.25.22:469][884]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.25.22:501][884]LogPlayLevel: PIE: World Init took: (0.032051s)
+[2016.11.08-09.25.22:534][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.147864s)
+[2016.11.08-09.25.22:631][884]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.25.22:648][884]LogInit: FAudioDevice initialized.
+[2016.11.08-09.25.23:492][884]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.25.23:507][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.25.23
+[2016.11.08-09.25.23:566][884]LogWorld: Bringing up level for play took: 0.062400
+[2016.11.08-09.25.23:963][884]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0059 seconds. Added 11 classes and 0 folders.
+[2016.11.08-09.25.23:978][884]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.25.23:983][884]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.25.23:983][884]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.25.24:105][884]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.25.24:144][884]LogBlueprintUserMessages: [Spawn_BP_2] X=-466.496 Y=2857.635 Z=0.000
+[2016.11.08-09.25.24:634][884]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.25.24:688][884]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.24:701][884]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.24:701][884]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.25.24:702][884]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 3.474
+[2016.11.08-09.25.30:155][350]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.30:160][351]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.35:527][981]LogBlueprintUserMessages: [Spawn_BP_2] X=-4202.255 Y=-1503.613 Z=0.000
+[2016.11.08-09.25.35:529][981]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.35:529][981]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.35:529][981]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.25.35:529][981]LogBlueprintUserMessages: [Spawn_BP_2] X=-1451.487 Y=897.692 Z=0.000
+[2016.11.08-09.25.35:530][981]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.35:530][981]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.35:530][981]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.25.35:531][981]LogBlueprintUserMessages: [Spawn_BP_2] X=-4755.983 Y=-1380.455 Z=0.000
+[2016.11.08-09.25.35:532][981]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.35:532][981]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.35:532][981]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.25.45:282][139]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:290][140]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:299][141]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:307][142]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:332][145]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:340][146]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:349][147]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.25.45:532][169]LogBlueprintUserMessages: [Spawn_BP_2] X=-6246.947 Y=-2735.194 Z=0.000
+[2016.11.08-09.25.45:534][169]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.45:534][169]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.45:534][169]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.25.45:534][169]LogBlueprintUserMessages: [Spawn_BP_2] X=-1646.903 Y=79.889 Z=0.000
+[2016.11.08-09.25.45:535][169]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.45:535][169]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.45:535][169]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.25.45:535][169]LogBlueprintUserMessages: [Spawn_BP_2] X=-156.525 Y=2338.810 Z=0.000
+[2016.11.08-09.25.45:536][169]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.45:536][169]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.45:536][169]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.25.45:536][169]LogBlueprintUserMessages: [Spawn_BP_2] X=-4318.861 Y=-2486.370 Z=0.000
+[2016.11.08-09.25.45:537][169]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.45:537][169]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.45:537][169]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.25.45:537][169]LogBlueprintUserMessages: [Spawn_BP_2] X=-6367.361 Y=-2197.144 Z=0.000
+[2016.11.08-09.25.45:538][169]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.25.45:538][169]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.25.45:538][169]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.27.13:855][947]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.27.13:906][947]LogBlueprint:Error: [Compiler Player_Pawn] Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.13:906][947]LogBlueprint:Error: [Compiler Player_Pawn] Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.13:906][947]LogBlueprint:Error: [Compiler Player_Pawn] Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.13:906][947]LogBlueprint:Error: [Compiler Player_Pawn] Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.13:916][947]LogBlueprint:Error: [Compiler Player_Pawn] Error Variable node  K2Node_VariableSet_79  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.13:917][947]LogBlueprint:Error: [Compiler Player_Pawn] Error Variable node  K2Node_VariableSet_76  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.13:917][947]LogBlueprint:Error: [Compiler Player_Pawn] Error Variable node  K2Node_VariableSet_77  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.13:917][947]LogBlueprint:Error: [Compiler Player_Pawn] Error Variable node  K2Node_VariableSet_78  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a EnemyCharacter, therefore ' self ' must have a connection.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_79  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_76  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_77  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.14:054][947]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_78  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.27.14:055][947]LogBlueprint:Warning: [Compiler Player_Pawn] Warning [0850.14] Compile of Player_Pawn failed. 8 Fatal Issue(s) 0 Warning(s) [in 199 ms] (/Game/Player_Pawn.Player_Pawn)
+[2016.11.08-09.28.04:434][976]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.28.05:573][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.28.05:637][ 76]LogSavePackage: Save=46.23ms
+[2016.11.08-09.28.05:637][ 76]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnDB8FD1B74A70358D783F089ED6D32862.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.28.05:640][ 76]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.28.07:899][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.28.07:899][309]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:28:07 PM)
+[2016.11.08-09.28.07:899][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.28.07:903][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003830s)
+[2016.11.08-09.28.07:904][309]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.28.07:905][309]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2016.11.08-09.28.07:905][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005854s)
+[2016.11.08-09.28.07:920][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.28.07:930][309]LogInit: FAudioDevice initialized.
+[2016.11.08-09.28.07:997][309]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.28.08:002][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.28.08
+[2016.11.08-09.28.08:002][309]LogWorld: Bringing up level for play took: 0.002778
+[2016.11.08-09.28.08:003][309]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.28.08:003][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.28.08:003][309]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.28.08:004][309]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.28.08:004][309]LogBlueprintUserMessages: [Spawn_BP_2] X=-8393.595 Y=711.841 Z=0.000
+[2016.11.08-09.28.08:006][309]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.28.08:007][309]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.08:007][309]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.08:007][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.28.08:007][309]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.779
+[2016.11.08-09.28.17:891][491]LogBlueprintUserMessages: [Spawn_BP_2] X=-2894.989 Y=-2528.445 Z=0.000
+[2016.11.08-09.28.17:893][491]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.17:893][491]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.17:893][491]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.28.17:893][491]LogBlueprintUserMessages: [Spawn_BP_2] X=-7000.486 Y=-1889.248 Z=0.000
+[2016.11.08-09.28.17:893][491]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.17:893][491]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.17:893][491]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.28.17:893][491]LogBlueprintUserMessages: [Spawn_BP_2] X=-6757.607 Y=3017.573 Z=0.000
+[2016.11.08-09.28.17:895][491]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.17:895][491]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.17:895][491]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.28.27:894][691]LogBlueprintUserMessages: [Spawn_BP_2] X=-3904.004 Y=647.197 Z=0.000
+[2016.11.08-09.28.27:895][691]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.27:895][691]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.27:895][691]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.28.27:895][691]LogBlueprintUserMessages: [Spawn_BP_2] X=-1061.534 Y=-1789.774 Z=0.000
+[2016.11.08-09.28.27:896][691]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.27:896][691]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.27:896][691]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.28.27:896][691]LogBlueprintUserMessages: [Spawn_BP_2] X=-7388.096 Y=1019.458 Z=0.000
+[2016.11.08-09.28.27:897][691]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.27:897][691]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.27:897][691]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.28.27:897][691]LogBlueprintUserMessages: [Spawn_BP_2] X=-1985.585 Y=5833.492 Z=0.000
+[2016.11.08-09.28.27:899][691]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.27:899][691]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.27:899][691]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.28.27:899][691]LogBlueprintUserMessages: [Spawn_BP_2] X=-8366.349 Y=5062.221 Z=0.000
+[2016.11.08-09.28.27:901][691]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.27:901][691]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.27:901][691]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.28.29:299][859]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.29:315][861]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.29:323][862]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:033][667]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:041][668]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:050][669]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:058][670]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:066][671]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:075][672]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:083][673]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:091][674]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:100][675]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.36:108][676]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.28.37:892][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-6071.161 Y=3259.988 Z=0.000
+[2016.11.08-09.28.37:893][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:893][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:893][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:893][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-5548.195 Y=-2887.331 Z=0.000
+[2016.11.08-09.28.37:894][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:895][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:895][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:895][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-2785.122 Y=2522.990 Z=0.000
+[2016.11.08-09.28.37:896][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:896][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:896][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:896][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-5399.069 Y=-2173.459 Z=0.000
+[2016.11.08-09.28.37:897][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:897][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:897][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:897][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-281.920 Y=3698.844 Z=0.000
+[2016.11.08-09.28.37:898][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:898][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:898][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:898][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-6503.596 Y=4436.678 Z=0.000
+[2016.11.08-09.28.37:899][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:899][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:900][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.28.37:900][890]LogBlueprintUserMessages: [Spawn_BP_2] X=-6767.569 Y=4217.668 Z=0.000
+[2016.11.08-09.28.37:901][890]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.28.37:901][890]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.28.37:901][890]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.29.20:422][ 70]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.29.20:971][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.29.21:035][108]LogSavePackage: Save=45.77ms
+[2016.11.08-09.29.21:035][108]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnECCA9DB8499886078EA239B5E6CE5D86.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.29.21:038][108]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.30.38:018][649]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Source/CelebritySlasher/MoveTowardsPlayer.h'
+[2016.11.08-09.30.38:135][649]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Source/CelebritySlasher/MoveTowardsPlayer.cpp'
+[2016.11.08-09.32.02:595][335]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.32.03:326][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.32.03:407][384]LogSavePackage: Save=58.35ms
+[2016.11.08-09.32.03:407][384]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn927BBE13498750C365B49DAED4D8E05A.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.32.03:411][384]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.32.05:580][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.32.05:580][599]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:32:05 PM)
+[2016.11.08-09.32.05:580][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.32.05:586][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006264s)
+[2016.11.08-09.32.05:587][599]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.32.05:587][599]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2016.11.08-09.32.05:587][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.007541s)
+[2016.11.08-09.32.05:607][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.32.05:618][599]LogInit: FAudioDevice initialized.
+[2016.11.08-09.32.05:652][599]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.32.05:655][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.32.05
+[2016.11.08-09.32.05:655][599]LogWorld: Bringing up level for play took: 0.002084
+[2016.11.08-09.32.05:656][599]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.32.05:656][599]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.32.05:656][599]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.32.05:657][599]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.32.05:657][599]LogBlueprintUserMessages: [Spawn_BP_2] X=-7457.238 Y=-1545.409 Z=0.000
+[2016.11.08-09.32.05:659][599]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.32.05:659][599]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.05:659][599]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.05:659][599]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.32.05:659][599]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.431
+[2016.11.08-09.32.15:570][785]LogBlueprintUserMessages: [Spawn_BP_2] X=-3652.336 Y=-718.967 Z=0.000
+[2016.11.08-09.32.15:572][785]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.15:572][785]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.15:572][785]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.32.15:572][785]LogBlueprintUserMessages: [Spawn_BP_2] X=-6199.778 Y=685.092 Z=0.000
+[2016.11.08-09.32.15:574][785]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.15:574][785]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.15:574][785]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.32.15:574][785]LogBlueprintUserMessages: [Spawn_BP_2] X=-463.273 Y=2237.386 Z=0.000
+[2016.11.08-09.32.15:575][785]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.15:575][785]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.15:575][785]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.32.19:837][296]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.32.19:845][297]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.32.19:853][298]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.32.25:569][983]LogBlueprintUserMessages: [Spawn_BP_2] X=877.686 Y=2014.753 Z=0.000
+[2016.11.08-09.32.25:571][983]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.25:571][983]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.25:571][983]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.32.25:571][983]LogBlueprintUserMessages: [Spawn_BP_2] X=-8284.900 Y=-1588.040 Z=0.000
+[2016.11.08-09.32.25:572][983]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.25:572][983]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.25:572][983]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.32.25:572][983]LogBlueprintUserMessages: [Spawn_BP_2] X=-4229.502 Y=4453.675 Z=0.000
+[2016.11.08-09.32.25:574][983]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.25:574][983]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.25:574][983]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.32.25:574][983]LogBlueprintUserMessages: [Spawn_BP_2] X=-3283.771 Y=-2715.132 Z=0.000
+[2016.11.08-09.32.25:575][983]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.25:575][983]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.25:575][983]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.32.25:575][983]LogBlueprintUserMessages: [Spawn_BP_2] X=-4929.426 Y=3990.578 Z=0.000
+[2016.11.08-09.32.25:577][983]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.32.25:577][983]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.32.25:577][983]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.33.39:727][989]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.33.40:851][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.33.40:917][ 80]LogSavePackage: Save=48.23ms
+[2016.11.08-09.33.40:917][ 80]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnD2F89587430BA5BD0180978EC8E92013.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.33.40:923][ 80]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.33.43:364][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.33.43:364][315]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:33:43 PM)
+[2016.11.08-09.33.43:364][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.33.43:368][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003846s)
+[2016.11.08-09.33.43:369][315]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.33.43:369][315]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2016.11.08-09.33.43:369][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005544s)
+[2016.11.08-09.33.43:384][315]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.33.43:394][315]LogInit: FAudioDevice initialized.
+[2016.11.08-09.33.43:430][315]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.33.43:434][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.33.43
+[2016.11.08-09.33.43:435][315]LogWorld: Bringing up level for play took: 0.003283
+[2016.11.08-09.33.43:437][315]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.33.43:437][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.33.43:437][315]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.33.43:438][315]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.33.43:438][315]LogBlueprintUserMessages: [Spawn_BP_2] X=-5118.690 Y=-700.577 Z=0.000
+[2016.11.08-09.33.43:441][315]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.33.43:441][315]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.33.43:441][315]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.33.43:441][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.33.43:441][315]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.213
+[2016.11.08-09.33.53:355][502]LogBlueprintUserMessages: [Spawn_BP_2] X=-1377.950 Y=5472.655 Z=0.000
+[2016.11.08-09.33.53:356][502]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.33.53:356][502]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.33.53:356][502]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.33.53:356][502]LogBlueprintUserMessages: [Spawn_BP_2] X=-3614.835 Y=617.104 Z=0.000
+[2016.11.08-09.33.53:357][502]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.33.53:357][502]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.33.53:357][502]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.33.53:357][502]LogBlueprintUserMessages: [Spawn_BP_2] X=-7524.037 Y=4430.270 Z=0.000
+[2016.11.08-09.33.53:358][502]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.33.53:358][502]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.33.53:358][502]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.33.54:624][654]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.33.54:640][656]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.33.54:649][657]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.33.54:657][658]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.35.50:684][537]BlueprintLog: New page: Compile ZombieCharacter_BP
+[2016.11.08-09.35.51:664][600]LogSavePackage: Save=33.15ms
+[2016.11.08-09.35.51:664][600]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/ZombieCharacter_BP017AEC4D4348C3B7B988CF919729B4A2.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-09.35.51:668][600]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.08-09.35.54:296][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.35.54:296][872]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:35:54 PM)
+[2016.11.08-09.35.54:296][872]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.35.54:300][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004113s)
+[2016.11.08-09.35.54:301][872]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.35.54:302][872]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2016.11.08-09.35.54:302][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006032s)
+[2016.11.08-09.35.54:319][872]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.35.54:328][872]LogInit: FAudioDevice initialized.
+[2016.11.08-09.35.54:363][872]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.35.54:367][872]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.35.54
+[2016.11.08-09.35.54:367][872]LogWorld: Bringing up level for play took: 0.002568
+[2016.11.08-09.35.54:368][872]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.35.54:368][872]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.35.54:368][872]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.35.54:369][872]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.35.54:369][872]LogBlueprintUserMessages: [Spawn_BP_2] X=-4364.565 Y=-2713.739 Z=0.000
+[2016.11.08-09.35.54:371][872]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.35.54:371][872]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.35.54:371][872]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.35.54:371][872]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.35.54:371][872]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.857
+[2016.11.08-09.36.04:291][ 56]LogBlueprintUserMessages: [Spawn_BP_2] X=-6633.385 Y=-2696.742 Z=0.000
+[2016.11.08-09.36.04:292][ 56]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.04:292][ 56]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.04:292][ 56]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.36.04:292][ 56]LogBlueprintUserMessages: [Spawn_BP_2] X=-6971.774 Y=9.672 Z=0.000
+[2016.11.08-09.36.04:293][ 56]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.04:293][ 56]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.04:293][ 56]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.36.04:293][ 56]LogBlueprintUserMessages: [Spawn_BP_2] X=-2333.351 Y=4119.587 Z=0.000
+[2016.11.08-09.36.04:294][ 56]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.04:295][ 56]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.04:295][ 56]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.36.15:111][320]LogBlueprintUserMessages: [Spawn_BP_2] X=-5304.438 Y=-82.557 Z=0.000
+[2016.11.08-09.36.15:113][320]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.15:113][320]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.15:113][320]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.36.15:113][320]LogBlueprintUserMessages: [Spawn_BP_2] X=424.742 Y=-1870.858 Z=0.000
+[2016.11.08-09.36.15:114][320]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.15:114][320]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.15:114][320]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.36.15:114][320]LogBlueprintUserMessages: [Spawn_BP_2] X=-5193.985 Y=-749.339 Z=0.000
+[2016.11.08-09.36.15:115][320]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.15:115][320]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.15:115][320]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.36.15:115][320]LogBlueprintUserMessages: [Spawn_BP_2] X=-2501.520 Y=-2793.987 Z=0.000
+[2016.11.08-09.36.15:117][320]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.15:117][320]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.15:117][320]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.36.15:118][320]LogBlueprintUserMessages: [Spawn_BP_2] X=-6047.723 Y=-2927.176 Z=0.000
+[2016.11.08-09.36.15:119][320]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.15:119][320]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.15:119][320]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.36.18:781][729]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.20:782][969]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.25:860][578]LogBlueprintUserMessages: [Spawn_BP_2] X=1011.869 Y=3795.810 Z=0.000
+[2016.11.08-09.36.25:861][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:861][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:861][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:861][578]LogBlueprintUserMessages: [Spawn_BP_2] X=-63.066 Y=-1850.239 Z=0.000
+[2016.11.08-09.36.25:863][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:863][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:863][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:863][578]LogBlueprintUserMessages: [Spawn_BP_2] X=-2456.694 Y=2953.208 Z=0.000
+[2016.11.08-09.36.25:864][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:864][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:864][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:864][578]LogBlueprintUserMessages: [Spawn_BP_2] X=961.185 Y=147.319 Z=0.000
+[2016.11.08-09.36.25:865][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:865][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:865][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:865][578]LogBlueprintUserMessages: [Spawn_BP_2] X=-6086.981 Y=2609.646 Z=0.000
+[2016.11.08-09.36.25:867][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:867][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:867][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:867][578]LogBlueprintUserMessages: [Spawn_BP_2] X=-2389.016 Y=4793.614 Z=0.000
+[2016.11.08-09.36.25:869][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:869][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:869][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.25:869][578]LogBlueprintUserMessages: [Spawn_BP_2] X=-3029.465 Y=-2628.476 Z=0.000
+[2016.11.08-09.36.25:870][578]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.25:870][578]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.25:870][578]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.36.30:379][119]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:387][120]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:396][121]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:421][124]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:437][126]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:446][127]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:454][128]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:463][129]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:471][130]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:479][131]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:487][132]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.30:496][133]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.35:860][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-2353.859 Y=-1772.220 Z=0.000
+[2016.11.08-09.36.35:861][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:861][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:861][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:861][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-5417.820 Y=1940.357 Z=0.000
+[2016.11.08-09.36.35:863][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:863][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:863][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:863][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-7213.774 Y=966.795 Z=0.000
+[2016.11.08-09.36.35:864][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:864][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:864][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:864][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-4581.369 Y=-1068.101 Z=0.000
+[2016.11.08-09.36.35:865][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:865][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:865][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:865][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-5699.958 Y=4885.286 Z=0.000
+[2016.11.08-09.36.35:867][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:867][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:867][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:867][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-6858.099 Y=1971.007 Z=0.000
+[2016.11.08-09.36.35:869][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:869][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:869][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:869][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-7009.275 Y=-1926.586 Z=0.000
+[2016.11.08-09.36.35:870][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:870][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:870][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:870][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-1005.575 Y=5793.368 Z=0.000
+[2016.11.08-09.36.35:871][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:872][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:872][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.35:872][776]LogBlueprintUserMessages: [Spawn_BP_2] X=-2815.006 Y=4534.202 Z=0.000
+[2016.11.08-09.36.35:873][776]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.35:873][776]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.35:873][776]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.36.43:340][669]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.43:349][670]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.36.45:856][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-1216.226 Y=5969.746 Z=0.000
+[2016.11.08-09.36.45:858][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:858][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:858][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:858][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-4880.206 Y=1758.127 Z=0.000
+[2016.11.08-09.36.45:859][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:859][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:859][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:859][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-2526.716 Y=-3055.628 Z=0.000
+[2016.11.08-09.36.45:860][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:860][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:860][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:860][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-4668.969 Y=-774.695 Z=0.000
+[2016.11.08-09.36.45:862][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:862][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:862][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:862][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-2232.859 Y=3170.267 Z=0.000
+[2016.11.08-09.36.45:863][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:863][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:863][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:863][969]LogBlueprintUserMessages: [Spawn_BP_2] X=1038.823 Y=3915.903 Z=0.000
+[2016.11.08-09.36.45:885][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:885][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:885][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:885][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-900.103 Y=-2742.439 Z=0.000
+[2016.11.08-09.36.45:888][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:889][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:889][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:889][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-4663.109 Y=657.785 Z=0.000
+[2016.11.08-09.36.45:892][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:892][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:892][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:892][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-2178.365 Y=-2695.628 Z=0.000
+[2016.11.08-09.36.45:894][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:894][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:894][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:895][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-5219.475 Y=2095.001 Z=0.000
+[2016.11.08-09.36.45:896][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:897][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:897][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.36.45:897][969]LogBlueprintUserMessages: [Spawn_BP_2] X=-1812.436 Y=5588.012 Z=0.000
+[2016.11.08-09.36.45:899][969]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.36.45:899][969]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.36.45:899][969]LogBlueprintUserMessages: [Spawn_BP_2] 11
+[2016.11.08-09.37.21:944][263]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.37.22:414][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.37.22:484][291]LogSavePackage: Save=47.12ms
+[2016.11.08-09.37.22:484][291]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn9A69FC1849BAE8976CAD659AB0D6DD69.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.37.22:489][291]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.37.24:520][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.37.24:521][494]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:37:24 PM)
+[2016.11.08-09.37.24:521][494]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.37.24:526][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005349s)
+[2016.11.08-09.37.24:527][494]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.37.24:527][494]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2016.11.08-09.37.24:527][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006640s)
+[2016.11.08-09.37.24:544][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.37.24:554][494]LogInit: FAudioDevice initialized.
+[2016.11.08-09.37.24:588][494]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.37.24:591][494]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.37.24
+[2016.11.08-09.37.24:591][494]LogWorld: Bringing up level for play took: 0.002109
+[2016.11.08-09.37.24:592][494]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.37.24:592][494]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.37.24:592][494]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.37.24:593][494]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.37.24:593][494]LogBlueprintUserMessages: [Spawn_BP_2] X=-2226.121 Y=3494.602 Z=0.000
+[2016.11.08-09.37.24:594][494]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.37.24:642][494]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.37.24:643][494]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.37.24:643][494]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.37.24:643][494]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.586
+[2016.11.08-09.37.26:721][741]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:729][742]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:737][743]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:745][744]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:754][745]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:762][746]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:770][747]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:796][750]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:804][751]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:812][752]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.26:821][753]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.37.34:501][674]LogBlueprintUserMessages: [Spawn_BP_2] X=843.993 Y=805.742 Z=0.000
+[2016.11.08-09.37.34:503][674]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.37.34:503][674]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.37.34:503][674]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.37.34:503][674]LogBlueprintUserMessages: [Spawn_BP_2] X=578.849 Y=1569.768 Z=0.000
+[2016.11.08-09.37.34:505][674]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.37.34:505][674]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.37.34:505][674]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.37.34:505][674]LogBlueprintUserMessages: [Spawn_BP_2] X=-4907.160 Y=5155.564 Z=0.000
+[2016.11.08-09.37.34:507][674]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.37.34:507][674]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.37.34:507][674]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.38.30:527][599]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.016
+[2016.11.08-09.38.30:546][599]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Pawn] ([1] browsable assets)...
+[2016.11.08-09.38.30:546][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Pawn]
+[2016.11.08-09.38.30:604][599]LogSavePackage: Save=37.83ms
+[2016.11.08-09.38.30:604][599]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn_Auto1583F837549BF87AD99B6C99938735745.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Autosaves/Game/Player_Pawn_Auto1.uasset'
+[2016.11.08-09.38.30:606][599]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Autosaves/Game/Player_Pawn_Auto1.uasset
+[2016.11.08-09.38.30:606][599]LogFileHelpers: Auto-saving content packages took 0.069
+[2016.11.08-09.42.01:212][461]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.42.02:441][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.42.02:508][570]LogSavePackage: Save=46.68ms
+[2016.11.08-09.42.02:508][570]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn3F81EB004FCEB85D3C52B69C28B2CEA4.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.42.02:512][570]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.42.04:550][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.42.04:551][785]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:42:04 PM)
+[2016.11.08-09.42.04:551][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.42.04:556][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005349s)
+[2016.11.08-09.42.04:557][785]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.42.04:558][785]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2016.11.08-09.42.04:558][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.007162s)
+[2016.11.08-09.42.04:575][785]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.42.04:584][785]LogInit: FAudioDevice initialized.
+[2016.11.08-09.42.04:618][785]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.42.04:620][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.42.04
+[2016.11.08-09.42.04:620][785]LogWorld: Bringing up level for play took: 0.001586
+[2016.11.08-09.42.04:621][785]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.42.04:621][785]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.42.04:621][785]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.42.04:622][785]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.42.04:622][785]LogBlueprintUserMessages: [Spawn_BP_2] X=-2264.500 Y=1466.672 Z=0.000
+[2016.11.08-09.42.04:624][785]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.42.04:624][785]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.42.04:624][785]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.42.04:624][785]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.42.04:624][785]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.604
+[2016.11.08-09.42.06:971][ 64]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.02:470][126]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.43.03:160][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.43.03:229][180]LogSavePackage: Save=47.42ms
+[2016.11.08-09.43.03:229][180]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnA7A91F5D4426B8524098DDBE6F5D8E39.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.43.03:234][180]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.43.07:032][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-09.43.07:182][562]LogSavePackage: Save=117.02ms
+[2016.11.08-09.43.07:182][562]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/GameMapD4BB11CD401B940DAA4CD9874EB62FF9.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-09.43.07:184][562]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-09.43.08:364][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.43.08:364][689]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:43:08 PM)
+[2016.11.08-09.43.08:364][689]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.43.08:368][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003501s)
+[2016.11.08-09.43.08:369][689]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.43.08:369][689]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2016.11.08-09.43.08:370][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005254s)
+[2016.11.08-09.43.08:385][689]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.43.08:393][689]LogInit: FAudioDevice initialized.
+[2016.11.08-09.43.08:426][689]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.43.08:429][689]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.43.08
+[2016.11.08-09.43.08:429][689]LogWorld: Bringing up level for play took: 0.001612
+[2016.11.08-09.43.08:430][689]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.43.08:430][689]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.43.08:430][689]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.43.08:430][689]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.43.08:430][689]LogBlueprintUserMessages: [Spawn_BP_2] X=-2271.239 Y=-1968.103 Z=0.000
+[2016.11.08-09.43.08:432][689]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.43.08:432][689]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.08:432][689]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.08:432][689]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.43.08:432][689]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.796
+[2016.11.08-09.43.18:361][878]LogBlueprintUserMessages: [Spawn_BP_2] X=-4421.696 Y=25.276 Z=0.000
+[2016.11.08-09.43.18:362][878]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.18:362][878]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.18:362][878]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.43.18:362][878]LogBlueprintUserMessages: [Spawn_BP_2] X=-2607.871 Y=5490.209 Z=0.000
+[2016.11.08-09.43.18:363][878]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.18:363][878]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.18:363][878]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.43.18:363][878]LogBlueprintUserMessages: [Spawn_BP_2] X=-2290.576 Y=3693.829 Z=0.000
+[2016.11.08-09.43.18:364][878]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.18:364][878]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.18:364][878]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.43.25:849][775]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.28:360][ 66]LogBlueprintUserMessages: [Spawn_BP_2] X=-2764.907 Y=4418.566 Z=0.000
+[2016.11.08-09.43.28:361][ 66]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.28:361][ 66]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.28:361][ 66]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.43.28:361][ 66]LogBlueprintUserMessages: [Spawn_BP_2] X=-2764.321 Y=5118.506 Z=0.000
+[2016.11.08-09.43.28:362][ 66]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.28:362][ 66]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.28:362][ 66]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.43.28:362][ 66]LogBlueprintUserMessages: [Spawn_BP_2] X=-8073.078 Y=1321.501 Z=0.000
+[2016.11.08-09.43.28:363][ 66]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.28:363][ 66]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.28:363][ 66]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.43.28:363][ 66]LogBlueprintUserMessages: [Spawn_BP_2] X=-42.265 Y=2899.709 Z=0.000
+[2016.11.08-09.43.28:364][ 66]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.28:364][ 66]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.28:365][ 66]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.43.28:365][ 66]LogBlueprintUserMessages: [Spawn_BP_2] X=-1515.649 Y=5130.209 Z=0.000
+[2016.11.08-09.43.28:366][ 66]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.28:366][ 66]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.28:366][ 66]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.43.31:113][396]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.31:130][398]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.38:357][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-7058.203 Y=5002.035 Z=0.000
+[2016.11.08-09.43.38:359][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:359][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:359][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:359][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-392.666 Y=2557.263 Z=0.000
+[2016.11.08-09.43.38:360][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:360][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:360][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:360][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-8343.203 Y=4678.536 Z=0.000
+[2016.11.08-09.43.38:361][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:361][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:361][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:361][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-1382.345 Y=-1494.696 Z=0.000
+[2016.11.08-09.43.38:362][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:362][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:362][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:362][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-2888.250 Y=3190.607 Z=0.000
+[2016.11.08-09.43.38:363][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:363][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:363][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:363][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-6004.068 Y=2836.736 Z=0.000
+[2016.11.08-09.43.38:364][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:364][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:364][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.38:364][265]LogBlueprintUserMessages: [Spawn_BP_2] X=-2606.698 Y=-2853.615 Z=0.000
+[2016.11.08-09.43.38:365][265]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.38:365][265]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.38:366][265]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.43.39:531][405]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.39:557][408]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.42:933][813]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.43.48:360][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-1680.596 Y=19.703 Z=0.000
+[2016.11.08-09.43.48:361][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:361][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:361][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:361][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-5596.830 Y=3502.125 Z=0.000
+[2016.11.08-09.43.48:362][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:362][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:362][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:362][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-4000.687 Y=2094.444 Z=0.000
+[2016.11.08-09.43.48:363][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:364][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:364][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:364][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-1803.354 Y=3531.661 Z=0.000
+[2016.11.08-09.43.48:365][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:365][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:365][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:365][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-6581.821 Y=2341.039 Z=0.000
+[2016.11.08-09.43.48:366][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:366][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:366][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:366][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-1481.958 Y=-2497.516 Z=0.000
+[2016.11.08-09.43.48:367][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:367][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:367][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:367][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-1732.160 Y=3136.273 Z=0.000
+[2016.11.08-09.43.48:369][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:369][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:369][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:369][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-59.258 Y=5708.940 Z=0.000
+[2016.11.08-09.43.48:370][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:370][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:370][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.43.48:370][464]LogBlueprintUserMessages: [Spawn_BP_2] X=-4713.795 Y=-703.921 Z=0.000
+[2016.11.08-09.43.48:372][464]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.43.48:372][464]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.43.48:372][464]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.04:090][667]LogEditorTransaction: Undo Create Pin Link
+[2016.11.08-09.45.04:863][730]LogEditorTransaction: Undo Delete current selection
+[2016.11.08-09.45.09:323][155]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.45.10:004][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.45.10:071][206]LogSavePackage: Save=46.74ms
+[2016.11.08-09.45.10:071][206]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnAA8CCA0D466F3F77E114FAA7513BABDF.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.45.10:075][206]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.45.11:741][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.45.11:742][374]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:45:11 PM)
+[2016.11.08-09.45.11:742][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.45.11:745][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2016.11.08-09.45.11:746][374]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.45.11:746][374]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2016.11.08-09.45.11:747][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.004966s)
+[2016.11.08-09.45.11:762][374]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.45.11:771][374]LogInit: FAudioDevice initialized.
+[2016.11.08-09.45.11:802][374]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.45.11:805][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.45.11
+[2016.11.08-09.45.11:805][374]LogWorld: Bringing up level for play took: 0.001639
+[2016.11.08-09.45.11:806][374]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.45.11:806][374]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.45.11:806][374]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.45.11:807][374]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.45.11:807][374]LogBlueprintUserMessages: [Spawn_BP_2] X=-4249.425 Y=860.634 Z=0.000
+[2016.11.08-09.45.11:809][374]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.45.11:809][374]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.11:809][374]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.11:809][374]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.45.11:809][374]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.581
+[2016.11.08-09.45.12:678][476]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.21:730][562]LogBlueprintUserMessages: [Spawn_BP_2] X=-712.011 Y=283.852 Z=0.000
+[2016.11.08-09.45.21:731][562]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.21:731][562]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.21:731][562]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.45.21:731][562]LogBlueprintUserMessages: [Spawn_BP_2] X=377.866 Y=1184.969 Z=0.000
+[2016.11.08-09.45.21:732][562]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.21:732][562]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.21:733][562]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.45.21:733][562]LogBlueprintUserMessages: [Spawn_BP_2] X=351.790 Y=-1196.275 Z=0.000
+[2016.11.08-09.45.21:734][562]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.21:734][562]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.21:734][562]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.45.25:073][963]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:081][964]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:089][965]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:114][968]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:123][969]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:131][970]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:148][972]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.25:156][973]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.29:359][477]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.29:367][478]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.31:734][762]LogBlueprintUserMessages: [Spawn_BP_2] X=-6176.633 Y=-430.855 Z=0.000
+[2016.11.08-09.45.31:736][762]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.31:736][762]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.31:736][762]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.45.31:736][762]LogBlueprintUserMessages: [Spawn_BP_2] X=-8027.373 Y=-1119.371 Z=0.000
+[2016.11.08-09.45.31:737][762]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.31:737][762]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.31:737][762]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.45.31:737][762]LogBlueprintUserMessages: [Spawn_BP_2] X=-6651.257 Y=2917.542 Z=0.000
+[2016.11.08-09.45.31:738][762]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.31:738][762]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.31:738][762]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.45.31:738][762]LogBlueprintUserMessages: [Spawn_BP_2] X=-5108.729 Y=1179.117 Z=0.000
+[2016.11.08-09.45.31:739][762]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.31:739][762]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.31:740][762]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.45.31:740][762]LogBlueprintUserMessages: [Spawn_BP_2] X=-3329.768 Y=1883.793 Z=0.000
+[2016.11.08-09.45.31:741][762]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.31:741][762]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.31:741][762]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.45.33:656][992]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.41:732][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-2954.170 Y=405.060 Z=0.000
+[2016.11.08-09.45.41:734][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:734][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:734][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:734][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-1054.796 Y=2010.295 Z=0.000
+[2016.11.08-09.45.41:736][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:736][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:736][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:736][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-4840.068 Y=5597.764 Z=0.000
+[2016.11.08-09.45.41:737][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:737][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:738][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:738][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-8239.489 Y=5785.288 Z=0.000
+[2016.11.08-09.45.41:739][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:739][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:739][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:739][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-869.048 Y=2218.717 Z=0.000
+[2016.11.08-09.45.41:740][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:740][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:740][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:740][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-7879.712 Y=411.747 Z=0.000
+[2016.11.08-09.45.41:741][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:741][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:742][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.41:742][961]LogBlueprintUserMessages: [Spawn_BP_2] X=-783.791 Y=2117.850 Z=0.000
+[2016.11.08-09.45.41:743][961]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.41:743][961]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.41:743][961]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.45.42:199][ 16]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.42:208][ 17]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.42:216][ 18]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.42:225][ 19]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.42:233][ 20]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.43:383][158]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.44:948][345]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:439][644]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:448][645]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:456][646]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:464][647]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:473][648]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:531][655]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:539][656]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:556][658]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.47:564][659]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.51:039][ 76]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.45.51:732][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-4167.391 Y=-3068.446 Z=0.000
+[2016.11.08-09.45.51:733][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:733][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:733][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:733][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-7979.032 Y=-1224.696 Z=0.000
+[2016.11.08-09.45.51:734][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:735][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:735][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:735][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-702.929 Y=2014.196 Z=0.000
+[2016.11.08-09.45.51:736][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:736][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:736][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:736][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-1913.221 Y=1288.064 Z=0.000
+[2016.11.08-09.45.51:737][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:737][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:737][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:737][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-6307.008 Y=4582.406 Z=0.000
+[2016.11.08-09.45.51:738][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:738][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:738][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:738][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-5722.224 Y=1024.751 Z=0.000
+[2016.11.08-09.45.51:739][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:739][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:739][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:739][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-1233.512 Y=4664.883 Z=0.000
+[2016.11.08-09.45.51:740][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:740][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:740][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:740][159]LogBlueprintUserMessages: [Spawn_BP_2] X=968.509 Y=-1233.891 Z=0.000
+[2016.11.08-09.45.51:741][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:741][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:741][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.45.51:741][159]LogBlueprintUserMessages: [Spawn_BP_2] X=-7782.443 Y=2305.095 Z=0.000
+[2016.11.08-09.45.51:743][159]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.45.51:743][159]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.45.51:743][159]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.54.29:828][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.071
+[2016.11.08-09.54.29:831][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player_Pawn] ([1] browsable assets)...
+[2016.11.08-09.54.29:846][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player_Pawn.Player_Pawn]
+[2016.11.08-09.54.29:846][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Pawn]
+[2016.11.08-09.54.29:917][894]LogSavePackage: Save=47.94ms
+[2016.11.08-09.54.29:917][894]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_Pawn_Auto2E29DF9024A2DA476E31FB79363A5EF98.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Autosaves/Game/Player_Pawn_Auto2.uasset'
+[2016.11.08-09.54.29:918][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Autosaves/Game/Player_Pawn_Auto2.uasset
+[2016.11.08-09.54.29:918][894]LogFileHelpers: Auto-saving content packages took 0.089
+[2016.11.08-09.56.39:256][  7]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.56.39:935][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.56.40:008][ 63]LogSavePackage: Save=47.60ms
+[2016.11.08-09.56.40:008][ 63]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnB0FD69404FCADBA3DEFABF9677B0B4E8.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.56.40:012][ 63]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.56.41:563][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.56.41:563][221]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:56:41 PM)
+[2016.11.08-09.56.41:563][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.56.41:567][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003589s)
+[2016.11.08-09.56.41:567][221]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.56.41:568][221]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2016.11.08-09.56.41:568][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005224s)
+[2016.11.08-09.56.41:582][221]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.56.41:591][221]LogInit: FAudioDevice initialized.
+[2016.11.08-09.56.41:623][221]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.56.41:625][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.56.41
+[2016.11.08-09.56.41:625][221]LogWorld: Bringing up level for play took: 0.001670
+[2016.11.08-09.56.41:626][221]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.56.41:626][221]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.56.41:626][221]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.56.41:627][221]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.56.41:627][221]LogBlueprintUserMessages: [Spawn_BP_2] X=-5336.372 Y=2600.730 Z=0.000
+[2016.11.08-09.56.41:628][221]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.56.41:628][221]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.56.41:628][221]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.56.41:628][221]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.56.41:628][221]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.4
+[2016.11.08-09.56.51:558][410]LogBlueprintUserMessages: [Spawn_BP_2] X=-4059.282 Y=-958.875 Z=0.000
+[2016.11.08-09.56.51:560][410]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.56.51:560][410]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.56.51:560][410]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.56.51:560][410]LogBlueprintUserMessages: [Spawn_BP_2] X=-2851.628 Y=-1589.712 Z=0.000
+[2016.11.08-09.56.51:561][410]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.56.51:561][410]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.56.51:561][410]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.56.51:561][410]LogBlueprintUserMessages: [Spawn_BP_2] X=-7118.263 Y=2524.383 Z=0.000
+[2016.11.08-09.56.51:562][410]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.56.51:562][410]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.56.51:562][410]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.57.01:552][609]LogBlueprintUserMessages: [Spawn_BP_2] X=-4208.408 Y=-2582.500 Z=0.000
+[2016.11.08-09.57.01:554][609]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.01:554][609]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.01:554][609]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.57.01:554][609]LogBlueprintUserMessages: [Spawn_BP_2] X=-4376.577 Y=4751.540 Z=0.000
+[2016.11.08-09.57.01:555][609]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.01:555][609]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.01:555][609]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.57.01:555][609]LogBlueprintUserMessages: [Spawn_BP_2] X=-3194.998 Y=4845.440 Z=0.000
+[2016.11.08-09.57.01:557][609]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.01:557][609]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.01:557][609]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.57.01:557][609]LogBlueprintUserMessages: [Spawn_BP_2] X=-4324.427 Y=-2464.079 Z=0.000
+[2016.11.08-09.57.01:558][609]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.01:558][609]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.01:558][609]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.57.01:558][609]LogBlueprintUserMessages: [Spawn_BP_2] X=-6343.044 Y=-3140.056 Z=0.000
+[2016.11.08-09.57.01:559][609]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.01:559][609]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.01:559][609]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.08-09.57.11:552][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-6127.119 Y=-2492.779 Z=0.000
+[2016.11.08-09.57.11:554][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:554][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:554][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:554][808]LogBlueprintUserMessages: [Spawn_BP_2] X=708.052 Y=1209.767 Z=0.000
+[2016.11.08-09.57.11:555][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:555][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:555][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:555][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-1387.618 Y=4059.680 Z=0.000
+[2016.11.08-09.57.11:556][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:557][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:557][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:557][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-3149.879 Y=5528.940 Z=0.000
+[2016.11.08-09.57.11:558][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:558][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:558][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:558][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-8309.511 Y=4097.018 Z=0.000
+[2016.11.08-09.57.11:559][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:559][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:559][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:559][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-56.034 Y=3739.246 Z=0.000
+[2016.11.08-09.57.11:560][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:560][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:560][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.11:560][808]LogBlueprintUserMessages: [Spawn_BP_2] X=-3859.472 Y=5308.816 Z=0.000
+[2016.11.08-09.57.11:561][808]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.11:561][808]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.11:561][808]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.08-09.57.15:776][313]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.15:784][314]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.15:792][315]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.15:800][316]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.20:879][925]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.20:888][926]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.20:896][927]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.20:904][928]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.57.21:556][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-6345.095 Y=-2060.332 Z=0.000
+[2016.11.08-09.57.21:558][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:558][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:558][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:558][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-3528.993 Y=-2456.556 Z=0.000
+[2016.11.08-09.57.21:559][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:559][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:559][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:559][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-5306.782 Y=1438.808 Z=0.000
+[2016.11.08-09.57.21:560][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:560][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:560][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:560][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-697.949 Y=-2501.974 Z=0.000
+[2016.11.08-09.57.21:561][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:561][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:561][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:561][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-8350.820 Y=-2725.163 Z=0.000
+[2016.11.08-09.57.21:562][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:562][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:562][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:562][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-5597.123 Y=3244.106 Z=0.000
+[2016.11.08-09.57.21:563][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:563][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:563][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:563][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-4568.771 Y=-1688.350 Z=0.000
+[2016.11.08-09.57.21:564][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:564][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:564][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:564][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-1468.480 Y=4678.258 Z=0.000
+[2016.11.08-09.57.21:565][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:565][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:565][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.57.21:565][  6]LogBlueprintUserMessages: [Spawn_BP_2] X=-295.690 Y=-1085.934 Z=0.000
+[2016.11.08-09.57.21:567][  6]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.57.21:567][  6]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.57.21:567][  6]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.08-09.58.40:557][393]BlueprintLog: New page: Compile Player_Pawn
+[2016.11.08-09.58.41:225][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-09.58.41:292][446]LogSavePackage: Save=48.04ms
+[2016.11.08-09.58.41:292][446]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnBF280C29451163BAE4BB15ADD1549629.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-09.58.41:298][446]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-09.58.43:950][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-09.58.43:950][731]PIE: New page: PIE session: GameMap (Nov 7, 2016, 7:58:43 PM)
+[2016.11.08-09.58.43:950][731]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-09.58.43:955][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005428s)
+[2016.11.08-09.58.43:956][731]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-09.58.43:957][731]LogPlayLevel: PIE: World Init took: (0.001252s)
+[2016.11.08-09.58.43:957][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006978s)
+[2016.11.08-09.58.43:974][731]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.08-09.58.43:982][731]LogInit: FAudioDevice initialized.
+[2016.11.08-09.58.44:014][731]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-09.58.44:017][731]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-02.58.44
+[2016.11.08-09.58.44:017][731]LogWorld: Bringing up level for play took: 0.001768
+[2016.11.08-09.58.44:018][731]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.58.44:018][731]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-09.58.44:018][731]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.58.44:018][731]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-09.58.44:019][731]LogBlueprintUserMessages: [Spawn_BP_2] X=-4868.780 Y=4538.381 Z=0.000
+[2016.11.08-09.58.44:020][731]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-09.58.44:020][731]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.58.44:020][731]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.58.44:020][731]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-09.58.44:020][731]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.792
+[2016.11.08-09.58.53:940][919]LogBlueprintUserMessages: [Spawn_BP_2] X=-3013.645 Y=407.846 Z=0.000
+[2016.11.08-09.58.53:941][919]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.58.53:941][919]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.58.53:941][919]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.58.53:941][919]LogBlueprintUserMessages: [Spawn_BP_2] X=-5752.107 Y=-1177.606 Z=0.000
+[2016.11.08-09.58.53:943][919]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.58.53:943][919]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.58.53:943][919]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.58.53:943][919]LogBlueprintUserMessages: [Spawn_BP_2] X=-3829.588 Y=5219.373 Z=0.000
+[2016.11.08-09.58.53:944][919]LogTemp:Warning: LookAt reporting!
+[2016.11.08-09.58.53:944][919]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-09.58.53:944][919]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-09.58.57:859][389]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-09.58.57:897][389]LogBlueprintUserMessages: [Player_Pawn_C_0] 
+[2016.11.08-10.00.41:030][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Pawn" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset" SILENT=true
+[2016.11.08-10.00.41:105][657]LogSavePackage: Save=52.22ms
+[2016.11.08-10.00.41:105][657]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Player_PawnBF5FCCC24FA3E47165BB8C94DDFB50DD.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset'
+[2016.11.08-10.00.41:109][657]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Player_Pawn.uasset
+[2016.11.08-10.00.41:336][657]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.08-10.00.41:612][658]Cmd: QUIT_EDITOR
+[2016.11.08-10.00.42:186][658]LogExit: Preparing to exit.
+[2016.11.08-10.00.43:062][658]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/' was aborted.
+[2016.11.08-10.00.43:402][658]LogExit: Editor shut down
+[2016.11.08-10.00.43:403][658]LogExit: Transaction tracking system shut down
+[2016.11.08-10.00.45:867][658]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.08-10.00.45:868][658]LogExit: Object subsystem successfully closed.
+[2016.11.08-10.00.46:465][658]LogD3D11RHI: Shutdown
+[2016.11.08-10.00.46:465][658]LogD3D11RHI: CleanupD3DDevice
+[2016.11.08-10.00.46:870][658]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.08-10.00.50:271][658]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (239)
+[2016.11.08-10.00.50:271][658]LogModuleManager: Shutting down and abandoning module StatsViewer (238)
+[2016.11.08-10.00.50:305][658]LogModuleManager: Shutting down and abandoning module BlueprintGraph (237)
+[2016.11.08-10.00.50:305][658]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (236)
+[2016.11.08-10.00.50:351][658]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.11.08-10.00.50:381][658]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.11.08-10.00.50:425][658]LogModuleManager: Shutting down and abandoning module SceneOutliner (233)
+[2016.11.08-10.00.50:425][658]LogModuleManager: Shutting down and abandoning module WidgetCarousel (232)
+[2016.11.08-10.00.50:425][658]LogModuleManager: Shutting down and abandoning module AddContentDialog (231)
+[2016.11.08-10.00.50:513][658]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.08-10.00.50:575][658]LogModuleManager: Shutting down and abandoning module GameplayTags (230)
+[2016.11.08-10.00.50:575][658]LogModuleManager: Shutting down and abandoning module EditorWidgets (229)
+[2016.11.08-10.00.50:575][658]LogModuleManager: Shutting down and abandoning module CollectionManager (228)
+[2016.11.08-10.00.50:642][658]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Collections/' was aborted.
+[2016.11.08-10.00.50:642][658]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Developers/AjaySathish/Collections/' was aborted.
+[2016.11.08-10.00.50:642][658]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Saved/Collections/' was aborted.
+[2016.11.08-10.00.50:642][658]LogModuleManager: Shutting down and abandoning module FoliageEdit (227)
+[2016.11.08-10.00.50:723][658]LogModuleManager: Shutting down and abandoning module LandscapeEditor (226)
+[2016.11.08-10.00.50:880][658]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (225)
+[2016.11.08-10.00.50:880][658]LogModuleManager: Shutting down and abandoning module ActorPickerMode (224)
+[2016.11.08-10.00.50:880][658]LogModuleManager: Shutting down and abandoning module GeometryMode (223)
+[2016.11.08-10.00.50:880][658]LogModuleManager: Shutting down and abandoning module TextureAlignMode (222)
+[2016.11.08-10.00.50:880][658]LogModuleManager: Shutting down and abandoning module BspMode (221)
+[2016.11.08-10.00.50:903][658]LogModuleManager: Shutting down and abandoning module HardwareSurvey (220)
+[2016.11.08-10.00.50:950][658]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (219)
+[2016.11.08-10.00.50:950][658]LogModuleManager: Shutting down and abandoning module SequenceRecorder (218)
+[2016.11.08-10.00.51:130][658]LogModuleManager: Shutting down and abandoning module AutomationWorker (217)
+[2016.11.08-10.00.51:171][658]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (216)
+[2016.11.08-10.00.51:193][658]LogModuleManager: Shutting down and abandoning module PlacementMode (215)
+[2016.11.08-10.00.51:208][658]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (214)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (213)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (212)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (211)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (210)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module Media (209)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (208)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (207)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module CharacterAI (206)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module SmartSnapping (205)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module SessionServices (204)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module ViewportSnapping (203)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module ViewportInteraction (202)
+[2016.11.08-10.00.51:325][658]LogModuleManager: Shutting down and abandoning module LogVisualizer (201)
+[2016.11.08-10.00.52:129][658]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (200)
+[2016.11.08-10.00.52:291][658]LogModuleManager: Shutting down and abandoning module IntroTutorials (199)
+[2016.11.08-10.00.52:325][658]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (198)
+[2016.11.08-10.00.52:325][658]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (197)
+[2016.11.08-10.00.52:335][658]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (196)
+[2016.11.08-10.00.52:335][658]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (195)
+[2016.11.08-10.00.53:211][658]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (194)
+[2016.11.08-10.00.53:242][658]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (193)
+[2016.11.08-10.00.53:242][658]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (192)
+[2016.11.08-10.00.53:242][658]LogModuleManager: Shutting down and abandoning module NiagaraEditor (191)
+[2016.11.08-10.00.53:507][658]LogModuleManager: Shutting down and abandoning module MergeActors (190)
+[2016.11.08-10.00.53:546][658]LogModuleManager: Shutting down and abandoning module SizeMap (189)
+[2016.11.08-10.00.53:641][658]LogModuleManager: Shutting down and abandoning module TreeMap (188)
+[2016.11.08-10.00.53:688][658]LogModuleManager: Shutting down and abandoning module ReferenceViewer (187)
+[2016.11.08-10.00.53:688][658]LogModuleManager: Shutting down and abandoning module LocalizationService (186)
+[2016.11.08-10.00.53:707][658]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (185)
+[2016.11.08-10.00.53:721][658]LogModuleManager: Shutting down and abandoning module HardwareTargeting (184)
+[2016.11.08-10.00.53:743][658]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (183)
+[2016.11.08-10.00.53:764][658]LogModuleManager: Shutting down and abandoning module UndoHistory (182)
+[2016.11.08-10.00.53:812][658]LogModuleManager: Shutting down and abandoning module UserFeedback (181)
+[2016.11.08-10.00.53:812][658]LogModuleManager: Shutting down and abandoning module XmlParser (180)
+[2016.11.08-10.00.53:834][658]LogModuleManager: Shutting down and abandoning module Blutility (179)
+[2016.11.08-10.00.53:841][658]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (178)
+[2016.11.08-10.00.53:856][658]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (177)
+[2016.11.08-10.00.53:856][658]LogModuleManager: Shutting down and abandoning module InputBindingEditor (176)
+[2016.11.08-10.00.53:970][658]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (175)
+[2016.11.08-10.00.53:970][658]LogModuleManager: Shutting down and abandoning module SettingsEditor (174)
+[2016.11.08-10.00.54:006][658]LogModuleManager: Shutting down and abandoning module ProjectLauncher (173)
+[2016.11.08-10.00.54:129][658]LogModuleManager: Shutting down and abandoning module SessionFrontend (172)
+[2016.11.08-10.00.54:144][658]LogModuleManager: Shutting down and abandoning module ProfilerClient (171)
+[2016.11.08-10.00.54:388][658]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (170)
+[2016.11.08-10.00.54:483][658]LogModuleManager: Shutting down and abandoning module DeviceManager (169)
+[2016.11.08-10.00.54:664][658]LogModuleManager: Shutting down and abandoning module AutomationController (168)
+[2016.11.08-10.00.54:708][658]LogModuleManager: Shutting down and abandoning module AutomationWindow (167)
+[2016.11.08-10.00.54:756][658]LogModuleManager: Shutting down and abandoning module Layers (166)
+[2016.11.08-10.00.54:833][658]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (165)
+[2016.11.08-10.00.54:833][658]LogModuleManager: Shutting down and abandoning module DetailCustomizations (164)
+[2016.11.08-10.00.54:960][658]LogModuleManager: Shutting down and abandoning module PackagesDialog (163)
+[2016.11.08-10.00.54:960][658]LogModuleManager: Shutting down and abandoning module AnimGraph (162)
+[2016.11.08-10.00.54:960][658]LogModuleManager: Shutting down and abandoning module Persona (161)
+[2016.11.08-10.00.55:065][658]LogModuleManager: Shutting down and abandoning module Kismet (160)
+[2016.11.08-10.00.55:162][658]LogModuleManager: Shutting down and abandoning module GraphEditor (159)
+[2016.11.08-10.00.55:162][658]LogModuleManager: Shutting down and abandoning module ClassViewer (158)
+[2016.11.08-10.00.55:206][658]LogModuleManager: Shutting down and abandoning module Toolbox (157)
+[2016.11.08-10.00.55:228][658]LogModuleManager: Shutting down and abandoning module ModuleUI (156)
+[2016.11.08-10.00.55:293][658]LogModuleManager: Shutting down and abandoning module MovieSceneTools (155)
+[2016.11.08-10.00.55:506][658]LogModuleManager: Shutting down and abandoning module OutputLog (154)
+[2016.11.08-10.00.55:769][658]LogModuleManager: Shutting down and abandoning module GammaUI (153)
+[2016.11.08-10.00.55:932][658]LogModuleManager: Shutting down and abandoning module Documentation (152)
+[2016.11.08-10.00.55:933][658]LogModuleManager: Shutting down and abandoning module Niagara (151)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (150)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module AnalyticsET (149)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module PortalServices (148)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module PortalRpc (147)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module MessagingRpc (146)
+[2016.11.08-10.00.55:959][658]LogModuleManager: Shutting down and abandoning module GameplayDebugger (145)
+[2016.11.08-10.00.55:999][658]LogModuleManager: Shutting down and abandoning module AITestSuite (144)
+[2016.11.08-10.00.56:010][658]LogModuleManager: Shutting down and abandoning module AIModule (143)
+[2016.11.08-10.00.56:039][658]LogModuleManager: Shutting down and abandoning module ProfilerService (142)
+[2016.11.08-10.00.56:276][658]LogModuleManager: Shutting down and abandoning module TaskGraph (141)
+[2016.11.08-10.00.56:305][658]LogModuleManager: Shutting down and abandoning module SubstanceEditor (140)
+[2016.11.08-10.00.56:345][658]LogModuleManager: Shutting down and abandoning module SlateRemote (139)
+[2016.11.08-10.00.56:345][658]LogModuleManager: Shutting down and abandoning module SteamVRController (138)
+[2016.11.08-10.00.56:345][658]LogModuleManager: Shutting down and abandoning module SteamVR (137)
+[2016.11.08-10.00.56:345][658]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (136)
+[2016.11.08-10.00.56:356][658]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (135)
+[2016.11.08-10.00.56:356][658]LogModuleManager: Shutting down and abandoning module OculusLibrary (134)
+[2016.11.08-10.00.56:365][658]LogModuleManager: Shutting down and abandoning module OculusInput (133)
+[2016.11.08-10.00.56:365][658]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (132)
+[2016.11.08-10.00.56:365][658]LogModuleManager: Shutting down and abandoning module CableComponent (131)
+[2016.11.08-10.00.56:365][658]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (130)
+[2016.11.08-10.00.56:365][658]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (128)
+[2016.11.08-10.00.56:459][658]LogModuleManager: Shutting down and abandoning module HTML5Networking (127)
+[2016.11.08-10.00.56:459][658]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (126)
+[2016.11.08-10.00.56:459][658]LogModuleManager: Shutting down and abandoning module GeometryCache (125)
+[2016.11.08-10.00.56:459][658]LogModuleManager: Shutting down and abandoning module AlembicLibrary (124)
+[2016.11.08-10.00.56:459][658]LogModuleManager: Shutting down and abandoning module AlembicImporter (123)
+[2016.11.08-10.00.56:479][658]LogModuleManager: Shutting down and abandoning module SuperSearch (122)
+[2016.11.08-10.00.56:479][658]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (121)
+[2016.11.08-10.00.56:479][658]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (120)
+[2016.11.08-10.00.56:479][658]LogModuleManager: Shutting down and abandoning module PluginBrowser (119)
+[2016.11.08-10.00.56:509][658]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (118)
+[2016.11.08-10.00.56:553][658]LogModuleManager: Shutting down and abandoning module EpicSurvey (117)
+[2016.11.08-10.00.56:569][658]LogModuleManager: Shutting down and abandoning module DesktopPlatform (116)
+[2016.11.08-10.00.56:577][658]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (115)
+[2016.11.08-10.00.56:598][658]LogModuleManager: Shutting down and abandoning module UObjectPlugin (114)
+[2016.11.08-10.00.56:598][658]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (113)
+[2016.11.08-10.00.56:632][658]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (112)
+[2016.11.08-10.00.56:669][658]LogModuleManager: Shutting down and abandoning module SourceControl (111)
+[2016.11.08-10.00.57:534][658]LogModuleManager: Shutting down and abandoning module GitSourceControl (110)
+[2016.11.08-10.00.57:669][658]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (109)
+[2016.11.08-10.00.57:669][658]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (108)
+[2016.11.08-10.00.57:696][658]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (107)
+[2016.11.08-10.00.57:696][658]LogModuleManager: Shutting down and abandoning module MeshPaint (106)
+[2016.11.08-10.00.57:696][658]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (105)
+[2016.11.08-10.00.57:713][658]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (104)
+[2016.11.08-10.00.57:797][658]LogModuleManager: Shutting down and abandoning module HotReload (103)
+[2016.11.08-10.00.57:866][658]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Binaries/Win64' was aborted.
+[2016.11.08-10.00.57:924][658]LogModuleManager: Shutting down and abandoning module MainFrame (102)
+[2016.11.08-10.00.57:924][658]LogModuleManager: Shutting down and abandoning module LevelEditor (101)
+[2016.11.08-10.00.57:925][658]LogModuleManager: Shutting down and abandoning module ContentBrowser (100)
+[2016.11.08-10.00.57:927][658]LogModuleManager: Shutting down and abandoning module Paper2DEditor (99)
+[2016.11.08-10.00.57:971][658]LogModuleManager: Shutting down and abandoning module CelebritySlasher (98)
+[2016.11.08-10.00.57:971][658]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.11.08-10.00.58:072][658]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.11.08-10.00.58:206][658]LogModuleManager: Shutting down and abandoning module SubstanceCore (95)
+[2016.11.08-10.00.58:256][658]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.08-10.00.58:256][658]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.08-10.00.58:279][658]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.08-10.00.58:294][658]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.08-10.00.58:319][658]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.08-10.00.58:319][658]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.08-10.00.58:341][658]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.08-10.00.58:364][658]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.08-10.00.58:364][658]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.08-10.00.58:364][658]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.08-10.00.58:364][658]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.08-10.00.58:449][658]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.08-10.00.58:449][658]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.08-10.00.58:489][658]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.08-10.00.58:595][658]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.08-10.00.58:595][658]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.08-10.00.58:595][658]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.08-10.00.58:649][658]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.08-10.00.58:737][658]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.08-10.00.58:873][658]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.08-10.00.59:180][658]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.08-10.00.59:180][658]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.08-10.00.59:183][658]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.08-10.00.59:183][658]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.08-10.00.59:184][658]LogDirectoryWatcher: A directory notification for '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/' was aborted.
+[2016.11.08-10.00.59:184][658]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.08-10.00.59:189][658]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.08-10.00.59:470][658]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.08-10.00.59:470][658]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.08-10.00.59:483][658]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.08-10.00.59:576][658]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.08-10.00.59:616][658]LogDerivedDataCache: Shutdown
+[2016.11.08-10.00.59:616][658]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.08-10.00.59:651][658]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.08-10.00.59:669][658]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.08-10.00.59:684][658]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.08-10.00.59:701][658]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.08-10.00.59:701][658]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.08-10.00.59:718][658]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.08-10.00.59:725][658]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.08-10.00.59:762][658]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.08-10.00.59:762][658]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.08-10.00.59:762][658]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.08-10.00.59:762][658]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.08-10.00.59:842][658]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.08-10.00.59:856][658]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.08-10.00.59:872][658]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.08-10.00.59:872][658]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.08-10.00.59:885][658]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.08-10.00.59:900][658]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.08-10.01.00:075][658]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.08-10.01.00:244][658]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.08-10.01.00:356][658]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.08-10.01.00:401][658]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.08-10.01.00:401][658]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.08-10.01.00:401][658]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.08-10.01.00:401][658]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.08-10.01.00:401][658]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.08-10.01.00:527][658]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.08-10.01.00:527][658]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.08-10.01.00:527][658]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.08-10.01.00:527][658]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.08-10.01.00:602][658]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.08-10.01.00:775][658]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.08-10.01.00:775][658]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.08-10.01.00:775][658]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B467E8D8D-45A1-8F3F-D886-F3B014932A51%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=2007ea0449c77b785b93338fbe282799%7C212d209d3ab64bde90ec43b8f786d5e0%7Cb20de7de-9010-4b24-8267-a383ba51c528&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.08-10.01.00:793][658]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.08-10.01.00:863][658]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.08-10.01.00:978][658]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.08-10.01.00:978][658]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.08-10.01.00:978][658]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.08-10.01.01:070][658]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.08-10.01.01:109][658]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.08-10.01.01:183][658]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.08-10.01.01:232][658]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.08-10.01.01:604][658]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.08-10.01.02:025][658]LogExit: Exiting.
+[2016.11.08-10.01.02:038][658]Log file closed, 11/08/16 03:01:02
