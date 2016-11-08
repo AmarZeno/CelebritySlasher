@@ -1,9 +1,9 @@
-﻿Log file open, 11/08/16 02:31:25
+﻿Log file open, 11/08/16 09:40:18
 LogInit:Display: Running engine for game: CelebritySlasher
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-162290935) SRandInit(-162290935).
+LogInit:Display: RandInit(-523075818) SRandInit(-523075818).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.072567
+LogStats: Stats thread started at 0.077712
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -129,338 +129,633 @@ LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
 LogInit: Compiled with Visual C++: 19.00.23026.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.13
-LogInit: Command line:  
+LogInit: Command line: -EpicPortal 
 LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2016.11.08-09.31.25:457][  0]LogInit: Selected Device Profile: [Windows]
-[2016.11.08-09.31.25:457][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2016.11.08-09.31.25:472][  0]LogInit: Computer: eae-d-089
-[2016.11.08-09.31.25:472][  0]LogInit: User: u1077160
-[2016.11.08-09.31.25:472][  0]LogInit: CPU Page size=65536, Cores=4
-[2016.11.08-09.31.25:472][  0]LogInit: High frequency timer resolution =3.320311 MHz
-[2016.11.08-09.31.25:472][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2016.11.08-09.31.25:472][  0]LogMemory: Platform Memory Stats for Windows
-[2016.11.08-09.31.25:472][  0]LogMemory: Process Physical Memory: 256.54 MB used, 256.54 MB peak
-[2016.11.08-09.31.25:472][  0]LogMemory: Process Virtual Memory: 260.12 MB used, 260.12 MB peak
-[2016.11.08-09.31.25:472][  0]LogMemory: Physical Memory: 8665.77 MB used, 32706.56 MB total
-[2016.11.08-09.31.25:472][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
-[2016.11.08-09.31.25:545][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2016.11.08-09.31.27:461][  0]LogD3D11RHI: D3D11 adapters:
-[2016.11.08-09.31.27:491][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2016.11.08-09.31.27:491][  0]LogD3D11RHI:       8145/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2016.11.08-09.31.27:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2016.11.08-09.31.27:492][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2016.11.08-09.31.27:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2016.11.08-09.31.27:497][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2016.11.08-09.31.27:498][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2016.11.08-09.31.27:498][  0]LogWindows: EnumDisplayDevices:
-[2016.11.08-09.31.27:498][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2016.11.08-09.31.27:498][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2016.11.08-09.31.27:498][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2016.11.08-09.31.27:498][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2016.11.08-09.31.27:498][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2016.11.08-09.31.27:498][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2016.11.08-09.31.27:498][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
-[2016.11.08-09.31.27:498][  0]LogD3D11RHI:      Driver Date: 8-1-2016
-[2016.11.08-09.31.27:498][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
-[2016.11.08-09.31.27:513][  0]LogD3D11RHI: Async texture creation enabled
-[2016.11.08-09.31.27:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2016.11.08-09.31.27:527][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Intermediate/Shaders/WorkingDirectory/13752/).
-[2016.11.08-09.31.27:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1077160/AppData/Local/Temp/UnrealShaderWorkingDir/AC58DA9C4FD0399258AA5F803BFEA4A8/'.
-[2016.11.08-09.31.27:527][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2016.11.08-09.31.28:949][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2016.11.08-09.31.28:957][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2016.11.08-09.31.28:964][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2016.11.08-09.31.28:972][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2016.11.08-09.31.28:980][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2016.11.08-09.31.28:989][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2016.11.08-09.31.28:995][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2016.11.08-09.31.29:001][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2016.11.08-09.31.29:007][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2016.11.08-09.31.29:013][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2016.11.08-09.31.29:020][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2016.11.08-09.31.29:032][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2016.11.08-09.31.29:032][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2016.11.08-09.31.29:033][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2016.11.08-09.31.29:058][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2016.11.08-09.31.29:063][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2016.11.08-09.31.29:069][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2016.11.08-09.31.29:074][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2016.11.08-09.31.29:081][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2016.11.08-09.31.29:091][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2016.11.08-09.31.29:091][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2016.11.08-09.31.29:199][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Loaded boot cache 0.23s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2016.11.08-09.31.29:450][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2016.11.08-09.31.29:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1077160/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2016.11.08-09.31.30:563][  0]LogInit: Selected Device Profile: [Windows]
-[2016.11.08-09.31.30:567][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No automatic mesh reduction module available
-[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No automatic mesh merging module available
-[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No distributed automatic mesh merging module available
-[2016.11.08-09.31.30:721][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2016.11.08-09.31.31:020][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: celebrityslasher, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 584922918
-[2016.11.08-09.31.31:058][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
-[2016.11.08-09.31.31:089][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.028334 seconds
-[2016.11.08-09.31.31:094][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
-[2016.11.08-09.31.31:094][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
-[2016.11.08-09.31.31:094][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2016.11.08-09.31.31:101][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2016.11.08-09.31.31:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2016.11.08-09.31.31:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2016.11.08-09.31.33:175][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
-[2016.11.08-09.31.33:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2016.11.08-09.31.33:209][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2016.11.08-09.31.33:478][  0]SourceControl: Info Source control is disabled
-[2016.11.08-09.31.33:542][  0]SourceControl: Info Source control is disabled
-[2016.11.08-09.31.33:558][  0]SourceControl: Info Source control is disabled
-[2016.11.08-09.31.33:568][  0]SourceControl: Info Source control is disabled
-[2016.11.08-09.31.33:936][  0]LogEngine: Initializing Engine...
-[2016.11.08-09.31.33:937][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2016.11.08-09.31.34:063][  0]LogAIModule: Creating AISystem for world Untitled
-[2016.11.08-09.31.34:094][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2016.11.08-09.31.34:112][  0]LogInit: FAudioDevice initialized.
-[2016.11.08-09.31.34:141][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
-[2016.11.08-09.31.34:148][  0]LogInit: Texture streaming: Enabled
-[2016.11.08-09.31.34:182][  0]LogInit: Transaction tracking system initialized
-[2016.11.08-09.31.34:217][  0]BlueprintLog: New page: Editor Load
-[2016.11.08-09.31.34:329][  0]LocalizationService: Info Localization service is disabled
-[2016.11.08-09.31.34:437][  0]LogConsoleResponse:Display: 
-[2016.11.08-09.31.34:648][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2016.11.08-09.31.34:648][  0]LogCook:Display: Mobile HDR setting 1
-[2016.11.08-09.31.34:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/' took 0.01s
-[2016.11.08-09.31.34:949][  0]SourceControl: Info Source control is disabled
-[2016.11.08-09.31.34:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2016.11.08-09.31.34:949][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap'
-[2016.11.08-09.31.34:949][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2016.11.08-09.31.34:980][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.893ms to complete.
-[2016.11.08-09.31.34:980][  0]LogFileHelpers: Loading map 'GameMap' took 0.031
-[2016.11.08-09.31.35:126][  0]LogCollectionManager: Loaded 1 collections in 0.004239 seconds
-[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Collections/' took 0.01s
-[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Developers/u1077160/Collections/' took 0.01s
-[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Collections/' took 0.01s
-[2016.11.08-09.31.35:169][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000005 seconds
-[2016.11.08-09.31.35:169][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
-[2016.11.08-09.31.35:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2163 classes and 425 folders.
-[2016.11.08-09.31.35:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2016.11.08-09.31.35:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2016.11.08-09.31.35:184][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0014 seconds. Added 12 classes and 0 folders.
-[2016.11.08-09.31.35:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
-[2016.11.08-09.31.35:452][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
-[2016.11.08-09.31.35:467][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2016.11.08-09.31.35:474][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2016.11.08-09.31.35:504][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
-[2016.11.08-09.31.35:504][  0]LogLoad: (Engine Initialization) Total time: 11.13 seconds
-[2016.11.08-09.31.35:504][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.03 seconds
-[2016.11.08-09.31.35:505][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2016.11.08-09.31.35:505][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2016.11.08-09.31.35:513][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2016.11.08-09.31.35:514][  0]LogOcInput: OculusInput pre-init called
-[2016.11.08-09.31.35:532][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2016.11.08-09.31.35:710][  0]LogRenderer: Reallocating scene render targets to support 932x612 (Frame:2).
-[2016.11.08-09.31.35:755][  1]LogAssetRegistry: Asset discovery search completed in 4.7199 seconds
-[2016.11.08-09.31.35:755][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000005 seconds (found 0 objects)
-[2016.11.08-09.31.35:755][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000023 seconds (updated 0 objects)
-[2016.11.08-09.31.42:407][739]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.h'
-[2016.11.08-09.31.42:490][739]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.cpp'
-[2016.11.08-09.31.50:335][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
-[2016.11.08-09.31.50:335][672]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.31.50:335][672]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_37  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.31.50:337][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.31.50:337][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.31.50:338][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.31.50:721][672]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 112 classes and 0 folders.
-[2016.11.08-09.32.28:942][921]LogTemp: Dropped UpdateHealth on Category Game
-[2016.11.08-09.32.32:292][317]LogTemp: Dropped UpdateHealth on Category Input
-[2016.11.08-09.32.39:533][174]LogTemp: Dropped UpdateHealth on Category Input
-[2016.11.08-09.32.47:635][132]LogTemp: Dropped UpdateHealth on Category Game|Damage
-[2016.11.08-09.32.51:078][537]LogTemp: Dropped UpdateHealth on Category Game
-[2016.11.08-09.33.00:586][630]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.33.00:592][630]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
-[2016.11.08-09.33.00:713][630]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
-[2016.11.08-09.33.00:713][630]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0096.35] Compile of Player_Controller successful, but with 1 Warning(s) [in 127 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.33.02:156][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.33.02:189][797]LogSavePackage: Save=14.65ms
-[2016.11.08-09.33.02:189][797]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller5304303C4F8A1059B6104BA1E7C64FC9.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.33.02:193][797]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.33.03:353][930]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.33.03:359][930]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
-[2016.11.08-09.33.03:473][930]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
-[2016.11.08-09.33.03:473][930]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0099.11] Compile of Player_Controller successful, but with 1 Warning(s) [in 120 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.33.30:249][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.33.30:274][992]LogSavePackage: Save=12.90ms
-[2016.11.08-09.33.30:274][992]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller58407261447698B0A8519FACEFB031D5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.33.30:276][992]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.33.31:131][ 91]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.36.15:963][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.36.15:994][127]LogSavePackage: Save=14.92ms
-[2016.11.08-09.36.15:994][127]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerFD88B25444C66F3B234B97B7BE4EB3CC.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.36.15:997][127]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.36.16:432][166]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.36.16:439][166]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_11  would always fail).
-[2016.11.08-09.36.16:562][166]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_11  would always fail).
-[2016.11.08-09.36.16:562][166]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0292.20] Compile of Player_Controller successful, but with 1 Warning(s) [in 129 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.36.42:376][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.36.42:406][ 69]LogSavePackage: Save=18.00ms
-[2016.11.08-09.36.42:406][ 69]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerF08EE7DF44CFB436695E8C9ABBCBA90D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.36.42:409][ 69]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.36.42:735][106]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.36.49:656][907]Recompiling CelebritySlasher...
-[2016.11.08-09.36.49:656][907]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 3797 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
-[2016.11.08-09.36.49:657][907]Warning: Starting HotReload took  0.0s.
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:36:54 PM
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Compiling game modules for hot reload
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2016.11.08-09.36.54:302][464]CompilerResultsLog:Error: Error C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.h(33)  : Blueprint accessible functions must have a category specified
-[2016.11.08-09.36.54:302][464]CompilerResultsLog:Error: Error Error: Failed to generate code for CelebritySlasherEditor - error code: OtherCompilationError (5) 
-[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info UnrealHeaderTool failed for target 'CelebritySlasherEditor' (platform: Win64, module info: C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest).
-[2016.11.08-09.36.54:302][464]LogMainFrame: MainFrame: Module compiling took 4.651 seconds
-[2016.11.08-09.36.54:302][464]Warning: HotReload failed, recompile failed
-[2016.11.08-09.37.43:955][600]Recompiling CelebritySlasher...
-[2016.11.08-09.37.43:955][600]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 5503 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
-[2016.11.08-09.37.43:956][600]Warning: Starting HotReload took  0.0s.
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:37:52 PM
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Compiling game modules for hot reload
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.8294858 seconds
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
-[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info CelebritySlasher.generated.cpp
-[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info ScreenFeedback.cpp
-[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info [3/3] Link UE4Editor-CelebritySlasher-5503.dll
-[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5503.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5503.exp
-[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info Total build time: 8.33 seconds
-[2016.11.08-09.37.52:431][617]LogMainFrame: MainFrame: Module compiling took 8.480 seconds
-[2016.11.08-09.37.52:464][617]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
-[2016.11.08-09.37.52:464][617]LogClass: Function GetCurrentHealth is new.
-[2016.11.08-09.37.52:468][617]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
-[2016.11.08-09.37.52:520][617]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0014 seconds. Added 6 classes and 2 folders.
-[2016.11.08-09.37.52:522][617]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2016.11.08-09.37.52:813][617]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2164 classes and 427 folders.
-[2016.11.08-09.37.52:814][617]Display: HotReload took  8.9s.
-[2016.11.08-09.38.42:985][479]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.38.47:018][852]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.38.49:263][ 68]Recompiling CelebritySlasher...
-[2016.11.08-09.38.49:263][ 68]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 593 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
-[2016.11.08-09.38.49:265][ 68]Warning: Starting HotReload took  0.0s.
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:38:56 PM
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Compiling game modules for hot reload
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.7686213 seconds
-[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
-[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info ScreenFeedback.cpp
-[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info CelebritySlasher.generated.cpp
-[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info [3/3] Link UE4Editor-CelebritySlasher-593.dll
-[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-593.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-593.exp
-[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info Total build time: 6.88 seconds
-[2016.11.08-09.38.56:291][911]LogMainFrame: MainFrame: Module compiling took 7.031 seconds
-[2016.11.08-09.38.56:324][911]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
-[2016.11.08-09.38.56:324][911]LogClass: Function GetCurrentHealth is new.
-[2016.11.08-09.38.56:328][911]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
-[2016.11.08-09.38.56:386][911]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0015 seconds. Added 6 classes and 2 folders.
-[2016.11.08-09.38.56:388][911]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2016.11.08-09.38.56:631][911]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2164 classes and 427 folders.
-[2016.11.08-09.38.56:631][911]Display: HotReload took  7.4s.
-[2016.11.08-09.46.00:114][299]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.46.00:123][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_14  would always fail).
-[2016.11.08-09.46.00:123][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_24  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_14  would always fail).
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_24  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.46.00:418][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0876.06] Compile of Player_Controller failed. 6 Fatal Issue(s) 2 Warning(s) [in 303 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.46.03:192][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.033
-[2016.11.08-09.46.03:194][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Controller] ([1] browsable assets)...
-[2016.11.08-09.46.03:194][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Controller]
-[2016.11.08-09.46.03:230][574]LogSavePackage: Save=19.62ms
-[2016.11.08-09.46.03:230][574]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller_Auto10F1D35D346FD763AF6504EAE90425BC4.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto1.uasset'
-[2016.11.08-09.46.03:232][574]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto1.uasset
-[2016.11.08-09.46.03:232][574]LogFileHelpers: Auto-saving content packages took 0.039
-[2016.11.08-09.54.57:606][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.54.57:639][315]LogSavePackage: Save=15.29ms
-[2016.11.08-09.54.57:639][315]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller0E47C04644E26F21F6C07A9E5FBF8CF5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.54.57:642][315]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.54.58:209][375]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.54.58:219][375]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
-[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
-[2016.11.08-09.54.58:427][375]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1414.08] Compile of Player_Controller failed. 3 Fatal Issue(s) 1 Warning(s) [in 218 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.55.28:550][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-09.55.28:580][818]LogSavePackage: Save=17.47ms
-[2016.11.08-09.55.28:580][818]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller33F88E234CC278E031F055B5531B6824.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-09.55.28:583][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-09.55.29:097][872]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-09.55.29:107][872]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.55.29:224][872]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-09.55.29:224][872]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1444.88] Compile of Player_Controller successful, but with 1 Warning(s) [in 127 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-09.55.40:498][148]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
-[2016.11.08-09.57.25:923][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.013
-[2016.11.08-09.57.25:925][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Controller] ([1] browsable assets)...
-[2016.11.08-09.57.25:925][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Controller]
-[2016.11.08-09.57.25:953][ 20]LogSavePackage: Save=15.18ms
-[2016.11.08-09.57.25:953][ 20]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller_Auto2A88F2BC741A8FB22C8FDBD803A88BB9A.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto2.uasset'
-[2016.11.08-09.57.25:954][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto2.uasset
-[2016.11.08-09.57.25:954][ 20]LogFileHelpers: Auto-saving content packages took 0.030
-[2016.11.08-10.00.08:430][649]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-10.00.08:437][649]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-10.00.08:546][649]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
-[2016.11.08-10.00.08:546][649]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1724.20] Compile of Player_Controller successful, but with 1 Warning(s) [in 116 ms] (/Game/Player_Controller.Player_Controller)
-[2016.11.08-10.00.18:499][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
-[2016.11.08-10.00.18:528][787]LogSavePackage: Save=12.73ms
-[2016.11.08-10.00.18:528][787]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerD47C3D33413622F684A7C397A75F25AB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
-[2016.11.08-10.00.18:531][787]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
-[2016.11.08-10.00.19:022][845]BlueprintLog: New page: Compile Player_Controller
-[2016.11.08-10.00.35:165][728]Running C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher Win64 Development -editorrecompile "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject" -invalidatemakefilesonly
-[2016.11.08-10.00.35:468][728]Invalidating makefiles only in this run.
-[2016.11.08-10.00.35:880][728]Recompiling CelebritySlasher...
-[2016.11.08-10.00.35:880][728]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 4714 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 8:00:43 PM
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Compiling game modules for hot reload
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.4337385 seconds
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Performing 4 actions (4 in parallel)
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info ScreenFeedback.cpp
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info CelebritySlasher.generated.cpp
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info PlayerCharacter.cpp
-[2016.11.08-10.00.43:562][728]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Source\CelebritySlasher\PlayerCharacter.cpp(30) : warning C4458: declaration of 'InputComponent' hides class member
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info [4/4] Link UE4Editor-CelebritySlasher-4714.dll
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-4714.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-4714.exp
-[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Total build time: 7.54 seconds
-[2016.11.08-10.00.43:562][728]LogMainFrame: MainFrame: Module compiling took 7.687 seconds
-[2016.11.08-10.00.43:599][728]LogClass: Could not find existing class PlayerCharacter in package /Script/CelebritySlasher for HotReload, assuming new class
-[2016.11.08-10.00.43:599][728]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
-[2016.11.08-10.00.43:599][728]LogClass: Function GetCurrentHealth is new.
-[2016.11.08-10.00.43:599][728]LogClass: Function SetCurrentHealth is new.
-[2016.11.08-10.00.43:604][728]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
-[2016.11.08-10.00.43:662][728]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0015 seconds. Added 7 classes and 2 folders.
-[2016.11.08-10.00.43:665][728]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
-[2016.11.08-10.00.43:886][728]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2165 classes and 427 f
+[2016.11.08-16.40.18:251][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-16.40.18:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.08-16.40.18:263][  0]LogInit: Computer: eae-d-089
+[2016.11.08-16.40.18:263][  0]LogInit: User: u1077160
+[2016.11.08-16.40.18:263][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.08-16.40.18:263][  0]LogInit: High frequency timer resolution =3.320316 MHz
+[2016.11.08-16.40.18:263][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2016.11.08-16.40.18:263][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.08-16.40.18:263][  0]LogMemory: Process Physical Memory: 256.37 MB used, 256.37 MB peak
+[2016.11.08-16.40.18:263][  0]LogMemory: Process Virtual Memory: 259.94 MB used, 259.94 MB peak
+[2016.11.08-16.40.18:263][  0]LogMemory: Physical Memory: 4754.50 MB used, 32706.56 MB total
+[2016.11.08-16.40.18:263][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
+[2016.11.08-16.40.18:288][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.08-16.40.18:787][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.08-16.40.18:812][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2016.11.08-16.40.18:812][  0]LogD3D11RHI:       8145/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.11.08-16.40.18:813][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.08-16.40.18:813][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.08-16.40.18:813][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.08-16.40.18:816][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.08-16.40.18:817][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.08-16.40.18:817][  0]LogWindows: EnumDisplayDevices:
+[2016.11.08-16.40.18:817][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2016.11.08-16.40.18:817][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2016.11.08-16.40.18:817][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.11.08-16.40.18:817][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.11.08-16.40.18:817][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.08-16.40.18:817][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2016.11.08-16.40.18:817][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2016.11.08-16.40.18:817][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2016.11.08-16.40.18:817][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.08-16.40.18:831][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.08-16.40.18:841][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.08-16.40.18:841][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Intermediate/Shaders/WorkingDirectory/11032/).
+[2016.11.08-16.40.18:841][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1077160/AppData/Local/Temp/UnrealShaderWorkingDir/E2BF3B9B44AC1D932FE4C3912F5CD138/'.
+[2016.11.08-16.40.18:841][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.08-16.40.19:662][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.08-16.40.19:669][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.08-16.40.19:677][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.08-16.40.19:684][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.08-16.40.19:691][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.08-16.40.19:697][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.08-16.40.19:704][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.08-16.40.19:710][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.08-16.40.19:716][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.08-16.40.19:721][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.08-16.40.19:727][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.08-16.40.19:739][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.08-16.40.19:739][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.08-16.40.19:739][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.08-16.40.19:758][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.08-16.40.19:763][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.08-16.40.19:768][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.08-16.40.19:774][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.08-16.40.19:779][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.08-16.40.19:784][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.08-16.40.19:784][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.08-16.40.19:860][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.08-16.40.19:910][  0]LogDerivedDataCache: Loaded boot cache 0.05s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-16.40.19:910][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.08-16.40.19:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.08-16.40.19:910][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.08-16.40.19:911][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.08-16.40.19:911][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.08-16.40.19:925][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.08-16.40.19:936][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1077160/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.08-16.40.20:122][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-16.40.20:123][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.08-16.40.20:204][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.08-16.40.20:204][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.08-16.40.20:204][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.08-16.40.20:261][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.08-16.40.20:503][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: celebrityslasher, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 584922918
+[2016.11.08-16.40.20:538][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2016.11.08-16.40.20:567][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.026359 seconds
+[2016.11.08-16.40.20:572][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.08-16.40.20:572][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.11.08-16.40.20:572][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.08-16.40.20:580][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.08-16.40.20:761][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-16.40.20:761][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-16.40.21:286][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.11.08-16.40.21:297][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.08-16.40.21:318][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.08-16.40.21:539][  0]SourceControl: Info Source control is disabled
+[2016.11.08-16.40.21:569][  0]SourceControl: Info Source control is disabled
+[2016.11.08-16.40.21:578][  0]SourceControl: Info Source control is disabled
+[2016.11.08-16.40.21:588][  0]SourceControl: Info Source control is disabled
+[2016.11.08-16.40.21:877][  0]LogEngine: Initializing Engine...
+[2016.11.08-16.40.21:878][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.08-16.40.21:989][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.08-16.40.22:011][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-16.40.22:026][  0]LogInit: FAudioDevice initialized.
+[2016.11.08-16.40.22:052][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-16.40.22:062][  0]LogInit: Texture streaming: Enabled
+[2016.11.08-16.40.22:084][  0]LogInit: Transaction tracking system initialized
+[2016.11.08-16.40.22:107][  0]BlueprintLog: New page: Editor Load
+[2016.11.08-16.40.22:179][  0]LocalizationService: Info Localization service is disabled
+[2016.11.08-16.40.22:248][  0]LogConsoleResponse:Display: 
+[2016.11.08-16.40.22:341][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.08-16.40.22:341][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.08-16.40.22:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/' took 0.02s
+[2016.11.08-16.40.22:497][  0]SourceControl: Info Source control is disabled
+[2016.11.08-16.40.22:497][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-16.40.22:497][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap'
+[2016.11.08-16.40.22:497][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-16.40.22:528][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.437ms to complete.
+[2016.11.08-16.40.22:528][  0]LogFileHelpers: Loading map 'GameMap' took 0.031
+[2016.11.08-16.40.22:677][  0]LogCollectionManager: Loaded 1 collections in 0.003906 seconds
+[2016.11.08-16.40.22:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Collections/' took 0.01s
+[2016.11.08-16.40.22:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Developers/u1077160/Collections/' took 0.01s
+[2016.11.08-16.40.22:731][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Collections/' took 0.01s
+[2016.11.08-16.40.22:731][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000004 seconds
+[2016.11.08-16.40.22:731][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.11.08-16.40.22:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2164 classes and 425 folders.
+[2016.11.08-16.40.22:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.08-16.40.22:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.08-16.40.22:749][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0013 seconds. Added 12 classes and 0 folders.
+[2016.11.08-16.40.22:757][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.11.08-16.40.23:047][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.11.08-16.40.23:099][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.08-16.40.23:108][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.08-16.40.23:136][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2016.11.08-16.40.23:136][  0]LogLoad: (Engine Initialization) Total time: 6.00 seconds
+[2016.11.08-16.40.23:136][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2016.11.08-16.40.23:136][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.08-16.40.23:136][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.08-16.40.23:145][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.08-16.40.23:146][  0]LogOcInput: OculusInput pre-init called
+[2016.11.08-16.40.23:166][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.08-16.40.23:325][  0]LogRenderer: Reallocating scene render targets to support 932x612 (Frame:2).
+[2016.11.08-16.40.23:374][  1]LogAssetRegistry: Asset discovery search completed in 2.8575 seconds
+[2016.11.08-16.40.23:374][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000003 seconds (found 0 objects)
+[2016.11.08-16.40.23:374][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000019 seconds (updated 0 objects)
+[2016.11.08-16.40.25:949][307]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.11.08-16.40.25:954][307]Recompiling CelebritySlasher...
+[2016.11.08-16.40.25:955][307]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 2548 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-16.40.25:956][307]Warning: Starting HotReload took  0.0s.
+[2016.11.08-16.40.27:203][455]CompilerResultsLog: New page: Compilation - Nov 8, 2016, 2:40:27 AM
+[2016.11.08-16.40.27:203][455]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-16.40.27:203][455]CompilerResultsLog: Info Target is up to date
+[2016.11.08-16.40.27:203][455]LogMainFrame: MainFrame: Module compiling took 1.253 seconds
+[2016.11.08-16.40.27:222][455]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-16.40.27:222][455]Display: HotReload took  1.3s.
+[2016.11.08-16.40.36:289][479]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.08-16.40.36:293][479]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.08-16.40.36:299][479]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.08-16.40.36:300][479]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.08-16.40.36:306][479]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.08-16.40.36:307][479]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.08-16.40.36:311][479]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.08-16.40.36:324][479]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.08-16.40.36:328][479]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.08-16.40.36:477][479]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-16.40.36:501][479]Cmd: MAP LOAD FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-16.40.36:501][479]LightingResults: New page: Lighting Build
+[2016.11.08-16.40.36:515][479]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0016 seconds. Added 5 classes and 0 folders.
+[2016.11.08-16.40.36:515][479]LoadErrors: New page: Loading map: GameMap.umap
+[2016.11.08-16.40.36:516][479]MapCheck: New page: Map Check
+[2016.11.08-16.40.36:516][479]LightingResults: New page: Lighting Build
+[2016.11.08-16.40.36:529][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.08-16.40.36:554][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-16.40.36:591][479]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.693ms to complete.
+[2016.11.08-16.40.36:591][479]LogFileHelpers: Loading map 'GameMap' took 0.091
+[2016.11.08-16.40.37:510][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-16.40.37:510][586]PIE: New page: PIE session: GameMap (Nov 8, 2016, 2:40:37 AM)
+[2016.11.08-16.40.37:510][586]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-16.40.37:515][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004871s)
+[2016.11.08-16.40.37:516][586]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-16.40.37:516][586]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2016.11.08-16.40.37:516][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006001s)
+[2016.11.08-16.40.37:543][586]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-16.40.37:550][586]LogInit: FAudioDevice initialized.
+[2016.11.08-16.40.37:596][586]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-16.40.37:599][586]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-09.40.37
+[2016.11.08-16.40.37:599][586]LogWorld: Bringing up level for play took: 0.001331
+[2016.11.08-16.40.37:607][586]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2016.11.08-16.40.37:607][586]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-16.40.37:607][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-16.40.37:607][586]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-16.40.37:611][586]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-16.40.37:611][586]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-16.40.37:612][586]LogBlueprintUserMessages: [Spawn_BP_2] X=-2652.552 Y=2642.047 Z=0.000
+[2016.11.08-16.40.37:621][586]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-16.40.37:621][586]LogTemp:Warning: LookAt reporting!
+[2016.11.08-16.40.37:621][586]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-16.40.37:621][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-16.40.37:621][586]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.46
+[2016.11.08-16.40.42:500][168]LogBlueprintUserMessages: [Spawn_BP_2] X=-2932.781 Y=1471.153 Z=0.000
+[2016.11.08-16.40.42:502][168]LogTemp:Warning: LookAt reporting!
+[2016.11.08-16.40.42:502][168]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-16.40.42:502][168]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-16.40.42:502][168]LogBlueprintUserMessages: [Spawn_BP_2] X=-2656.878 Y=2564.327 Z=0.000
+[2016.11.08-16.40.42:502][168]LogTemp:Warning: LookAt reporting!
+[2016.11.08-16.40.42:503][168]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-16.40.42:503][168]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-16.40.42:503][168]LogBlueprintUserMessages: [Spawn_BP_2] X=-3211.087 Y=681.499 Z=0.000
+[2016.11.08-16.40.42:503][168]LogTemp:Warning: LookAt reporting!
+[2016.11.08-16.40.42:503][168]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-16.40.42:503][168]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-16.41.12:723][793]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-16.41.13:906][935]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-16.41.14:672][ 27]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-16.41.40:546][ 63]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 112 classes and 0 folders.
+[2016.11.08-16.41.40:907][ 63]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2016.11.08-16.41.41:090][ 63]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.08-16.51.33:588][129]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u1077160/Downloads/CityScapeDecimated.fbx)
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2016.11.08-16.51.33:611][129]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.11.08-16.51.33:617][129]LogFbx: Loading FBX Scene from ../../../../../../Users/u1077160/Downloads/CityScapeDecimated.fbx
+[2016.11.08-16.51.33:632][129]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-16.51.35:425][129]LogFbx: Loading FBX Scene from ../../../../../../Users/u1077160/Downloads/CityScapeDecimated.fbx
+[2016.11.08-16.51.35:438][129]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-16.51.35:441][129]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert1'
+[2016.11.08-16.51.35:441][129]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert1'
+[2016.11.08-16.51.35:448][129]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.08-16.51.35:505][129]LogStaticMesh: Building static mesh CityScapeDecimated...
+[2016.11.08-16.51.35:519][129]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.11.08-16.51.35:701][129]LogStaticMesh: Built static mesh [0.20s] /Game/Models/World/Test/CityScapeDecimated.CityScapeDecimated
+[2016.11.08-16.51.35:720][129]LogStaticMesh:Warning: CityScapeDecimated has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.08-16.51.35:728][129]FBXImport:Warning: Warning CityScapeDecimated has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.08-16.51.39:336][550]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-16.51.40:908][737]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-16.52.46:546][525]LogSavePackage: Save=33.79ms
+[2016.11.08-16.52.46:546][525]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto1F7278ECD49139099B67DFDBFE3461F8B.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto1.umap'
+[2016.11.08-16.52.46:547][525]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto1.umap
+[2016.11.08-16.52.46:549][525]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.076
+[2016.11.08-16.52.46:549][525]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2016.11.08-16.52.46:551][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/World/Test/CityScapeDecimated] ([1] browsable assets)...
+[2016.11.08-16.52.46:563][525]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/World/Test/CityScapeDecimated.CityScapeDecimated]
+[2016.11.08-16.52.46:563][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/World/Test/CityScapeDecimated]
+[2016.11.08-16.52.46:576][525]LogSavePackage: Save=11.62ms
+[2016.11.08-16.52.46:576][525]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/CityScapeDecimated_Auto122C3320F4947CB779428129E83036581.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/World/Test/CityScapeDecimated_Auto1.uasset'
+[2016.11.08-16.52.46:577][525]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/World/Test/CityScapeDecimated_Auto1.uasset
+[2016.11.08-16.52.46:578][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/World/Test/lambert1] ([1] browsable assets)...
+[2016.11.08-16.52.46:591][525]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/World/Test/lambert1.lambert1]
+[2016.11.08-16.52.46:591][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/World/Test/lambert1]
+[2016.11.08-16.52.46:603][525]LogSavePackage: Save=11.35ms
+[2016.11.08-16.52.46:603][525]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/lambert1_Auto19012911D4E213A961E32BD9775BE4DCE.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/World/Test/lambert1_Auto1.uasset'
+[2016.11.08-16.52.46:604][525]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/World/Test/lambert1_Auto1.uasset
+[2016.11.08-16.52.46:604][525]LogFileHelpers: Auto-saving content packages took 0.054
+[2016.11.08-16.52.49:696][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.08-16.52.49:707][886]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2016.11.08-17.02.47:174][520]LogSavePackage: Save=32.74ms
+[2016.11.08-17.02.47:174][520]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto2D86D527840CD7D1E55750B9D3F6838C5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto2.umap'
+[2016.11.08-17.02.47:175][520]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto2.umap
+[2016.11.08-17.02.47:176][520]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.067
+[2016.11.08-17.02.47:176][520]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2016.11.08-17.09.28:917][519]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1077160\Downloads\HollyWoodHill02 (1).fbx)
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: NodeAttribute, ItemCount : 18
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: Model, ItemCount : 20
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: Geometry, ItemCount : 2
+[2016.11.08-17.09.28:924][519]LogFbx: ItemName: Material, ItemCount : 2
+[2016.11.08-17.09.28:928][519]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\HollyWoodHill02 (1).fbx
+[2016.11.08-17.09.28:937][519]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-17.09.36:604][519]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\HollyWoodHill02 (1).fbx
+[2016.11.08-17.09.36:614][519]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-17.09.36:617][519]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert2'
+[2016.11.08-17.09.36:618][519]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert2'
+[2016.11.08-17.09.36:622][519]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.11.08-17.09.36:634][519]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert3'
+[2016.11.08-17.09.36:634][519]LogLinker:Warning: Can't find file '/Game/Models/World/Test/lambert3'
+[2016.11.08-17.09.36:638][519]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2016.11.08-17.09.36:655][519]LogStaticMesh: Building static mesh HollyWoodHill02__1_...
+[2016.11.08-17.09.36:709][519]LogStaticMesh: Built static mesh [0.06s] /Game/Models/World/Test/HollyWoodHill02__1_.HollyWoodHill02__1_
+[2016.11.08-17.09.36:725][519]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.08-17.10.05:145][890]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-17.10.05:882][978]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-17.10.10:852][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.08-17.10.10:863][557]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2016.11.08-17.10.17:143][310]LogActorFactory: Actor Factory created HollyWoodHill02__1_
+[2016.11.08-17.10.17:537][357]LogActorFactory: Actor Factory created HollyWoodHill02__1_
+[2016.11.08-17.10.19:404][575]Cmd: TRANSACTION UNDO
+[2016.11.08-17.10.19:405][575]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.10.23:597][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.08-17.10.23:608][ 58]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2016.11.08-17.10.38:833][267]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.11.08-17.10.38:855][267]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2016.11.08-17.10.38:926][272]LogActorFactory: Actor Factory created HollyWoodHill02
+[2016.11.08-17.10.40:503][452]LogActorFactory: Actor Factory created HollyWoodHill02
+[2016.11.08-17.12.30:061][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.08-17.12.40:351][721]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.11.08-17.12.41:538][863]Cmd: TRANSACTION UNDO
+[2016.11.08-17.12.41:538][863]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.12.52:598][171]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.11.08-17.12.53:669][299]Cmd: TRANSACTION UNDO
+[2016.11.08-17.12.53:669][299]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.13.15:414][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.13.15:414][884]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:13:15 AM)
+[2016.11.08-17.13.15:414][884]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.13.15:418][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003597s)
+[2016.11.08-17.13.15:419][884]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.13.15:419][884]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2016.11.08-17.13.15:419][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005037s)
+[2016.11.08-17.13.15:452][884]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.13.15:459][884]LogInit: FAudioDevice initialized.
+[2016.11.08-17.13.15:487][884]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.13.15:489][884]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.13.15
+[2016.11.08-17.13.15:489][884]LogWorld: Bringing up level for play took: 0.001527
+[2016.11.08-17.13.15:490][884]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2016.11.08-17.13.15:490][884]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.13.15:490][884]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.13.15:490][884]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.13.15:491][884]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.13.15:491][884]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.13.15:491][884]LogBlueprintUserMessages: [Spawn_BP_2] X=-3620.752 Y=1256.271 Z=0.000
+[2016.11.08-17.13.15:492][884]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.13.15:493][884]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.13.15:493][884]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.13.15:493][884]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.13.15:493][884]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.332
+[2016.11.08-17.13.42:413][ 67]LogRenderer: Reallocating scene render targets to support 1228x808 (Frame:320720).
+[2016.11.08-17.15.36:795][716]LogSavePackage: Save=11.89ms
+[2016.11.08-17.15.36:795][716]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/HollyWoodHill02DDD7811E42E167A743432B9044FBA2F9.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset'
+[2016.11.08-17.15.36:799][716]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset
+[2016.11.08-17.15.43:447][420]LogSavePackage: Save=5.08ms
+[2016.11.08-17.15.43:447][420]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/HollyWoodHill02A5BBF40F4D4E272182F802A8344DD62B.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset'
+[2016.11.08-17.15.43:448][420]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset
+[2016.11.08-17.15.52:750][388]MapCheck: New page: Map Check
+[2016.11.08-17.15.52:770][388]LightingResults: New page: Lighting Build - Nov 8, 2016, 3:15:52 AM
+[2016.11.08-17.15.52:851][388]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-17.15.52:911][388]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-17.15.52:922][388]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-17.15.53:434][388]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-17.15.53:434][388]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11032
+[2016.11.08-17.15.56:290][388]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-17.15.56:291][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-17.15.56:291][388]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-17.15.56:291][388]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-17.15.56:291][388]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-17.15.56:291][388]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-17.15.56:431][388]LogEditorBuildUtils: Build time 0:03
+[2016.11.08-17.15.56:462][389]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2016.11.08-17.15.56:467][389]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2016.11.08-17.15.56:488][390]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2016.11.08-17.15.56:494][390]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2016.11.08-17.15.57:696][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.15.57:696][395]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:15:57 AM)
+[2016.11.08-17.15.57:696][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.15.57:702][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005862s)
+[2016.11.08-17.15.57:703][395]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.15.57:703][395]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2016.11.08-17.15.57:703][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.007140s)
+[2016.11.08-17.15.57:740][395]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.15.57:748][395]LogInit: FAudioDevice initialized.
+[2016.11.08-17.15.57:775][395]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.15.57:778][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.15.57
+[2016.11.08-17.15.57:778][395]LogWorld: Bringing up level for play took: 0.001528
+[2016.11.08-17.15.57:779][395]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.15.57:779][395]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.15.57:779][395]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.15.57:780][395]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.15.57:780][395]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.15.57:780][395]LogBlueprintUserMessages: [Spawn_BP_2] X=-2258.749 Y=703.415 Z=0.000
+[2016.11.08-17.15.57:781][395]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.15.57:781][395]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.15.57:781][395]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.15.57:781][395]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.15.57:781][395]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.62
+[2016.11.08-17.16.00:040][629]Job is a success!
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.11.08-17.16.00:124][631]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.11.08-17.16.00:147][631]Lightmass on eae-d-089: 2.38 sec total, 123 ms importing, 19 ms setup, 1.78 sec photons, 444 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 2.95 sec total, 549 ms processing.
+[2016.11.08-17.16.00:167][631]LogStaticLightingSystem: Illumination: 7.38 sec (29 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2016.11.08-17.16.00:167][631]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.11.08-17.16.00:167][631]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.11.08-17.16.00:307][632]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-17.16.00:307][632]MapCheck: New page: GameMap - Nov 8, 2016, 3:16:00 AM
+[2016.11.08-17.16.00:354][632]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.845ms to complete.
+[2016.11.08-17.16.51:102][199]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/GyroMotion.h'
+[2016.11.08-17.16.51:129][199]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/GyroMotion.cpp'
+[2016.11.08-17.16.57:325][218]LogSavePackage: Save=44.38ms
+[2016.11.08-17.16.57:325][218]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto395614D9D462118EA365D758C799C129B.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto3.umap'
+[2016.11.08-17.16.57:327][218]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto3.umap
+[2016.11.08-17.16.57:333][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.098
+[2016.11.08-17.16.57:333][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2016.11.08-17.26.09:056][732]LogSavePackage: Save=11.69ms
+[2016.11.08-17.26.09:056][732]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/HollyWoodHill022A87BE554ED9330FC13C4CBD6B7F6F4B.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset'
+[2016.11.08-17.26.09:058][732]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/World/HollyWoodHill02.uasset
+[2016.11.08-17.26.12:543][103]Recompiling CelebritySlasher...
+[2016.11.08-17.26.12:543][103]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 6078 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-17.26.12:544][103]Warning: Starting HotReload took  0.1s.
+[2016.11.08-17.26.13:357][197]CompilerResultsLog: New page: Compilation - Nov 8, 2016, 3:26:13 AM
+[2016.11.08-17.26.13:357][197]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-17.26.13:357][197]CompilerResultsLog: Info Target is up to date
+[2016.11.08-17.26.13:357][197]LogMainFrame: MainFrame: Module compiling took 0.819 seconds
+[2016.11.08-17.26.13:592][197]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-17.26.13:593][197]Display: HotReload took  1.1s.
+[2016.11.08-17.26.15:029][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.26.15:030][366]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:26:15 AM)
+[2016.11.08-17.26.15:030][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.26.15:035][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005245s)
+[2016.11.08-17.26.15:036][366]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.26.15:036][366]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2016.11.08-17.26.15:036][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006514s)
+[2016.11.08-17.26.15:095][366]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.26.15:102][366]LogInit: FAudioDevice initialized.
+[2016.11.08-17.26.15:133][366]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.26.15:135][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.26.15
+[2016.11.08-17.26.15:135][366]LogWorld: Bringing up level for play took: 0.001330
+[2016.11.08-17.26.15:136][366]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.26.15:136][366]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.26.15:136][366]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.26.15:137][366]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.26.15:137][366]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.26.15:137][366]LogBlueprintUserMessages: [Spawn_BP_2] X=-1977.079 Y=416.636 Z=0.000
+[2016.11.08-17.26.15:138][366]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.26.15:139][366]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.26.15:139][366]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.26.15:139][366]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.26.15:139][366]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.022
+[2016.11.08-17.26.59:248][571]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (HollyWoodHill02)
+[2016.11.08-17.27.10:255][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.08-17.28.50:930][937]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.11.08-17.28.54:317][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.28.54:317][341]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:28:54 AM)
+[2016.11.08-17.28.54:317][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.28.54:322][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004656s)
+[2016.11.08-17.28.54:322][341]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.28.54:323][341]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2016.11.08-17.28.54:323][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005999s)
+[2016.11.08-17.28.54:359][341]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.28.54:365][341]LogInit: FAudioDevice initialized.
+[2016.11.08-17.28.54:396][341]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.28.54:399][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.28.54
+[2016.11.08-17.28.54:399][341]LogWorld: Bringing up level for play took: 0.001697
+[2016.11.08-17.28.54:400][341]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.28.54:400][341]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.28.54:400][341]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.28.54:400][341]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.28.54:400][341]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.28.54:401][341]LogBlueprintUserMessages: [Spawn_BP_2] X=-3673.969 Y=144.738 Z=0.000
+[2016.11.08-17.28.54:402][341]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.28.54:402][341]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.28.54:402][341]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.28.54:402][341]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.28.54:402][341]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.759
+[2016.11.08-17.29.01:066][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.29.01:066][124]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:29:01 AM)
+[2016.11.08-17.29.01:067][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.29.01:072][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005155s)
+[2016.11.08-17.29.01:072][124]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.29.01:073][124]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2016.11.08-17.29.01:073][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006224s)
+[2016.11.08-17.29.01:109][124]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.29.01:115][124]LogInit: FAudioDevice initialized.
+[2016.11.08-17.29.01:141][124]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.29.01:144][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.29.01
+[2016.11.08-17.29.01:144][124]LogWorld: Bringing up level for play took: 0.001660
+[2016.11.08-17.29.01:145][124]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.01:145][124]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.01:145][124]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.01:145][124]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.29.01:145][124]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.29.01:145][124]LogBlueprintUserMessages: [Spawn_BP_2] X=-4040.099 Y=1908.358 Z=0.000
+[2016.11.08-17.29.01:146][124]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.29.01:146][124]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.01:147][124]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.01:147][124]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.01:147][124]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.014
+[2016.11.08-17.29.06:050][710]LogBlueprintUserMessages: [Spawn_BP_2] X=-3311.684 Y=250.440 Z=0.000
+[2016.11.08-17.29.06:052][710]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.06:052][710]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.06:052][710]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.06:052][710]LogBlueprintUserMessages: [Spawn_BP_2] X=-1900.515 Y=1675.683 Z=0.000
+[2016.11.08-17.29.06:053][710]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.06:053][710]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.06:053][710]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.06:053][710]LogBlueprintUserMessages: [Spawn_BP_2] X=-3825.035 Y=353.473 Z=0.000
+[2016.11.08-17.29.06:054][710]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.06:054][710]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.06:054][710]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.10:294][219]LogBlueprintUserMessages: [Player_Pawn_C_0] TAP
+[2016.11.08-17.29.28:897][397]Recompiling CelebritySlasher...
+[2016.11.08-17.29.28:898][397]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 1401 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-17.29.28:899][397]Warning: Starting HotReload took  0.0s.
+[2016.11.08-17.29.29:553][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.29.29:554][463]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:29:29 AM)
+[2016.11.08-17.29.29:554][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.29.29:558][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004318s)
+[2016.11.08-17.29.29:559][463]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.29.29:559][463]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2016.11.08-17.29.29:559][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005403s)
+[2016.11.08-17.29.29:596][463]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.29.29:602][463]LogInit: FAudioDevice initialized.
+[2016.11.08-17.29.29:629][463]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.29.29:631][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.29.29
+[2016.11.08-17.29.29:632][463]LogWorld: Bringing up level for play took: 0.001426
+[2016.11.08-17.29.29:632][463]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.29:632][463]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.29:632][463]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.29:633][463]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.29.29:633][463]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.29.29:633][463]LogBlueprintUserMessages: [Spawn_BP_2] X=-1955.998 Y=1832.983 Z=0.000
+[2016.11.08-17.29.29:635][463]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.29.29:635][463]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.29:635][463]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.29:635][463]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.29:635][463]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.474
+[2016.11.08-17.29.29:693][467]CompilerResultsLog: New page: Compilation - Nov 8, 2016, 3:29:29 AM
+[2016.11.08-17.29.29:693][467]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-17.29.29:693][467]CompilerResultsLog: Info Target is up to date
+[2016.11.08-17.29.29:693][467]LogMainFrame: MainFrame: Module compiling took 0.800 seconds
+[2016.11.08-17.29.29:920][467]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-17.29.29:920][467]Display: HotReload took  1.0s.
+[2016.11.08-17.29.35:370][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-17.29.35:370][ 80]PIE: New page: PIE session: GameMap (Nov 8, 2016, 3:29:35 AM)
+[2016.11.08-17.29.35:370][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-17.29.35:374][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003982s)
+[2016.11.08-17.29.35:375][ 80]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-17.29.35:375][ 80]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2016.11.08-17.29.35:375][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.004984s)
+[2016.11.08-17.29.35:420][ 80]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-17.29.35:426][ 80]LogInit: FAudioDevice initialized.
+[2016.11.08-17.29.35:457][ 80]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-17.29.35:460][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-10.29.35
+[2016.11.08-17.29.35:460][ 80]LogWorld: Bringing up level for play took: 0.001462
+[2016.11.08-17.29.35:461][ 80]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.35:461][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-17.29.35:461][ 80]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.35:462][ 80]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-17.29.35:462][ 80]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-17.29.35:462][ 80]LogBlueprintUserMessages: [Spawn_BP_2] X=-3029.395 Y=2648.436 Z=0.000
+[2016.11.08-17.29.35:463][ 80]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-17.29.35:463][ 80]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.35:463][ 80]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.35:463][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-17.29.35:463][ 80]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.302
+[2016.11.08-17.29.40:362][665]LogBlueprintUserMessages: [Spawn_BP_2] X=-3009.962 Y=975.557 Z=0.000
+[2016.11.08-17.29.40:363][665]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.40:363][665]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.40:363][665]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.40:363][665]LogBlueprintUserMessages: [Spawn_BP_2] X=-2792.907 Y=2105.286 Z=0.000
+[2016.11.08-17.29.40:364][665]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.40:364][665]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.40:364][665]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.40:364][665]LogBlueprintUserMessages: [Spawn_BP_2] X=-3505.941 Y=2476.417 Z=0.000
+[2016.11.08-17.29.40:365][665]LogTemp:Warning: LookAt reporting!
+[2016.11.08-17.29.40:365][665]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-17.29.40:365][665]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.08-17.29.53:388][228]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.08-17.29.55:105][434]LogBlueprintUserMessages: [Player_Pawn_C_0] TAP
+[2016.11.08-17.30.49:230][323]LogSavePackage: Save=29.49ms
+[2016.11.08-17.30.49:230][323]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto4340116CE4B6702E03C110790F2B9626E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto4.umap'
+[2016.11.08-17.30.49:232][323]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto4.umap
+[2016.11.08-17.30.49:236][323]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.075
+[2016.11.08-17.30.49:236][323]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2016.11.08-17.31.05:468][372]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1077160\Downloads\CityScapeFinal.fbx)
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2016.11.08-17.31.05:472][372]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.11.08-17.31.05:476][372]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeFinal.fbx
+[2016.11.08-17.31.05:490][372]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-17.31.06:937][372]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeFinal.fbx
+[2016.11.08-17.31.06:955][372]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-17.31.06:958][372]LogLinker:Warning: Can't find file '/Game/Models/CityScape/lambert2'
+[2016.11.08-17.31.06:958][372]LogLinker:Warning: Can't find file '/Game/Models/CityScape/lambert2'
+[2016.11.08-17.31.06:964][372]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.11.08-17.31.06:999][372]LogStaticMesh: Building static mesh CityScapeFinal...
+[2016.11.08-17.31.07:021][372]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.11.08-17.31.07:380][372]LogStaticMesh: Built static mesh [0.38s] /Game/Models/CityScape/CityScapeFinal.CityScapeFinal
+[2016.11.08-17.31.07:413][372]LogStaticMesh:Warning: CityScapeFinal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.08-17.31.07:425][372]FBXImport:Warning: Warning Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2016.11.08-17.31.07:425][372]FBXImport:Warning: Warning CityScapeFinal has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.08-17.31.19:508][810]LogActorFactory: Actor Factory created CityScapeFinal
+[2016.11.08-17.31.21:211][ 14]LogActorFactory: Actor Factory created CityScapeFinal
+[2016.11.08-17.33.36:332][  4]EditorErrors: New page: Actor attachment
+[2016.11.08-17.33.37:610][157]Cmd: TRANSACTION UNDO
+[2016.11.08-17.33.37:610][157]LogEditorTransaction: Undo Attach actors
+[2016.11.08-17.37.11:375][404]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.11.08-17.37.12:011][480]Cmd: TRANSACTION UNDO
+[2016.11.08-17.37.12:011][480]LogEditorTransaction: Undo Move Actors
+[2016.11.08-17.38.38:328][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-17.38.38:386][749]LogSavePackage: Save=28.83ms
+[2016.11.08-17.38.38:386][749]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMapC1C4AA294BB801B7CD58ED94AAA8FA80.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-17.38.38:391][749]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-17.38.38:970][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.08-17.38.39:023][813]LogSavePackage: Save=26.63ms
+[2016.11.08-17.38.39:023][813]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap6B896E594E69355B450D80B7F1E496D1.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.08-17.38.39:025][813]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-17.38.42:061][170]MapCheck: New page: Map Check
+[2016.11.08-17.38.42:073][170]LightingResults: New page: Lighting Build - Nov 8, 2016, 3:38:42 AM
+[2016.11.08-17.38.42:084][170]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-17.38.42:087][170]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-17.38.42:087][170]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-17.38.42:088][170]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-17.38.42:088][170]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11032
+[2016.11.08-17.38.46:603][170]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-17.38.46:603][170]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-17.38.46:603][170]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-17.38.46:603][170]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-17.38.46:603][170]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-17.38.46:603][170]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-17.38.46:750][170]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-17.38.46:763][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2016.11.08-17.38.46:768][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2016.11.08-17.38.49:943][451]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
+[2016.11.08-17.38.50:000][458]Job is a success!

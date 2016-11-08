@@ -1,0 +1,1041 @@
+﻿Log file open, 11/08/16 02:31:25
+LogInit:Display: Running engine for game: CelebritySlasher
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-162290935) SRandInit(-162290935).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.072567
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.08-09.31.25:457][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-09.31.25:457][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.08-09.31.25:472][  0]LogInit: Computer: eae-d-089
+[2016.11.08-09.31.25:472][  0]LogInit: User: u1077160
+[2016.11.08-09.31.25:472][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.08-09.31.25:472][  0]LogInit: High frequency timer resolution =3.320311 MHz
+[2016.11.08-09.31.25:472][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2016.11.08-09.31.25:472][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.08-09.31.25:472][  0]LogMemory: Process Physical Memory: 256.54 MB used, 256.54 MB peak
+[2016.11.08-09.31.25:472][  0]LogMemory: Process Virtual Memory: 260.12 MB used, 260.12 MB peak
+[2016.11.08-09.31.25:472][  0]LogMemory: Physical Memory: 8665.77 MB used, 32706.56 MB total
+[2016.11.08-09.31.25:472][  0]LogMemory: Virtual Memory: 623.23 MB used, 134217728.00 MB total
+[2016.11.08-09.31.25:545][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.08-09.31.27:461][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.08-09.31.27:491][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2016.11.08-09.31.27:491][  0]LogD3D11RHI:       8145/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.11.08-09.31.27:492][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.08-09.31.27:492][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.08-09.31.27:492][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.08-09.31.27:497][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.08-09.31.27:498][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.08-09.31.27:498][  0]LogWindows: EnumDisplayDevices:
+[2016.11.08-09.31.27:498][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2016.11.08-09.31.27:498][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2016.11.08-09.31.27:498][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.11.08-09.31.27:498][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2016.11.08-09.31.27:498][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2016.11.08-09.31.27:498][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2016.11.08-09.31.27:498][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2016.11.08-09.31.27:498][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2016.11.08-09.31.27:498][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.08-09.31.27:513][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.08-09.31.27:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.08-09.31.27:527][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Intermediate/Shaders/WorkingDirectory/13752/).
+[2016.11.08-09.31.27:527][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1077160/AppData/Local/Temp/UnrealShaderWorkingDir/AC58DA9C4FD0399258AA5F803BFEA4A8/'.
+[2016.11.08-09.31.27:527][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.08-09.31.28:949][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.08-09.31.28:957][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.08-09.31.28:964][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.08-09.31.28:972][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.08-09.31.28:980][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.08-09.31.28:989][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.08-09.31.28:995][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.08-09.31.29:001][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.08-09.31.29:007][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.08-09.31.29:013][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.08-09.31.29:020][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.08-09.31.29:032][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.08-09.31.29:032][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.08-09.31.29:033][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.08-09.31.29:058][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.08-09.31.29:063][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.08-09.31.29:069][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.08-09.31.29:074][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.08-09.31.29:081][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.08-09.31.29:091][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.08-09.31.29:091][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.08-09.31.29:199][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Loaded boot cache 0.23s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.08-09.31.29:432][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.08-09.31.29:450][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.08-09.31.29:463][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1077160/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.08-09.31.30:563][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.08-09.31.30:567][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.08-09.31.30:652][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.08-09.31.30:721][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.08-09.31.31:020][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: celebrityslasher, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 584922918
+[2016.11.08-09.31.31:058][  0]LogAssetRegistry: FAssetRegistry took 0.0218 seconds to start up
+[2016.11.08-09.31.31:089][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.028334 seconds
+[2016.11.08-09.31.31:094][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.08-09.31.31:094][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.11.08-09.31.31:094][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.08-09.31.31:101][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.08-09.31.31:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-09.31.31:407][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.08-09.31.33:175][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.11.08-09.31.33:187][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.08-09.31.33:209][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.08-09.31.33:478][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.31.33:542][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.31.33:558][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.31.33:568][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.31.33:936][  0]LogEngine: Initializing Engine...
+[2016.11.08-09.31.33:937][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.08-09.31.34:063][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.08-09.31.34:094][  0]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-09.31.34:112][  0]LogInit: FAudioDevice initialized.
+[2016.11.08-09.31.34:141][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.08-09.31.34:148][  0]LogInit: Texture streaming: Enabled
+[2016.11.08-09.31.34:182][  0]LogInit: Transaction tracking system initialized
+[2016.11.08-09.31.34:217][  0]BlueprintLog: New page: Editor Load
+[2016.11.08-09.31.34:329][  0]LocalizationService: Info Localization service is disabled
+[2016.11.08-09.31.34:437][  0]LogConsoleResponse:Display: 
+[2016.11.08-09.31.34:648][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.08-09.31.34:648][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.08-09.31.34:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/' took 0.01s
+[2016.11.08-09.31.34:949][  0]SourceControl: Info Source control is disabled
+[2016.11.08-09.31.34:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-09.31.34:949][  0]LogEditorServer:Warning: Can't find file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/GameMap.umap'
+[2016.11.08-09.31.34:949][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-09.31.34:980][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 30.893ms to complete.
+[2016.11.08-09.31.34:980][  0]LogFileHelpers: Loading map 'GameMap' took 0.031
+[2016.11.08-09.31.35:126][  0]LogCollectionManager: Loaded 1 collections in 0.004239 seconds
+[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Collections/' took 0.01s
+[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Developers/u1077160/Collections/' took 0.01s
+[2016.11.08-09.31.35:169][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Collections/' took 0.01s
+[2016.11.08-09.31.35:169][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000005 seconds
+[2016.11.08-09.31.35:169][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.11.08-09.31.35:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2163 classes and 425 folders.
+[2016.11.08-09.31.35:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.08-09.31.35:182][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.08-09.31.35:184][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0014 seconds. Added 12 classes and 0 folders.
+[2016.11.08-09.31.35:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.11.08-09.31.35:452][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.11.08-09.31.35:467][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.08-09.31.35:474][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.08-09.31.35:504][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2016.11.08-09.31.35:504][  0]LogLoad: (Engine Initialization) Total time: 11.13 seconds
+[2016.11.08-09.31.35:504][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.03 seconds
+[2016.11.08-09.31.35:505][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.08-09.31.35:505][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.08-09.31.35:513][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.08-09.31.35:514][  0]LogOcInput: OculusInput pre-init called
+[2016.11.08-09.31.35:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.08-09.31.35:710][  0]LogRenderer: Reallocating scene render targets to support 932x612 (Frame:2).
+[2016.11.08-09.31.35:755][  1]LogAssetRegistry: Asset discovery search completed in 4.7199 seconds
+[2016.11.08-09.31.35:755][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000005 seconds (found 0 objects)
+[2016.11.08-09.31.35:755][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000023 seconds (updated 0 objects)
+[2016.11.08-09.31.42:407][739]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.h'
+[2016.11.08-09.31.42:490][739]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.cpp'
+[2016.11.08-09.31.50:335][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
+[2016.11.08-09.31.50:335][672]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.31.50:335][672]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_37  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.31.50:337][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 1 Warning(s) [in 3 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.31.50:337][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.31.50:338][672]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0025.97] Compile of Player_Controller failed. 2 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.31.50:721][672]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 112 classes and 0 folders.
+[2016.11.08-09.32.28:942][921]LogTemp: Dropped UpdateHealth on Category Game
+[2016.11.08-09.32.32:292][317]LogTemp: Dropped UpdateHealth on Category Input
+[2016.11.08-09.32.39:533][174]LogTemp: Dropped UpdateHealth on Category Input
+[2016.11.08-09.32.47:635][132]LogTemp: Dropped UpdateHealth on Category Game|Damage
+[2016.11.08-09.32.51:078][537]LogTemp: Dropped UpdateHealth on Category Game
+[2016.11.08-09.33.00:586][630]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.33.00:592][630]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
+[2016.11.08-09.33.00:713][630]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
+[2016.11.08-09.33.00:713][630]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0096.35] Compile of Player_Controller successful, but with 1 Warning(s) [in 127 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.33.02:156][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.33.02:189][797]LogSavePackage: Save=14.65ms
+[2016.11.08-09.33.02:189][797]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller5304303C4F8A1059B6104BA1E7C64FC9.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.33.02:193][797]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.33.03:353][930]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.33.03:359][930]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
+[2016.11.08-09.33.03:473][930]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_10  would always fail).
+[2016.11.08-09.33.03:473][930]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0099.11] Compile of Player_Controller successful, but with 1 Warning(s) [in 120 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.33.30:249][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.33.30:274][992]LogSavePackage: Save=12.90ms
+[2016.11.08-09.33.30:274][992]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller58407261447698B0A8519FACEFB031D5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.33.30:276][992]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.33.31:131][ 91]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.36.15:963][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.36.15:994][127]LogSavePackage: Save=14.92ms
+[2016.11.08-09.36.15:994][127]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerFD88B25444C66F3B234B97B7BE4EB3CC.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.36.15:997][127]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.36.16:432][166]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.36.16:439][166]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_11  would always fail).
+[2016.11.08-09.36.16:562][166]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_11  would always fail).
+[2016.11.08-09.36.16:562][166]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0292.20] Compile of Player_Controller successful, but with 1 Warning(s) [in 129 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.36.42:376][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.36.42:406][ 69]LogSavePackage: Save=18.00ms
+[2016.11.08-09.36.42:406][ 69]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerF08EE7DF44CFB436695E8C9ABBCBA90D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.36.42:409][ 69]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.36.42:735][106]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.36.49:656][907]Recompiling CelebritySlasher...
+[2016.11.08-09.36.49:656][907]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 3797 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-09.36.49:657][907]Warning: Starting HotReload took  0.0s.
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:36:54 PM
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.11.08-09.36.54:302][464]CompilerResultsLog:Error: Error C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/ScreenFeedback.h(33)  : Blueprint accessible functions must have a category specified
+[2016.11.08-09.36.54:302][464]CompilerResultsLog:Error: Error Error: Failed to generate code for CelebritySlasherEditor - error code: OtherCompilationError (5) 
+[2016.11.08-09.36.54:302][464]CompilerResultsLog: Info UnrealHeaderTool failed for target 'CelebritySlasherEditor' (platform: Win64, module info: C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest).
+[2016.11.08-09.36.54:302][464]LogMainFrame: MainFrame: Module compiling took 4.651 seconds
+[2016.11.08-09.36.54:302][464]Warning: HotReload failed, recompile failed
+[2016.11.08-09.37.43:955][600]Recompiling CelebritySlasher...
+[2016.11.08-09.37.43:955][600]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 5503 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-09.37.43:956][600]Warning: Starting HotReload took  0.0s.
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:37:52 PM
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.8294858 seconds
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.11.08-09.37.52:430][617]CompilerResultsLog: Info CelebritySlasher.generated.cpp
+[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info ScreenFeedback.cpp
+[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info [3/3] Link UE4Editor-CelebritySlasher-5503.dll
+[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5503.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5503.exp
+[2016.11.08-09.37.52:431][617]CompilerResultsLog: Info Total build time: 8.33 seconds
+[2016.11.08-09.37.52:431][617]LogMainFrame: MainFrame: Module compiling took 8.480 seconds
+[2016.11.08-09.37.52:464][617]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
+[2016.11.08-09.37.52:464][617]LogClass: Function GetCurrentHealth is new.
+[2016.11.08-09.37.52:468][617]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
+[2016.11.08-09.37.52:520][617]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0014 seconds. Added 6 classes and 2 folders.
+[2016.11.08-09.37.52:522][617]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.11.08-09.37.52:813][617]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2164 classes and 427 folders.
+[2016.11.08-09.37.52:814][617]Display: HotReload took  8.9s.
+[2016.11.08-09.38.42:985][479]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.38.47:018][852]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.38.49:263][ 68]Recompiling CelebritySlasher...
+[2016.11.08-09.38.49:263][ 68]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 593 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-09.38.49:265][ 68]Warning: Starting HotReload took  0.0s.
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 7:38:56 PM
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.7686213 seconds
+[2016.11.08-09.38.56:290][911]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info ScreenFeedback.cpp
+[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info CelebritySlasher.generated.cpp
+[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info [3/3] Link UE4Editor-CelebritySlasher-593.dll
+[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-593.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-593.exp
+[2016.11.08-09.38.56:291][911]CompilerResultsLog: Info Total build time: 6.88 seconds
+[2016.11.08-09.38.56:291][911]LogMainFrame: MainFrame: Module compiling took 7.031 seconds
+[2016.11.08-09.38.56:324][911]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
+[2016.11.08-09.38.56:324][911]LogClass: Function GetCurrentHealth is new.
+[2016.11.08-09.38.56:328][911]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
+[2016.11.08-09.38.56:386][911]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0015 seconds. Added 6 classes and 2 folders.
+[2016.11.08-09.38.56:388][911]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.11.08-09.38.56:631][911]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2164 classes and 427 folders.
+[2016.11.08-09.38.56:631][911]Display: HotReload took  7.4s.
+[2016.11.08-09.46.00:114][299]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.46.00:123][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_14  would always fail).
+[2016.11.08-09.46.00:123][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_24  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.46.00:124][299]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_14  would always fail).
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_24  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.46.00:417][299]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.46.00:418][299]LogBlueprint:Warning: [Compiler Player_Controller] Warning [0876.06] Compile of Player_Controller failed. 6 Fatal Issue(s) 2 Warning(s) [in 303 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.46.03:192][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.033
+[2016.11.08-09.46.03:194][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Controller] ([1] browsable assets)...
+[2016.11.08-09.46.03:194][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Controller]
+[2016.11.08-09.46.03:230][574]LogSavePackage: Save=19.62ms
+[2016.11.08-09.46.03:230][574]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller_Auto10F1D35D346FD763AF6504EAE90425BC4.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto1.uasset'
+[2016.11.08-09.46.03:232][574]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto1.uasset
+[2016.11.08-09.46.03:232][574]LogFileHelpers: Auto-saving content packages took 0.039
+[2016.11.08-09.54.57:606][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.54.57:639][315]LogSavePackage: Save=15.29ms
+[2016.11.08-09.54.57:639][315]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller0E47C04644E26F21F6C07A9E5FBF8CF5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.54.57:642][315]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.54.58:209][375]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.54.58:219][375]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.54.58:220][375]LogBlueprint:Error: [Compiler Player_Controller] Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a ScreenFeedback, therefore ' self ' must have a connection.
+[2016.11.08-09.54.58:426][375]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableSet_25  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.11.08-09.54.58:427][375]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1414.08] Compile of Player_Controller failed. 3 Fatal Issue(s) 1 Warning(s) [in 218 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.55.28:550][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-09.55.28:580][818]LogSavePackage: Save=17.47ms
+[2016.11.08-09.55.28:580][818]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller33F88E234CC278E031F055B5531B6824.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-09.55.28:583][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-09.55.29:097][872]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-09.55.29:107][872]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.55.29:224][872]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-09.55.29:224][872]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1444.88] Compile of Player_Controller successful, but with 1 Warning(s) [in 127 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-09.55.40:498][148]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.08-09.57.25:923][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.013
+[2016.11.08-09.57.25:925][ 20]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Player_Controller] ([1] browsable assets)...
+[2016.11.08-09.57.25:925][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player_Controller]
+[2016.11.08-09.57.25:953][ 20]LogSavePackage: Save=15.18ms
+[2016.11.08-09.57.25:953][ 20]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_Controller_Auto2A88F2BC741A8FB22C8FDBD803A88BB9A.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto2.uasset'
+[2016.11.08-09.57.25:954][ 20]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Player_Controller_Auto2.uasset
+[2016.11.08-09.57.25:954][ 20]LogFileHelpers: Auto-saving content packages took 0.030
+[2016.11.08-10.00.08:430][649]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-10.00.08:437][649]LogBlueprint:Warning: [Compiler Player_Controller] Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-10.00.08:546][649]BlueprintEditorCompileResults:Warning: Warning 'Screen Feedback' does not inherit from 'Actor' ( K2Node_DynamicCast_15  would always fail).
+[2016.11.08-10.00.08:546][649]LogBlueprint:Warning: [Compiler Player_Controller] Warning [1724.20] Compile of Player_Controller successful, but with 1 Warning(s) [in 116 ms] (/Game/Player_Controller.Player_Controller)
+[2016.11.08-10.00.18:499][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player_Controller" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset" SILENT=true
+[2016.11.08-10.00.18:528][787]LogSavePackage: Save=12.73ms
+[2016.11.08-10.00.18:528][787]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Player_ControllerD47C3D33413622F684A7C397A75F25AB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset'
+[2016.11.08-10.00.18:531][787]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Player_Controller.uasset
+[2016.11.08-10.00.19:022][845]BlueprintLog: New page: Compile Player_Controller
+[2016.11.08-10.00.35:165][728]Running C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher Win64 Development -editorrecompile "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject" -invalidatemakefilesonly
+[2016.11.08-10.00.35:468][728]Invalidating makefiles only in this run.
+[2016.11.08-10.00.35:880][728]Recompiling CelebritySlasher...
+[2016.11.08-10.00.35:880][728]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 4714 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 8:00:43 PM
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.4337385 seconds
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Performing 4 actions (4 in parallel)
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info ScreenFeedback.cpp
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info CelebritySlasher.generated.cpp
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info PlayerCharacter.cpp
+[2016.11.08-10.00.43:562][728]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Source\CelebritySlasher\PlayerCharacter.cpp(30) : warning C4458: declaration of 'InputComponent' hides class member
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info [4/4] Link UE4Editor-CelebritySlasher-4714.dll
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-4714.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-4714.exp
+[2016.11.08-10.00.43:562][728]CompilerResultsLog: Info Total build time: 7.54 seconds
+[2016.11.08-10.00.43:562][728]LogMainFrame: MainFrame: Module compiling took 7.687 seconds
+[2016.11.08-10.00.43:599][728]LogClass: Could not find existing class PlayerCharacter in package /Script/CelebritySlasher for HotReload, assuming new class
+[2016.11.08-10.00.43:599][728]LogClass: Could not find existing class ScreenFeedback in package /Script/CelebritySlasher for HotReload, assuming new class
+[2016.11.08-10.00.43:599][728]LogClass: Function GetCurrentHealth is new.
+[2016.11.08-10.00.43:599][728]LogClass: Function SetCurrentHealth is new.
+[2016.11.08-10.00.43:604][728]LogHotReload: Re-instancing ScreenFeedback after hot-reload.
+[2016.11.08-10.00.43:662][728]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0015 seconds. Added 7 classes and 2 folders.
+[2016.11.08-10.00.43:665][728]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.11.08-10.00.43:886][728]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-10.00.43:886][728]Display: HotReload took  8.2s.
+[2016.11.08-10.00.43:887][728]Warning: HotReload operation took  8.2s.
+[2016.11.08-10.00.44:045][728]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/PlayerCharacter.h'
+[2016.11.08-10.00.44:131][728]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Source/CelebritySlasher/PlayerCharacter.cpp'
+[2016.11.08-10.00.44:156][728]LogHotReload: New module detected: UE4Editor-CelebritySlasher-4714.dll
+[2016.11.08-10.00.44:190][729]LogHotReload: Starting Hot-Reload from IDE
+[2016.11.08-10.00.44:265][729]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0021 seconds. Added 7 classes and 2 folders.
+[2016.11.08-10.00.44:268][729]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2016.11.08-10.00.44:518][729]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-10.00.44:522][729]Display: HotReload took  0.3s.
+[2016.11.08-10.01.44:493][406]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-10.01.44:688][406]Cmd: MAP LOAD FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.08-10.01.44:688][406]LightingResults: New page: Lighting Build
+[2016.11.08-10.01.44:702][406]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0013 seconds. Added 5 classes and 0 folders.
+[2016.11.08-10.01.44:703][406]LoadErrors: New page: Loading map: GameMap.umap
+[2016.11.08-10.01.44:703][406]MapCheck: New page: Map Check
+[2016.11.08-10.01.44:704][406]LightingResults: New page: Lighting Build
+[2016.11.08-10.01.44:722][406]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.08-10.01.44:747][406]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.08-10.01.44:794][406]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.963ms to complete.
+[2016.11.08-10.01.44:795][406]LogFileHelpers: Loading map 'GameMap' took 0.108
+[2016.11.08-10.03.17:408][ 40]LogRenderer: Reallocating scene render targets to support 980x620 (Frame:72234).
+[2016.11.08-10.03.23:536][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/PlayerCharacter_BP.uasset" SILENT=true
+[2016.11.08-10.03.23:552][605]LogSavePackage: Save=14.10ms
+[2016.11.08-10.03.23:552][605]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/PlayerCharacter_BPD552F84D4F134D43968B6AB70439BDC0.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/PlayerCharacter_BP.uasset'
+[2016.11.08-10.03.23:554][605]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/PlayerCharacter_BP.uasset
+[2016.11.08-10.04.11:136][924]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.08-10.07.18:030][347]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1077160\Downloads\CityScapeFixed.fbx)
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2016.11.08-10.07.18:050][347]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.11.08-10.07.18:057][347]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeFixed.fbx
+[2016.11.08-10.07.18:075][347]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-10.07.19:679][347]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeFixed.fbx
+[2016.11.08-10.07.19:694][347]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-10.07.19:697][347]LogLinker:Warning: Can't find file '/Game/Models/Test/lambert1'
+[2016.11.08-10.07.19:698][347]LogLinker:Warning: Can't find file '/Game/Models/Test/lambert1'
+[2016.11.08-10.07.19:703][347]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.08-10.07.19:821][347]LogStaticMesh: Building static mesh CityScapeFixed...
+[2016.11.08-10.07.19:848][347]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.11.08-10.07.20:184][347]LogStaticMesh: Built static mesh [0.36s] /Game/Models/Test/CityScapeFixed.CityScapeFixed
+[2016.11.08-10.07.21:244][347]LogStaticMesh:Warning: CityScapeFixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.08-10.07.21:260][347]FBXImport:Warning: Warning CityScapeFixed has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.08-10.07.24:542][717]LogActorFactory: Actor Factory created CityScapeFixed
+[2016.11.08-10.07.25:512][831]LogActorFactory: Actor Factory created CityScapeFixed
+[2016.11.08-10.07.35:769][ 46]MapCheck: New page: Map Check
+[2016.11.08-10.07.35:789][ 46]LightingResults: New page: Lighting Build - Nov 7, 2016, 8:07:35 PM
+[2016.11.08-10.07.35:877][ 46]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-10.07.35:958][ 46]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-10.07.35:969][ 46]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-10.07.36:482][ 46]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-10.07.36:482][ 46]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13752
+[2016.11.08-10.07.39:614][ 46]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-10.07.39:615][ 46]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-10.07.39:615][ 46]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-10.07.39:615][ 46]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-10.07.39:615][ 46]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-10.07.39:615][ 46]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-10.07.39:818][ 46]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-10.07.39:832][ 46]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2016.11.08-10.07.39:838][ 46]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2016.11.08-10.07.39:860][ 47]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2016.11.08-10.07.39:865][ 47]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2016.11.08-10.07.39:894][ 48]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Invisible_Material, compiling. 
+[2016.11.08-10.07.39:900][ 48]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Invisible_Material, compiling. 
+[2016.11.08-10.07.39:921][ 49]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2016.11.08-10.07.39:925][ 49]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2016.11.08-10.07.39:942][ 50]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.11.08-10.07.39:952][ 50]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2016.11.08-10.07.42:794][165]LightingResults:Warning: Warning CityScapeFixed Object has overlapping UVs.
+[2016.11.08-10.07.42:794][165]LightingResults: Info CityScapeFixed Lightmap UV are overlapping by 13.3%. Please adjust content - Enable Error Coloring to visualize.
+[2016.11.08-10.07.42:819][168]Job is a success!
+[2016.11.08-10.07.42:860][169]LogMaterial:Warning: Material /Game/Models/Test/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2016.11.08-10.07.42:862][169]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.08-10.07.42:882][169]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.11.08-10.07.42:954][169]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.11.08-10.07.42:977][169]Lightmass on eae-d-089: 1.01 sec total, 118 ms importing, 25 ms setup, 333 ms photons, 517 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.46 sec total, 784 ms processing.
+[2016.11.08-10.07.43:007][169]LogStaticLightingSystem: Illumination: 7.20 sec (40 ms encoding lightmaps, 25 ms encoding shadowmaps)
+[2016.11.08-10.07.43:007][169]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.08-10.07.43:007][169]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.08-10.07.43:636][170]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-10.07.43:636][170]MapCheck: New page: GameMap - Nov 7, 2016, 8:07:43 PM
+[2016.11.08-10.07.43:698][170]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 62.102ms to complete.
+[2016.11.08-10.08.49:943][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-10.08.49:943][ 57]PIE: New page: PIE session: GameMap (Nov 7, 2016, 8:08:49 PM)
+[2016.11.08-10.08.49:943][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-10.08.49:949][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005503s)
+[2016.11.08-10.08.49:950][ 57]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-10.08.49:950][ 57]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2016.11.08-10.08.49:950][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.006902s)
+[2016.11.08-10.08.49:992][ 57]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-10.08.50:000][ 57]LogInit: FAudioDevice initialized.
+[2016.11.08-10.08.50:041][ 57]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-10.08.50:044][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-03.08.50
+[2016.11.08-10.08.50:045][ 57]LogWorld: Bringing up level for play took: 0.002239
+[2016.11.08-10.08.50:052][ 57]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2016.11.08-10.08.50:052][ 57]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.08.50:052][ 57]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.08.50:052][ 57]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.08.50:054][ 57]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-10.08.50:054][ 57]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-10.08.50:054][ 57]LogBlueprintUserMessages: [Spawn_BP_2] X=-2390.383 Y=466.859 Z=0.000
+[2016.11.08-10.08.50:055][ 57]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-10.08.50:055][ 57]LogTemp:Warning: LookAt reporting!
+[2016.11.08-10.08.50:055][ 57]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-10.08.50:055][ 57]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.08.50:055][ 57]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 1.014
+[2016.11.08-10.09.18:008][381]Recompiling CelebritySlasher...
+[2016.11.08-10.09.18:009][381]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 7539 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.08-10.09.18:010][381]Warning: Starting HotReload took  0.0s.
+[2016.11.08-10.09.18:767][468]CompilerResultsLog: New page: Compilation - Nov 7, 2016, 8:09:18 PM
+[2016.11.08-10.09.18:767][468]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.08-10.09.18:767][468]CompilerResultsLog: Info Target is up to date
+[2016.11.08-10.09.18:767][468]LogMainFrame: MainFrame: Module compiling took 0.762 seconds
+[2016.11.08-10.09.18:989][468]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2165 classes and 427 folders.
+[2016.11.08-10.09.18:989][468]Display: HotReload took  1.0s.
+[2016.11.08-10.09.21:135][723]MapCheck: New page: Map Check
+[2016.11.08-10.09.21:142][723]LightingResults: New page: Lighting Build - Nov 7, 2016, 8:09:21 PM
+[2016.11.08-10.09.21:150][723]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-10.09.21:153][723]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-10.09.21:153][723]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-10.09.21:154][723]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-10.09.21:154][723]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13752
+[2016.11.08-10.09.25:670][723]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-10.09.25:670][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-10.09.25:670][723]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-10.09.25:670][723]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-10.09.25:670][723]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-10.09.25:670][723]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-10.09.25:767][723]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-10.09.27:061][829]LightingResults:Warning: Warning CityScapeFixed Object has overlapping UVs.
+[2016.11.08-10.09.27:061][829]LightingResults: Info CityScapeFixed Lightmap UV are overlapping by 13.3%. Please adjust content - Enable Error Coloring to visualize.
+[2016.11.08-10.09.27:091][833]Job is a success!
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2016.11.08-10.09.27:172][834]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2016.11.08-10.09.27:186][834]Lightmass on eae-d-089: 917 ms total, 112 ms importing, 24 ms setup, 307 ms photons, 459 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.05 sec total, 753 ms processing.
+[2016.11.08-10.09.27:219][834]LogStaticLightingSystem: Illumination: 6.06 sec (34 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2016.11.08-10.09.27:220][834]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2016.11.08-10.09.27:220][834]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.11.08-10.09.27:686][835]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-10.09.27:686][835]MapCheck: New page: GameMap - Nov 7, 2016, 8:09:27 PM
+[2016.11.08-10.09.27:728][835]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.137ms to complete.
+[2016.11.08-10.09.58:888][748]MapCheck: New page: Map Check
+[2016.11.08-10.09.58:896][748]LightingResults: New page: Lighting Build - Nov 7, 2016, 8:09:58 PM
+[2016.11.08-10.09.58:904][748]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-10.09.58:906][748]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-10.09.58:906][748]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-10.09.58:907][748]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-10.09.58:907][748]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13752
+[2016.11.08-10.10.03:413][748]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-10.10.03:413][748]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-10.10.03:413][748]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-10.10.03:413][748]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-10.10.03:413][748]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-10.10.03:414][748]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-10.10.03:506][748]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-10.10.04:753][834]LightingResults:Warning: Warning CityScapeFixed Object has overlapping UVs.
+[2016.11.08-10.10.04:753][834]LightingResults: Info CityScapeFixed Lightmap UV are overlapping by 13.3%. Please adjust content - Enable Error Coloring to visualize.
+[2016.11.08-10.10.04:813][841]Job is a success!
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2016.11.08-10.10.04:899][843]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2016.11.08-10.10.04:915][843]Lightmass on eae-d-089: 936 ms total, 114 ms importing, 24 ms setup, 307 ms photons, 474 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.16 sec total, 702 ms processing.
+[2016.11.08-10.10.04:930][843]LogStaticLightingSystem: Illumination: 6.02 sec (36 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2016.11.08-10.10.04:930][843]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 6 textures
+[2016.11.08-10.10.04:930][843]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.11.08-10.10.05:430][844]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-10.10.05:430][844]MapCheck: New page: GameMap - Nov 7, 2016, 8:10:05 PM
+[2016.11.08-10.10.05:471][844]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.862ms to complete.
+[2016.11.08-10.10.26:072][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-10.10.26:072][313]PIE: New page: PIE session: GameMap (Nov 7, 2016, 8:10:26 PM)
+[2016.11.08-10.10.26:072][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-10.10.26:077][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004446s)
+[2016.11.08-10.10.26:078][313]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-10.10.26:078][313]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2016.11.08-10.10.26:078][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005736s)
+[2016.11.08-10.10.26:125][313]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-10.10.26:134][313]LogInit: FAudioDevice initialized.
+[2016.11.08-10.10.26:165][313]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-10.10.26:167][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-03.10.26
+[2016.11.08-10.10.26:167][313]LogWorld: Bringing up level for play took: 0.001463
+[2016.11.08-10.10.26:168][313]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.10.26:168][313]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.10.26:169][313]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.10.26:169][313]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-10.10.26:169][313]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-10.10.26:169][313]LogBlueprintUserMessages: [Spawn_BP_2] X=-3440.228 Y=659.743 Z=0.000
+[2016.11.08-10.10.26:170][313]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-10.10.26:171][313]LogTemp:Warning: LookAt reporting!
+[2016.11.08-10.10.26:171][313]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-10.10.26:171][313]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.10.26:171][313]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.87
+[2016.11.08-10.11.02:574][234]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1077160\Downloads\CityScapeDecimated.fbx)
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: Material, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: Model, ItemCount : 1
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: AnimationCurveNode, ItemCount : 8
+[2016.11.08-10.11.02:577][234]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2016.11.08-10.11.02:581][234]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeDecimated.fbx
+[2016.11.08-10.11.02:592][234]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-10.11.05:067][234]LogFbx: Loading FBX Scene from C:\Users\u1077160\Downloads\CityScapeDecimated.fbx
+[2016.11.08-10.11.05:081][234]LogFbx: FBX Scene Loaded Succesfully
+[2016.11.08-10.11.05:084][234]LogLinker:Warning: Can't find file '/Game/Models/Test/lambert1'
+[2016.11.08-10.11.05:084][234]LogLinker:Warning: Can't find file '/Game/Models/Test/lambert1'
+[2016.11.08-10.11.05:087][234]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.08-10.11.05:142][234]LogStaticMesh: Building static mesh CityScapeDecimated...
+[2016.11.08-10.11.05:154][234]LogMeshUtilities: Invalid vertex normals found for mesh. Forcing recomputation of vertex normals for MikkTSpace. Fix mesh or disable "Use MikkTSpace Tangent Space" to avoid forced recomputation of normals.
+[2016.11.08-10.11.05:327][234]LogStaticMesh: Built static mesh [0.19s] /Game/Models/Test/CityScapeDecimated.CityScapeDecimated
+[2016.11.08-10.11.05:342][234]LogStaticMesh:Warning: CityScapeDecimated has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2016.11.08-10.11.05:350][234]FBXImport:Warning: Warning CityScapeDecimated has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2016.11.08-10.11.07:950][539]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-10.11.08:877][650]LogActorFactory: Actor Factory created CityScapeDecimated
+[2016.11.08-10.11.18:086][750]MapCheck: New page: Map Check
+[2016.11.08-10.11.18:097][750]LightingResults: New page: Lighting Build - Nov 7, 2016, 8:11:18 PM
+[2016.11.08-10.11.18:105][750]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.08-10.11.18:108][750]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.08-10.11.18:108][750]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.08-10.11.18:109][750]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.08-10.11.18:109][750]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13752
+[2016.11.08-10.11.22:613][750]LightingResults:Warning: Performance Warning No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2016.11.08-10.11.22:613][750]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.08-10.11.22:613][750]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.08-10.11.22:613][750]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.08-10.11.22:613][750]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.08-10.11.22:613][750]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.08-10.11.22:745][750]LogEditorBuildUtils: Build time 0:04
+[2016.11.08-10.11.22:751][750]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2016.11.08-10.11.22:755][750]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2016.11.08-10.11.24:211][853]LightingResults:Warning: Warning CityScapeDecimated Object has overlapping UVs.
+[2016.11.08-10.11.24:211][853]LightingResults: Info CityScapeDecimated Lightmap UV are overlapping by 8.9%. Please adjust content - Enable Error Coloring to visualize.
+[2016.11.08-10.11.24:228][855]Job is a success!
+[2016.11.08-10.11.24:257][856]LogMaterial:Warning: Material /Game/Models/Test/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2016.11.08-10.11.24:259][856]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.08-10.11.24:273][856]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2016.11.08-10.11.24:345][856]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2016.11.08-10.11.24:379][856]Lightmass on eae-d-089: 887 ms total, 109 ms importing, 21 ms setup, 306 ms photons, 432 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 2.86 sec total, 718 ms processing.
+[2016.11.08-10.11.24:383][856]LogStaticLightingSystem: Illumination: 6.27 sec (41 ms encoding lightmaps, 24 ms encoding shadowmaps)
+[2016.11.08-10.11.24:384][856]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.08-10.11.24:384][856]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2016.11.08-10.11.24:629][857]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.08-10.11.24:630][857]MapCheck: New page: GameMap - Nov 7, 2016, 8:11:24 PM
+[2016.11.08-10.11.24:630][857]MapCheck:Warning: Warning CityScapeFixed_2 Static mesh actor has NULL StaticMesh property 
+[2016.11.08-10.11.24:630][857]MapCheck:Warning: Warning CityScapeFixed_2 Static mesh actor has NULL StaticMesh property 
+[2016.11.08-10.11.24:689][857]MapCheck: Info Map check complete: 0 Error(s), 2 Warning(s), took 59.658ms to complete.
+[2016.11.08-10.11.42:536][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.08-10.11.42:536][980]PIE: New page: PIE session: GameMap (Nov 7, 2016, 8:11:42 PM)
+[2016.11.08-10.11.42:536][980]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.08-10.11.42:540][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004025s)
+[2016.11.08-10.11.42:540][980]LogAIModule: Creating AISystem for world GameMap
+[2016.11.08-10.11.42:541][980]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2016.11.08-10.11.42:541][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.005030s)
+[2016.11.08-10.11.42:581][980]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.08-10.11.42:588][980]LogInit: FAudioDevice initialized.
+[2016.11.08-10.11.42:617][980]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.08-10.11.42:620][980]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.08-03.11.42
+[2016.11.08-10.11.42:620][980]LogWorld: Bringing up level for play took: 0.001629
+[2016.11.08-10.11.42:621][980]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.11.42:621][980]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.08-10.11.42:621][980]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.11.42:621][980]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.08-10.11.42:622][980]LogTemp:Warning: GyroMotion reporting!
+[2016.11.08-10.11.42:622][980]LogBlueprintUserMessages: [Spawn_BP_2] X=-2702.473 Y=287.076 Z=0.000
+[2016.11.08-10.11.42:623][980]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.08-10.11.42:623][980]LogTemp:Warning: LookAt reporting!
+[2016.11.08-10.11.42:623][980]LogTemp:Warning: Move Towards reporting!
+[2016.11.08-10.11.42:623][980]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.08-10.11.42:623][980]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.416
+[2016.11.08-10.12.38:192][150]LogSavePackage: Save=24.90ms
+[2016.11.08-10.12.38:192][150]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap_Auto34CA0B65C404FF652D43FC8A9751BA506.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto3.umap'
+[2016.11.08-10.12.38:193][150]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto3.umap
+[2016.11.08-10.12.38:195][150]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.057
+[2016.11.08-10.12.38:195][150]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2016.11.08-10.13.07:660][769]Cmd: QUIT_EDITOR
+[2016.11.08-10.13.08:527][769]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.08-10.13.08:552][769]LogExit: Preparing to exit.
+[2016.11.08-10.13.10:856][769]LogDirectoryWatcher: A directory notification for 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/' was aborted.
+[2016.11.08-10.13.10:881][769]LogExit: Editor shut down
+[2016.11.08-10.13.10:881][769]LogExit: Transaction tracking system shut down
+[2016.11.08-10.13.11:024][769]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.08-10.13.11:024][769]LogExit: Object subsystem successfully closed.
+[2016.11.08-10.13.11:044][769]LogD3D11RHI: Shutdown
+[2016.11.08-10.13.11:044][769]LogD3D11RHI: CleanupD3DDevice
+[2016.11.08-10.13.11:104][769]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.08-10.13.11:114][769]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (240)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (239)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module StatsViewer (238)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module BlueprintGraph (237)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (236)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module WidgetCarousel (233)
+[2016.11.08-10.13.11:115][769]LogModuleManager: Shutting down and abandoning module AddContentDialog (232)
+[2016.11.08-10.13.11:115][769]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module GameplayTags (231)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module EditorWidgets (230)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module CollectionManager (229)
+[2016.11.08-10.13.11:116][769]LogDirectoryWatcher: A directory notification for 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Collections/' was aborted.
+[2016.11.08-10.13.11:116][769]LogDirectoryWatcher: A directory notification for 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Developers/u1077160/Collections/' was aborted.
+[2016.11.08-10.13.11:116][769]LogDirectoryWatcher: A directory notification for 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Collections/' was aborted.
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module SceneOutliner (228)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module FoliageEdit (227)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module LandscapeEditor (226)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (225)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module ActorPickerMode (224)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module GeometryMode (223)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module TextureAlignMode (222)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module BspMode (221)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module HardwareSurvey (220)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (219)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module SequenceRecorder (218)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module AutomationWorker (217)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (216)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module PlacementMode (215)
+[2016.11.08-10.13.11:116][769]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (214)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (213)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (212)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (211)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (210)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module Media (209)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (208)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (207)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module CharacterAI (206)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module SmartSnapping (205)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module SessionServices (204)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module ViewportSnapping (203)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module ViewportInteraction (202)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module LogVisualizer (201)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (200)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module IntroTutorials (199)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (198)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (197)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (196)
+[2016.11.08-10.13.11:117][769]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (195)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (194)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (193)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (192)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module NiagaraEditor (191)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module MergeActors (190)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module SizeMap (189)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module TreeMap (188)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module ReferenceViewer (187)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module LocalizationService (186)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (185)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module HardwareTargeting (184)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (183)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module UndoHistory (182)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module UserFeedback (181)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module XmlParser (180)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module Blutility (179)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (178)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (177)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module InputBindingEditor (176)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (175)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module SettingsEditor (174)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module ProjectLauncher (173)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module SessionFrontend (172)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module ProfilerClient (171)
+[2016.11.08-10.13.11:449][769]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (170)
+[2016.11.08-10.13.11:450][769]LogModuleManager: Shutting down and abandoning module DeviceManager (169)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module AutomationController (168)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module AutomationWindow (167)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module Layers (166)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (165)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module DetailCustomizations (164)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module PackagesDialog (163)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module AnimGraph (162)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module Persona (161)
+[2016.11.08-10.13.11:513][769]LogModuleManager: Shutting down and abandoning module Kismet (160)
+[2016.11.08-10.13.11:518][769]LogModuleManager: Shutting down and abandoning module GraphEditor (159)
+[2016.11.08-10.13.11:518][769]LogModuleManager: Shutting down and abandoning module ClassViewer (158)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module Toolbox (157)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module ModuleUI (156)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module MovieSceneTools (155)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module OutputLog (154)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module GammaUI (153)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module Documentation (152)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module Niagara (151)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (150)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module AnalyticsET (149)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module PortalServices (148)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module PortalRpc (147)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module MessagingRpc (146)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module GameplayDebugger (145)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module AITestSuite (144)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module AIModule (143)
+[2016.11.08-10.13.11:520][769]LogModuleManager: Shutting down and abandoning module ProfilerService (142)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module TaskGraph (141)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SubstanceEditor (140)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SlateRemote (139)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SteamVRController (138)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SteamVR (137)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (136)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (135)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module OculusLibrary (134)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module OculusInput (133)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (132)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module CableComponent (131)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (130)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (128)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module HTML5Networking (127)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (126)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module GeometryCache (125)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module AlembicLibrary (124)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module AlembicImporter (123)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SuperSearch (122)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (121)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (120)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module PluginBrowser (119)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (118)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module EpicSurvey (117)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module DesktopPlatform (116)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (115)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module UObjectPlugin (114)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (113)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (112)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module SourceControl (111)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module GitSourceControl (110)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (109)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (108)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (107)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module MeshPaint (106)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (105)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (104)
+[2016.11.08-10.13.11:551][769]LogModuleManager: Shutting down and abandoning module HotReload (103)
+[2016.11.08-10.13.11:552][769]LogDirectoryWatcher: A directory notification for 'C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Binaries/Win64' was aborted.
+[2016.11.08-10.13.11:552][769]LogModuleManager: Shutting down and abandoning module MainFrame (102)
+[2016.11.08-10.13.11:552][769]LogModuleManager: Shutting down and abandoning module LevelEditor (101)
+[2016.11.08-10.13.11:553][769]LogModuleManager: Shutting down and abandoning module ContentBrowser (100)
+[2016.11.08-10.13.11:553][769]LogModuleManager: Shutting down and abandoning module Paper2DEditor (99)
+[2016.11.08-10.13.11:553][769]LogModuleManager: Shutting down and abandoning module CelebritySlasher (98)
+[2016.11.08-10.13.11:553][769]LogModuleManager: Shutting down and abandoning module UdpMessaging (97)
+[2016.11.08-10.13.11:654][769]LogModuleManager: Shutting down and abandoning module TcpMessaging (96)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module SubstanceCore (95)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.11.08-10.13.11:754][769]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.11.08-10.13.11:756][769]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.11.08-10.13.11:756][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.08-10.13.11:756][769]LogDirectoryWatcher: A directory notification for '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/' was aborted.
+[2016.11.08-10.13.11:756][769]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.08-10.13.11:758][769]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.11.08-10.13.11:861][769]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.11.08-10.13.11:861][769]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.11.08-10.13.11:861][769]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.11.08-10.13.11:861][769]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.11.08-10.13.11:912][769]LogDerivedDataCache: Shutdown
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.11.08-10.13.11:912][769]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.11.08-10.13.11:913][769]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.08-10.13.11:913][769]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.11.08-10.13.11:913][769]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.08-10.13.11:913][769]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67F59478-421C-FADE-2F52-E399E3C8FDFE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=b530cca8428776dcbebee08627f0ea6e%7C8ec0d82a37b847b29b53c3edf67c3f21%7C9d177bae-3d3f-4e0b-916a-773432fd686c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.08-10.13.11:944][769]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.11.08-10.13.11:944][769]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.08-10.13.11:944][769]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.08-10.13.11:944][769]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.08-10.13.11:944][769]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.08-10.13.11:946][769]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.08-10.13.11:947][769]LogExit: Exiting.
+[2016.11.08-10.13.11:963][769]Log file closed, 11/08/16 03:13:11
