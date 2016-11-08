@@ -1,0 +1,8 @@
+Engine\Content\EditorMaterials\AssetViewer\M_SkyBox.uasset
+Engine\Content\EditorMeshes\AssetViewer\Sphere_inversenormals.uasset
+Engine\Content\EditorSounds\GamePreview\EndSimulate.uasset
+Engine\Content\EditorSounds\GamePreview\EndSimulate_Cue.uasset
+Engine\Content\EditorSounds\GamePreview\PossessPlayer.uasset
+Engine\Content\EditorSounds\GamePreview\PossessPlayer_Cue.uasset
+Engine\Content\MapTemplates\Sky\SunsetAmbientCubemap.uasset
+Engine\Content\Tutorial\SubEditors\TutorialAssets\icon_ShowSkeletalMeshes_40x.uasset
