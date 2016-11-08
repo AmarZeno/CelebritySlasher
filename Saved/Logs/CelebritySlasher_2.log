@@ -921,4 +921,295 @@ Please see Output Log for details.
 [2016.11.08-19.22.07:824][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2016.11.08-19.22.07:890][866]LogSavePackage: Save=40.29ms
 [2016.11.08-19.22.07:890][866]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap3DF24E844020C8FDE188228967C1347E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
-[2016.11.08-19.22.07:894][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Map
+[2016.11.08-19.22.07:894][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.08-19.23.33:978][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 112 classes and 0 folders.
+[2016.11.08-19.26.08:068][452]LogRenderer: Reallocating scene render targets to support 980x620 (Frame:37494).
+[2016.11.08-19.27.24:382][574]BlueprintLog: New page: Compile ZombieCharacter_BP
+[2016.11.08-19.27.25:133][606]LogSavePackage: Save=29.24ms
+[2016.11.08-19.27.25:134][606]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP8BCEA36D445F488EA8BD67AD60B843E3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.27.25:134][606]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset', retrying in .5s...
+[2016.11.08-19.27.25:635][606]LogFileManager:Error: Error deleting file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'.
+[2016.11.08-19.27.25:635][606]LogSavePackage:Error: Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.27.25:636][606]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.08-19.27.27:250][606]EditorErrors: New page: Save Output
+[2016.11.08-19.27.27:251][606]EditorErrors:Warning: Warning Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.27.40:538][256]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/u1077160/Downloads/Slash_Audition.wav)
+[2016.11.08-19.27.40:545][256]LogAudioDerivedData:Display: Building compressed audio format OGG wave Slash_Audition...
+[2016.11.08-19.27.40:609][256]LogAudioDerivedData:Warning: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/Audio/Slash_Audition.Slash_Audition.
+[2016.11.08-19.32.08:656][262]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.017
+[2016.11.08-19.32.08:657][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Zombie/Marilyn/marilyn_PhysicsAsset] ([1] browsable assets)...
+[2016.11.08-19.32.08:657][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/marilyn_PhysicsAsset]
+[2016.11.08-19.32.08:665][262]LogSavePackage: Save=6.17ms
+[2016.11.08-19.32.08:665][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn_PhysicsAsset_Auto1C998EF4B40376082106D29AE20B9ACD8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_PhysicsAsset_Auto1.uasset'
+[2016.11.08-19.32.08:666][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_PhysicsAsset_Auto1.uasset
+[2016.11.08-19.32.08:667][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/marilyn] ([1] browsable assets)...
+[2016.11.08-19.32.08:679][262]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Zombie/Marilyn/marilyn.marilyn]
+[2016.11.08-19.32.08:679][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/marilyn]
+[2016.11.08-19.32.08:693][262]LogSavePackage: Save=12.51ms
+[2016.11.08-19.32.08:693][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn_Auto14066D0044A40F329B95A539CF1FBA6E0.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_Auto1.uasset'
+[2016.11.08-19.32.08:694][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_Auto1.uasset
+[2016.11.08-19.32.08:695][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Background_Music] ([1] browsable assets)...
+[2016.11.08-19.32.08:713][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Background_Music.Background_Music]
+[2016.11.08-19.32.08:713][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Background_Music]
+[2016.11.08-19.32.08:726][262]LogSavePackage: Save=11.86ms
+[2016.11.08-19.32.08:726][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Background_Music_Auto124FFCB7F4E5C7972C4536A8EB76EEFE6.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Background_Music_Auto1.uasset'
+[2016.11.08-19.32.08:729][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Background_Music_Auto1.uasset
+[2016.11.08-19.32.08:730][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP] ([1] browsable assets)...
+[2016.11.08-19.32.08:730][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP]
+[2016.11.08-19.32.08:765][262]LogSavePackage: Save=21.60ms
+[2016.11.08-19.32.08:765][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP_Auto1A0B0BAF2442FB6907F1B6B9D55BCDCC8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP_Auto1.uasset'
+[2016.11.08-19.32.08:766][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP_Auto1.uasset
+[2016.11.08-19.32.08:767][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Zombie/Marilyn/marilyn_Skeleton] ([1] browsable assets)...
+[2016.11.08-19.32.08:767][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/marilyn_Skeleton]
+[2016.11.08-19.32.08:771][262]LogSavePackage: Save=3.39ms
+[2016.11.08-19.32.08:771][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn_Skeleton_Auto1649FF26C418389600A5D8EB5D889EDDF.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_Skeleton_Auto1.uasset'
+[2016.11.08-19.32.08:773][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/marilyn_Skeleton_Auto1.uasset
+[2016.11.08-19.32.08:773][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/running_crawl] ([1] browsable assets)...
+[2016.11.08-19.32.08:784][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/running_crawl.running_crawl]
+[2016.11.08-19.32.08:784][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/running_crawl]
+[2016.11.08-19.32.08:796][262]LogSavePackage: Save=10.74ms
+[2016.11.08-19.32.08:796][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/running_crawl_Auto18537D9DB42326FEDD7F41D843A6354AB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/running_crawl_Auto1.uasset'
+[2016.11.08-19.32.08:798][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/running_crawl_Auto1.uasset
+[2016.11.08-19.32.08:799][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_attack] ([1] browsable assets)...
+[2016.11.08-19.32.08:810][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_attack.zombie_attack]
+[2016.11.08-19.32.08:810][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_attack]
+[2016.11.08-19.32.08:822][262]LogSavePackage: Save=10.20ms
+[2016.11.08-19.32.08:822][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_attack_Auto1F239BA254E07B31A3551BD9D59C302CF.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_attack_Auto1.uasset'
+[2016.11.08-19.32.08:823][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_attack_Auto1.uasset
+[2016.11.08-19.32.08:824][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_biting] ([1] browsable assets)...
+[2016.11.08-19.32.08:836][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_biting.zombie_biting]
+[2016.11.08-19.32.08:836][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_biting]
+[2016.11.08-19.32.08:848][262]LogSavePackage: Save=10.72ms
+[2016.11.08-19.32.08:848][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_biting_Auto14181BB5B43364CE467D92F96F1A82AFE.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_biting_Auto1.uasset'
+[2016.11.08-19.32.08:849][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_biting_Auto1.uasset
+[2016.11.08-19.32.08:850][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_biting_1] ([1] browsable assets)...
+[2016.11.08-19.32.08:861][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_biting_1.zombie_biting_1]
+[2016.11.08-19.32.08:861][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_biting_1]
+[2016.11.08-19.32.08:873][262]LogSavePackage: Save=10.28ms
+[2016.11.08-19.32.08:873][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_biting_1_Auto15ACDC89847EDB84272DF30AA362B6403.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_biting_1_Auto1.uasset'
+[2016.11.08-19.32.08:875][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_biting_1_Auto1.uasset
+[2016.11.08-19.32.08:875][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_crawl] ([1] browsable assets)...
+[2016.11.08-19.32.08:887][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_crawl.zombie_crawl]
+[2016.11.08-19.32.08:887][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_crawl]
+[2016.11.08-19.32.08:899][262]LogSavePackage: Save=11.26ms
+[2016.11.08-19.32.08:899][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_crawl_Auto1D2B089734CDF0E20C1F7BDB0811D6C73.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_crawl_Auto1.uasset'
+[2016.11.08-19.32.08:901][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_crawl_Auto1.uasset
+[2016.11.08-19.32.08:901][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_death] ([1] browsable assets)...
+[2016.11.08-19.32.08:912][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_death.zombie_death]
+[2016.11.08-19.32.08:912][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_death]
+[2016.11.08-19.32.08:924][262]LogSavePackage: Save=10.73ms
+[2016.11.08-19.32.08:924][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_death_Auto13480C2FB49248C8971C73AADD2DAA352.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_death_Auto1.uasset'
+[2016.11.08-19.32.08:926][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_death_Auto1.uasset
+[2016.11.08-19.32.08:927][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_dying] ([1] browsable assets)...
+[2016.11.08-19.32.08:937][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_dying.zombie_dying]
+[2016.11.08-19.32.08:937][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_dying]
+[2016.11.08-19.32.08:950][262]LogSavePackage: Save=11.13ms
+[2016.11.08-19.32.08:950][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_dying_Auto1780E5FE1411240E5F6E4AA8E8E1C734B.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_dying_Auto1.uasset'
+[2016.11.08-19.32.08:951][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_dying_Auto1.uasset
+[2016.11.08-19.32.08:951][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_idle] ([1] browsable assets)...
+[2016.11.08-19.32.08:963][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_idle.zombie_idle]
+[2016.11.08-19.32.08:963][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_idle]
+[2016.11.08-19.32.08:976][262]LogSavePackage: Save=12.04ms
+[2016.11.08-19.32.08:977][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_idle_Auto18F21C83341DEE67B7AFF7BA2198B0AFB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_idle_Auto1.uasset'
+[2016.11.08-19.32.08:978][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_idle_Auto1.uasset
+[2016.11.08-19.32.08:979][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_neck_bite] ([1] browsable assets)...
+[2016.11.08-19.32.08:990][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_neck_bite.zombie_neck_bite]
+[2016.11.08-19.32.08:990][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_neck_bite]
+[2016.11.08-19.32.09:002][262]LogSavePackage: Save=10.64ms
+[2016.11.08-19.32.09:002][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_neck_bite_Auto14ABA191649190D53D294E8B25D808188.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_neck_bite_Auto1.uasset'
+[2016.11.08-19.32.09:003][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_neck_bite_Auto1.uasset
+[2016.11.08-19.32.09:004][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_run] ([1] browsable assets)...
+[2016.11.08-19.32.09:014][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_run.zombie_run]
+[2016.11.08-19.32.09:015][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_run]
+[2016.11.08-19.32.09:027][262]LogSavePackage: Save=10.90ms
+[2016.11.08-19.32.09:027][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_run_Auto10CD275794240A694C3DE0F8EDE0C0F53.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_run_Auto1.uasset'
+[2016.11.08-19.32.09:028][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_run_Auto1.uasset
+[2016.11.08-19.32.09:029][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_scream] ([1] browsable assets)...
+[2016.11.08-19.32.09:039][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_scream.zombie_scream]
+[2016.11.08-19.32.09:039][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_scream]
+[2016.11.08-19.32.09:051][262]LogSavePackage: Save=10.37ms
+[2016.11.08-19.32.09:051][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_scream_Auto19B584EE24796B6CC67342E931547652D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_scream_Auto1.uasset'
+[2016.11.08-19.32.09:052][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_scream_Auto1.uasset
+[2016.11.08-19.32.09:053][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_walk] ([1] browsable assets)...
+[2016.11.08-19.32.09:064][262]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_walk.zombie_walk]
+[2016.11.08-19.32.09:064][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_walk]
+[2016.11.08-19.32.09:076][262]LogSavePackage: Save=9.99ms
+[2016.11.08-19.32.09:076][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_walk_Auto178387D3B443024B27FD35CA8AB884755.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_walk_Auto1.uasset'
+[2016.11.08-19.32.09:077][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_walk_Auto1.uasset
+[2016.11.08-19.32.09:078][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Endgame_1_converted] ([1] browsable assets)...
+[2016.11.08-19.32.09:083][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Endgame_1_converted.Endgame_1_converted]
+[2016.11.08-19.32.09:084][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Endgame_1_converted]
+[2016.11.08-19.32.09:090][262]LogSavePackage: Save=5.44ms
+[2016.11.08-19.32.09:090][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Endgame_1_converted_Auto1B0716EC24F2CC583EDAF358FE207DBCF.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Endgame_1_converted_Auto1.uasset'
+[2016.11.08-19.32.09:092][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Endgame_1_converted_Auto1.uasset
+[2016.11.08-19.32.09:092][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Endgame_4_converted] ([1] browsable assets)...
+[2016.11.08-19.32.09:098][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Endgame_4_converted.Endgame_4_converted]
+[2016.11.08-19.32.09:098][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Endgame_4_converted]
+[2016.11.08-19.32.09:105][262]LogSavePackage: Save=5.61ms
+[2016.11.08-19.32.09:105][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Endgame_4_converted_Auto1FFB9DA8A4B70C0E82C8A7DB336AEC5AA.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Endgame_4_converted_Auto1.uasset'
+[2016.11.08-19.32.09:106][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Endgame_4_converted_Auto1.uasset
+[2016.11.08-19.32.09:107][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Enemy_Hit_converted] ([1] browsable assets)...
+[2016.11.08-19.32.09:112][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Enemy_Hit_converted.Enemy_Hit_converted]
+[2016.11.08-19.32.09:112][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Enemy_Hit_converted]
+[2016.11.08-19.32.09:120][262]LogSavePackage: Save=6.03ms
+[2016.11.08-19.32.09:120][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Enemy_Hit_converted_Auto1CBB7DF2C4975E19456B63B80325B5932.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Enemy_Hit_converted_Auto1.uasset'
+[2016.11.08-19.32.09:121][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Enemy_Hit_converted_Auto1.uasset
+[2016.11.08-19.32.09:122][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Groan3_converted] ([1] browsable assets)...
+[2016.11.08-19.32.09:127][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Groan3_converted.Groan3_converted]
+[2016.11.08-19.32.09:127][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Groan3_converted]
+[2016.11.08-19.32.09:135][262]LogSavePackage: Save=6.00ms
+[2016.11.08-19.32.09:135][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Groan3_converted_Auto142F6777A4C87D0D878562FA78F7248B0.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Groan3_converted_Auto1.uasset'
+[2016.11.08-19.32.09:136][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Groan3_converted_Auto1.uasset
+[2016.11.08-19.32.09:137][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/MainMenu] ([1] browsable assets)...
+[2016.11.08-19.32.09:153][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/MainMenu.MainMenu]
+[2016.11.08-19.32.09:153][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MainMenu]
+[2016.11.08-19.32.09:164][262]LogSavePackage: Save=9.95ms
+[2016.11.08-19.32.09:165][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/MainMenu_Auto114ABE0AC40D3C8184F782BA4089976CA.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/MainMenu_Auto1.uasset'
+[2016.11.08-19.32.09:167][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/MainMenu_Auto1.uasset
+[2016.11.08-19.32.09:167][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/ProximityWarning] ([1] browsable assets)...
+[2016.11.08-19.32.09:174][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/ProximityWarning.ProximityWarning]
+[2016.11.08-19.32.09:174][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/ProximityWarning]
+[2016.11.08-19.32.09:181][262]LogSavePackage: Save=5.77ms
+[2016.11.08-19.32.09:181][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ProximityWarning_Auto15D988A8740EAD465F5473083B6A13DD8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/ProximityWarning_Auto1.uasset'
+[2016.11.08-19.32.09:182][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/ProximityWarning_Auto1.uasset
+[2016.11.08-19.32.09:182][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Zombiedeath_converted] ([1] browsable assets)...
+[2016.11.08-19.32.09:188][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Zombiedeath_converted.Zombiedeath_converted]
+[2016.11.08-19.32.09:188][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Zombiedeath_converted]
+[2016.11.08-19.32.09:195][262]LogSavePackage: Save=6.17ms
+[2016.11.08-19.32.09:195][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Zombiedeath_converted_Auto1B532459E45CD7DAF3A5E48BED2B0AA67.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Zombiedeath_converted_Auto1.uasset'
+[2016.11.08-19.32.09:197][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Zombiedeath_converted_Auto1.uasset
+[2016.11.08-19.32.09:198][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/BGM_CUE] ([1] browsable assets)...
+[2016.11.08-19.32.09:198][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/BGM_CUE]
+[2016.11.08-19.32.09:203][262]LogSavePackage: Save=4.00ms
+[2016.11.08-19.32.09:203][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/BGM_CUE_Auto18A7D75484190250210739599E0A23B85.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/BGM_CUE_Auto1.uasset'
+[2016.11.08-19.32.09:204][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/BGM_CUE_Auto1.uasset
+[2016.11.08-19.32.09:205][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/GROAN_CUE] ([1] browsable assets)...
+[2016.11.08-19.32.09:205][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/GROAN_CUE]
+[2016.11.08-19.32.09:210][262]LogSavePackage: Save=3.97ms
+[2016.11.08-19.32.09:210][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GROAN_CUE_Auto17DF7164546A384A31E553B98F03889D0.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/GROAN_CUE_Auto1.uasset'
+[2016.11.08-19.32.09:211][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/GROAN_CUE_Auto1.uasset
+[2016.11.08-19.32.09:212][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Slash_Audition] ([1] browsable assets)...
+[2016.11.08-19.32.09:217][262]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Slash_Audition.Slash_Audition]
+[2016.11.08-19.32.09:217][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Slash_Audition]
+[2016.11.08-19.32.09:224][262]LogSavePackage: Save=5.61ms
+[2016.11.08-19.32.09:224][262]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Slash_Audition_Auto12A3412674C515F613BE1B9A9CFE99724.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Slash_Audition_Auto1.uasset'
+[2016.11.08-19.32.09:226][262]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Audio/Slash_Audition_Auto1.uasset
+[2016.11.08-19.32.09:226][262]LogFileHelpers: Auto-saving content packages took 0.569
+[2016.11.08-19.33.43:950][832]BlueprintLog: New page: Compile ZombieCharacter_BP
+[2016.11.08-19.33.44:833][884]LogSavePackage: Save=29.19ms
+[2016.11.08-19.33.44:833][884]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP5570C4B0497572E9D992B088C18C8C6D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.33.44:833][884]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset', retrying in .5s...
+[2016.11.08-19.33.45:334][884]LogFileManager:Error: Error deleting file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'.
+[2016.11.08-19.33.45:334][884]LogSavePackage:Error: Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.33.45:336][884]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.08-19.33.54:222][884]EditorErrors: New page: Save Output
+[2016.11.08-19.33.54:222][884]EditorErrors:Warning: Warning Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.00:928][410]LogSavePackage: Save=6.37ms
+[2016.11.08-19.34.00:928][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn_PhysicsAsset3AD1D66A4B556680BC22BE9346792C63.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn_PhysicsAsset.uasset'
+[2016.11.08-19.34.00:934][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn_PhysicsAsset.uasset
+[2016.11.08-19.34.00:963][410]LogSavePackage: Save=12.69ms
+[2016.11.08-19.34.00:963][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilynE9D7540144BC6A3EFB5DAC93FF693B98.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn.uasset'
+[2016.11.08-19.34.00:969][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn.uasset
+[2016.11.08-19.34.00:990][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Background_Music" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Background_Music.uasset" SILENT=true
+[2016.11.08-19.34.01:003][410]LogSavePackage: Save=11.45ms
+[2016.11.08-19.34.01:003][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Background_Music350D4F5145D0EE588446318B24BDF434.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Background_Music.uasset'
+[2016.11.08-19.34.01:009][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Background_Music.uasset
+[2016.11.08-19.34.01:044][410]LogSavePackage: Save=20.63ms
+[2016.11.08-19.34.01:045][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP7CE88B2A46951DC98FF2BFBC51C2E041.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.01:045][410]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset', retrying in .5s...
+[2016.11.08-19.34.01:546][410]LogFileManager:Error: Error deleting file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'.
+[2016.11.08-19.34.01:546][410]LogSavePackage:Error: Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.01:547][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.08-19.34.06:537][410]LogSavePackage: Save=3.30ms
+[2016.11.08-19.34.06:537][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn_Skeleton6978A12945B00B476327BE87A85BA9D1.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn_Skeleton.uasset'
+[2016.11.08-19.34.06:543][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn_Skeleton.uasset
+[2016.11.08-19.34.06:568][410]LogSavePackage: Save=9.96ms
+[2016.11.08-19.34.06:568][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/running_crawlE22204B14EB13A3B4CC297AD47ED8BBA.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/running_crawl.uasset'
+[2016.11.08-19.34.06:574][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/running_crawl.uasset
+[2016.11.08-19.34.06:598][410]LogSavePackage: Save=10.27ms
+[2016.11.08-19.34.06:598][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_attack92BA461C4E1C589C4D9729A321177B86.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_attack.uasset'
+[2016.11.08-19.34.06:604][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_attack.uasset
+[2016.11.08-19.34.06:630][410]LogSavePackage: Save=11.10ms
+[2016.11.08-19.34.06:630][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_bitingA6DB5ABD4D7C239CC9B3BAB8608CD598.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_biting.uasset'
+[2016.11.08-19.34.06:637][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_biting.uasset
+[2016.11.08-19.34.06:663][410]LogSavePackage: Save=10.26ms
+[2016.11.08-19.34.06:663][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_biting_1745E760C48A340AA02CF1B9B0C7494A3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_biting_1.uasset'
+[2016.11.08-19.34.06:668][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_biting_1.uasset
+[2016.11.08-19.34.06:698][410]LogSavePackage: Save=11.64ms
+[2016.11.08-19.34.06:698][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_crawl7BD3A0284DD39C762254DBB5516AEF46.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_crawl.uasset'
+[2016.11.08-19.34.06:704][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_crawl.uasset
+[2016.11.08-19.34.06:730][410]LogSavePackage: Save=11.24ms
+[2016.11.08-19.34.06:731][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_death0304E8494E3900D0A1960885AC7E5FE5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_death.uasset'
+[2016.11.08-19.34.06:737][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_death.uasset
+[2016.11.08-19.34.06:761][410]LogSavePackage: Save=9.93ms
+[2016.11.08-19.34.06:762][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_dyingBAA0EF5C4AEC6C04DD1000A23CF7358E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_dying.uasset'
+[2016.11.08-19.34.06:767][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_dying.uasset
+[2016.11.08-19.34.06:792][410]LogSavePackage: Save=10.37ms
+[2016.11.08-19.34.06:792][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_idleCC9C86DC4028AF53E79A3BB7CD39D8D8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_idle.uasset'
+[2016.11.08-19.34.06:798][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_idle.uasset
+[2016.11.08-19.34.06:823][410]LogSavePackage: Save=10.39ms
+[2016.11.08-19.34.06:824][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_neck_biteED639D324D6E394B3772D9B921BD9308.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_neck_bite.uasset'
+[2016.11.08-19.34.06:830][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_neck_bite.uasset
+[2016.11.08-19.34.06:855][410]LogSavePackage: Save=9.98ms
+[2016.11.08-19.34.06:855][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_run89E16C00446DC765E8773DB5287B71C7.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_run.uasset'
+[2016.11.08-19.34.06:860][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_run.uasset
+[2016.11.08-19.34.06:886][410]LogSavePackage: Save=10.60ms
+[2016.11.08-19.34.06:886][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_scream776F8ED14AB7CAFD9C17A7962F95A2E3.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_scream.uasset'
+[2016.11.08-19.34.06:891][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_scream.uasset
+[2016.11.08-19.34.06:916][410]LogSavePackage: Save=10.52ms
+[2016.11.08-19.34.06:916][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_walk206966924E08432EE410999F38EB53BB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_walk.uasset'
+[2016.11.08-19.34.06:922][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/zombie_walk.uasset
+[2016.11.08-19.34.06:930][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Endgame_1_converted" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_1_converted.uasset" SILENT=true
+[2016.11.08-19.34.06:937][410]LogSavePackage: Save=5.44ms
+[2016.11.08-19.34.06:937][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Endgame_1_converted66D0F0B6466489A47B0B84998B09B619.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_1_converted.uasset'
+[2016.11.08-19.34.06:942][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_1_converted.uasset
+[2016.11.08-19.34.06:950][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Endgame_4_converted" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_4_converted.uasset" SILENT=true
+[2016.11.08-19.34.06:957][410]LogSavePackage: Save=5.57ms
+[2016.11.08-19.34.06:957][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Endgame_4_convertedE91F6A7344D79206B6809596A6A74D3E.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_4_converted.uasset'
+[2016.11.08-19.34.06:963][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Endgame_4_converted.uasset
+[2016.11.08-19.34.06:970][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Enemy_Hit_converted" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Enemy_Hit_converted.uasset" SILENT=true
+[2016.11.08-19.34.06:976][410]LogSavePackage: Save=5.38ms
+[2016.11.08-19.34.06:977][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Enemy_Hit_convertedF4A1FB444C7D21BF294C58BB7C102B38.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Enemy_Hit_converted.uasset'
+[2016.11.08-19.34.06:982][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Enemy_Hit_converted.uasset
+[2016.11.08-19.34.06:989][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Groan3_converted" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Groan3_converted.uasset" SILENT=true
+[2016.11.08-19.34.06:996][410]LogSavePackage: Save=5.59ms
+[2016.11.08-19.34.06:996][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Groan3_converted2F811EEA470C6B39E818B19B0C627B75.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Groan3_converted.uasset'
+[2016.11.08-19.34.07:002][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Groan3_converted.uasset
+[2016.11.08-19.34.07:018][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MainMenu" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/MainMenu.uasset" SILENT=true
+[2016.11.08-19.34.07:029][410]LogSavePackage: Save=9.56ms
+[2016.11.08-19.34.07:029][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/MainMenu12A944ED40FCBCDAD3B2F69A168E8982.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/MainMenu.uasset'
+[2016.11.08-19.34.07:035][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/MainMenu.uasset
+[2016.11.08-19.34.07:043][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/ProximityWarning" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/ProximityWarning.uasset" SILENT=true
+[2016.11.08-19.34.07:051][410]LogSavePackage: Save=5.93ms
+[2016.11.08-19.34.07:051][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ProximityWarning209425AD47BD2D0397CD019994E997D1.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/ProximityWarning.uasset'
+[2016.11.08-19.34.07:056][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/ProximityWarning.uasset
+[2016.11.08-19.34.07:063][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Zombiedeath_converted" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Zombiedeath_converted.uasset" SILENT=true
+[2016.11.08-19.34.07:071][410]LogSavePackage: Save=5.93ms
+[2016.11.08-19.34.07:071][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Zombiedeath_converted19F48D47406246C5F654E3BA65435C55.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Zombiedeath_converted.uasset'
+[2016.11.08-19.34.07:076][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Zombiedeath_converted.uasset
+[2016.11.08-19.34.07:078][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/BGM_CUE" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/BGM_CUE.uasset" SILENT=true
+[2016.11.08-19.34.07:084][410]LogSavePackage: Save=4.05ms
+[2016.11.08-19.34.07:084][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/BGM_CUE3D2DCA27447754BA56B705A6511A2A66.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/BGM_CUE.uasset'
+[2016.11.08-19.34.07:090][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/BGM_CUE.uasset
+[2016.11.08-19.34.07:092][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/GROAN_CUE" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/GROAN_CUE.uasset" SILENT=true
+[2016.11.08-19.34.07:098][410]LogSavePackage: Save=3.86ms
+[2016.11.08-19.34.07:098][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GROAN_CUEC3185024472046E487265A9F9156E166.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/GROAN_CUE.uasset'
+[2016.11.08-19.34.07:101][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/GROAN_CUE.uasset
+[2016.11.08-19.34.07:109][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Slash_Audition" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Slash_Audition.uasset" SILENT=true
+[2016.11.08-19.34.07:116][410]LogSavePackage: Save=5.83ms
+[2016.11.08-19.34.07:116][410]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Slash_Audition7EA9F05D42F955EE2E361C983C9E7F36.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Slash_Audition.uasset'
+[2016.11.08-19.34.07:120][410]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Audio/Slash_Audition.uasset
+[2016.11.08-19.34.07:124][410]EditorErrors: New page: Save Output
+[2016.11.08-19.34.07:124][410]EditorErrors:Warning: Warning Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.13:774][838]LogSavePackage: Save=21.49ms
+[2016.11.08-19.34.13:774][838]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP471A5A094D9898CE9F0852BF935A0091.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.13:775][838]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset', retrying in .5s...
+[2016.11.08-19.34.14:275][838]LogFileManager:Error: Error deleting file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'.
+[2016.11.08-19.34.14:275][838]LogSavePackage:Error: Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.14:276][838]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.08-19.34.18:506][838]LogSavePackage: Save=21.10ms
+[2016.11.08-19.34.18:506][838]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/ZombieCharacter_BP22827C7D416224157E6853BF8C1F7B94.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.18:506][838]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset', retrying in .5s...
+[2016.11.08-19.34.19:007][838]LogFileManager:Error: Error deleting file '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'.
+[2016.11.08-19.34.19:007][838]LogSavePackage:Error: Error saving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.08-19.34.19:008][838]LogSavePackage:Displa
