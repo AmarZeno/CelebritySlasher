@@ -30,6 +30,9 @@ public:
 	float MaxHealth;
 
 	UFUNCTION(BlueprintCallable, Category = "Health")
+	float GetMaxHealth();
+
+	UFUNCTION(BlueprintCallable, Category = "Health")
 	float GetCurrentHealth();
 
 	UFUNCTION(BlueprintCallable, Category = "Health")
