@@ -29,7 +29,6 @@ void UScreenFeedback::TickComponent( float DeltaTime, ELevelTick TickType, FActo
 {
 	Super::TickComponent( DeltaTime, TickType, ThisTickFunction );
 
-	// ...
 }
 
 float UScreenFeedback::GetMaxHealth()

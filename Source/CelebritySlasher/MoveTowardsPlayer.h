@@ -3,6 +3,8 @@
 #pragma once
 
 #include "EnemyCharacter.h"
+#include <cstdio>
+#include <ctime>
 #include "Components/ActorComponent.h"
 #include "MoveTowardsPlayer.generated.h"
 
@@ -32,9 +34,24 @@ public:
 
 	void TriggerZombieAction();
 
+
 	//UPROPERTY(EditAnywhere)
 	//TArray<UCharacterMovementComponent*> Comps;
 
 	//UPROPERTY(EditAnywhere)
 	//	UCharacterMovementComponent* FoundComp;
+
+	
+	std::clock_t EnemyAttackStartDuration;
+
+	bool IsTimerSet;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float EnemyAttackDuration;
+
+	UFUNCTION(BlueprintCallable, Category = "Zombie")
+	float GetEnemyAttackDuration();
+
+	UFUNCTION(BlueprintCallable, Category = "Timer")
+	void ResetStartTimer();
 };

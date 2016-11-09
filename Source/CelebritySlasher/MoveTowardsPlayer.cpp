@@ -26,6 +26,8 @@ void UMoveTowardsPlayer::BeginPlay()
 	Enemy = dynamic_cast<AEnemyCharacter*>(GetOwner());
 	
 	RandomActionValue = FMath::FRandRange(0.0f, 3.f);
+
+	
 }
 
 
@@ -56,6 +58,21 @@ void UMoveTowardsPlayer::TriggerZombieAction()
 		Enemy->SpeedOfMovement = 0;
 
 		if (!Enemy->ZDidHit) {
+
+			if (IsTimerSet == false) {
+				// start timer
+				EnemyAttackStartDuration = std::clock();
+			
+				IsTimerSet = true;
+			}
+
+			// Update Timer
+			EnemyAttackDuration = (std::clock() - EnemyAttackStartDuration) / (float)CLOCKS_PER_SEC;
+
+		/*	if (EnemyAttackDuration > 2.5) {
+				Start = std::clock();
+			}*/
+
 			if (RandomActionValue < 2) {
 				Enemy->ZIsScreaming = true;
 			}
@@ -64,5 +81,15 @@ void UMoveTowardsPlayer::TriggerZombieAction()
 			}
 		}
 	}
+}
+
+float UMoveTowardsPlayer::GetEnemyAttackDuration()
+{
+	return EnemyAttackDuration;
+}
+
+void UMoveTowardsPlayer::ResetStartTimer()
+{
+	IsTimerSet = false;
 }
 

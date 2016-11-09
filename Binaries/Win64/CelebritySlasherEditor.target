@@ -2,7 +2,7 @@
 	"TargetName" : "CelebritySlasherEditor",
 	"Platform" : "Win64",
 	"Configuration" : "Development",
-	"BuildId" : "9cc77ec3-a356-47fe-add1-9ab4af25f98d",
+	"BuildId" : "4fca7c91-4b88-4834-a13d-f3186ffb9035",
 	"Version" : 
 	{
 		"MajorVersion" : 4,
@@ -15,15 +15,15 @@
 	"BuildProducts" :
 	[
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-CelebritySlasher-1088.dll",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-CelebritySlasher-5288.dll",
 			"Type" : "DynamicLibrary"
 		},
 		{
-			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-CelebritySlasher-1088.pdb",
+			"Path" : "$(ProjectDir)/Binaries/Win64/UE4Editor-CelebritySlasher-5288.pdb",
 			"Type" : "SymbolFile"
 		},
 		{
-			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-CelebritySlasher-1088.lib",
+			"Path" : "$(ProjectDir)/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-CelebritySlasher-5288.lib",
 			"Type" : "ImportLibrary"
 		}
 	],

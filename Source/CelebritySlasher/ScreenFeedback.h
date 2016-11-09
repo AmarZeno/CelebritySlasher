@@ -22,6 +22,10 @@ public:
 	virtual void TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction ) override;
 
 
+	float StartTimer;
+
+	float ElapsedTimer;
+
 
 	UPROPERTY(BlueprintReadWrite, Category = "Health")
 	float CurrentHealth;
