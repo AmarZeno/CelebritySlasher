@@ -1248,8 +1248,8 @@ VersionedIniParams=Engine:Engine.StartupPackages:Package:/Engine/EngineFonts/Rob
 VersionedIniParams=Engine:Engine.StartupPackages:Package:/Engine/EngineMaterials/DefaultTextMaterialTranslucent
 VersionedIniParams=Engine:Engine.StartupPackages:Package:/Engine/EngineFonts/RobotoDistanceField
 VersionedIniParams=Engine:Core.System:Paths:../../../Engine/Content
-VersionedIniParams=Engine:Core.System:Paths:../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content
-VersionedIniParams=Engine:Core.System:CutdownPaths:../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CutdownPackages
+VersionedIniParams=Engine:Core.System:Paths:../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content
+VersionedIniParams=Engine:Core.System:CutdownPaths:../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CutdownPackages
 VersionedIniParams=Engine:Core.System:ZeroEngineVersionWarning:True
 VersionedIniParams=Engine:Core.System:UseStrictEngineVersioning:True
 VersionedIniParams=Engine:Core.System:UseVTableConstructors:True
@@ -1698,63 +1698,63 @@ VersionedIniParams=Engine:DerivedDataBackendGraph:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:DerivedDataBackendGraph:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:DerivedDataBackendGraph:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:DerivedDataBackendGraph:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=EnginePak, Inner=Local, Inner=Shared)
-VersionedIniParams=Engine:DerivedDataBackendGraph:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:DerivedDataBackendGraph:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:DerivedDataBackendGraph:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
 VersionedIniParams=Engine:DerivedDataBackendGraph:Shared:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=true, UnusedFileAge=10, FoldersToClean=10, MaxFileChecksPerSec=1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 VersionedIniParams=Engine:DerivedDataBackendGraph:AltShared:(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=true, UnusedFileAge=23, FoldersToClean=10, MaxFileChecksPerSec=1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
-VersionedIniParams=Engine:DerivedDataBackendGraph:Pak:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:DerivedDataBackendGraph:Pak:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
 VersionedIniParams=Engine:DerivedDataBackendGraph:EnginePak:(Type=ReadPak, Filename=../../../Engine/DerivedDataCache/DDC.ddp)
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=EnginePak, Inner=Local, Inner=Seattle)
-VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache)
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Seattle:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=true, UnusedFileAge=23, FoldersToClean=10, MaxFileChecksPerSec=1, Path=?EpicSeaDDC, EnvPathOverride=UE-SharedDataCachePath_Seattle)
-VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Pak:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:Pak:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
 VersionedIniParams=Engine:DerivedDataBackendGraph_Fill_Seattle:EnginePak:(Type=ReadPak, Filename=../../../Engine/DerivedDataCache/DDC.ddp)
 VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=CompressedPak, Inner=EnginePak, Inner=Local)
-VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Boot:(Type=Boot, Filename="C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
-VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path="C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/Common/DerivedDataCache")
-VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Pak:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
-VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:CompressedPak:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
+VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Boot:(Type=Boot, Filename="C:/Users/u1077160/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path="C:/Users/u1077160/AppData/Local/UnrealEngine/Common/DerivedDataCache")
+VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:Pak:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:CompressedPak:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
 VersionedIniParams=Engine:InstalledDerivedDataBackendGraph:EnginePak:(Type=ReadPak, Filename=../../../Engine/DerivedDataCache/Compressed.ddp, Compressed=true)
 VersionedIniParams=Engine:NoShared:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:NoShared:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:NoShared:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:NoShared:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=Pak, Inner=Local)
-VersionedIniParams=Engine:NoShared:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:NoShared:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:NoShared:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
-VersionedIniParams=Engine:NoShared:Pak:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:NoShared:Pak:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
 VersionedIniParams=Engine:CreatePak:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:CreatePak:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:CreatePak:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:CreatePak:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=PakWrite, Inner=PakRead, Inner=Local, Inner=Shared)
-VersionedIniParams=Engine:CreatePak:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:CreatePak:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:CreatePak:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache)
 VersionedIniParams=Engine:CreatePak:Shared:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 VersionedIniParams=Engine:CreatePak:AltShared:(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
-VersionedIniParams=Engine:CreatePak:PakRead:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
-VersionedIniParams=Engine:CreatePak:PakWrite:(Type=WritePak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:CreatePak:PakRead:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
+VersionedIniParams=Engine:CreatePak:PakWrite:(Type=WritePak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/DDC.ddp")
 VersionedIniParams=Engine:CreateInstalledProjectPak:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:CreateInstalledProjectPak:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:CreateInstalledProjectPak:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:CreateInstalledProjectPak:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=EnginePak, Inner=PakWrite, Inner=PakRead, Inner=Local, Inner=Shared)
-VersionedIniParams=Engine:CreateInstalledProjectPak:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:CreateInstalledProjectPak:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:CreateInstalledProjectPak:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
 VersionedIniParams=Engine:CreateInstalledProjectPak:Shared:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 VersionedIniParams=Engine:CreateInstalledProjectPak:AltShared:(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
 VersionedIniParams=Engine:CreateInstalledProjectPak:EnginePak:(Type=ReadPak, Filename=../../../Engine/DerivedDataCache/Compressed.ddp, Compressed=true)
-VersionedIniParams=Engine:CreateInstalledProjectPak:PakRead:(Type=ReadPak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
-VersionedIniParams=Engine:CreateInstalledProjectPak:PakWrite:(Type=WritePak, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
+VersionedIniParams=Engine:CreateInstalledProjectPak:PakRead:(Type=ReadPak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
+VersionedIniParams=Engine:CreateInstalledProjectPak:PakWrite:(Type=WritePak, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Compressed.ddp", Compressed=true)
 VersionedIniParams=Engine:CreateInstalledEnginePak:MinimumDaysToKeepFile:7
 VersionedIniParams=Engine:CreateInstalledEnginePak:Root:(Type=KeyLength, Length=120, Inner=AsyncPut)
 VersionedIniParams=Engine:CreateInstalledEnginePak:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:CreateInstalledEnginePak:Hierarchy:(Type=Hierarchical, Inner=Boot, Inner=PakWrite, Inner=Local, Inner=Shared)
-VersionedIniParams=Engine:CreateInstalledEnginePak:Boot:(Type=Boot, Filename="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+VersionedIniParams=Engine:CreateInstalledEnginePak:Boot:(Type=Boot, Filename="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/DerivedDataCache/Boot.ddc", MaxCacheSize=512)
 VersionedIniParams=Engine:CreateInstalledEnginePak:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
 VersionedIniParams=Engine:CreateInstalledEnginePak:Shared:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 VersionedIniParams=Engine:CreateInstalledEnginePak:AltShared:(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
@@ -1764,7 +1764,7 @@ VersionedIniParams=Engine:CreateProjectCache:Root:(Type=KeyLength, Length=120, I
 VersionedIniParams=Engine:CreateProjectCache:AsyncPut:(Type=AsyncPut, Inner=Hierarchy)
 VersionedIniParams=Engine:CreateProjectCache:Hierarchy:(Type=Hierarchical, Inner=Local, Inner=Project, Inner=Shared)
 VersionedIniParams=Engine:CreateProjectCache:Local:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
-VersionedIniParams=Engine:CreateProjectCache:Project:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=true, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/ProjectDerivedData)
+VersionedIniParams=Engine:CreateProjectCache:Project:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=true, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/ProjectDerivedData)
 VersionedIniParams=Engine:CreateProjectCache:Shared:(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 VersionedIniParams=Engine:CreateProjectCache:AltShared:(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
 VersionedIniParams=Engine:/Script/Engine.LocalPlayer:AspectRatioAxisConstraint:AspectRatio_MaintainXFOV
@@ -3395,7 +3395,7 @@ VersionedIniParams=Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:bEnableFOVScaling:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:FOVScale:0.011110
 VersionedIniParams=Input:/Script/Engine.InputSettings:DoubleClickTime:0.200000
-VersionedIniParams=Input:/Script/Engine.InputSettings:DefaultTouchInterface:/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
+VersionedIniParams=Input:/Script/Engine.InputSettings:DefaultTouchInterface:None
 VersionedIniParams=Input:/Script/Engine.InputSettings:bAlwaysShowTouchInterface:False
 VersionedIniParams=Input:/Script/Engine.InputSettings:bShowConsoleOnFourFingerTap:True
 VersionedIniParams=Input:/Script/Engine.InputSettings:bAltEnterTogglesFullscreen:True
@@ -3580,7 +3580,7 @@ VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:(R=
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:(B=185,G=109,R=144,A=255)
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:(B=86,G=158,R=86,A=255)
 VersionedIniParams=Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:(R=100,G=100,B=100,A=255)
-VersionedIniParams=Game:Internationalization:LocalizationPaths:../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/Content/Localization/Game
+VersionedIniParams=Game:Internationalization:LocalizationPaths:../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Localization/Game
 VersionedIniParams=Game:DefaultPlayer:Name:Player
 VersionedIniParams=Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:32000
 VersionedIniParams=Game:/Script/Engine.GameNetworkManager:MaxDynamicBandwidth:7000
@@ -3851,6 +3851,7 @@ VersionedIniParams=SkeletalMeshVer:D78A4A00E8584697BAA819B5487D46B4:4
 VersionedIniParams=RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F:1
 VersionedIniParams=VisualLogger:A4237A36CAEA41C98FA218F858681BF3:4
 VersionedIniParams=Paper2DVer:11310AED2E554D61AF679AA3C5A1082C:17
+VersionedIniParams=SubstanceCoreVer:C52D92BED4A6A49C11E593249A6C11E5:1
 VersionedIniParams=PackageFileVersions:505:0
 VersionedIniParams=NetworkCompatibleCL:3172292
 VersionedIniParams=MaterialShaderMapDDCVersion:4F0644619F9C48FF91E0D494C95EB050

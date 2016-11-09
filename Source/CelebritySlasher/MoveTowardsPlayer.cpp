@@ -55,11 +55,13 @@ void UMoveTowardsPlayer::TriggerZombieAction()
 		// Stop moving
 		Enemy->SpeedOfMovement = 0;
 
-		if (RandomActionValue < 2) {
-			Enemy->ZIsScreaming = true;
-		}
-		else {
-			Enemy->ZIsAttacking = true;
+		if (!Enemy->ZDidHit) {
+			if (RandomActionValue < 2) {
+				Enemy->ZIsScreaming = true;
+			}
+			else {
+				Enemy->ZIsAttacking = true;
+			}
 		}
 	}
 }
