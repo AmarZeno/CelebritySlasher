@@ -568,4 +568,29 @@ Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
 [2016.11.10-07.08.52:992][818]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Maps/GameMap.GameMap:PersistentLevel.ZombieCharacter_BP_1057.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Maps/GameMap.GameMap:PersistentLevel.REINST_ZombieCharacter_BP_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
 [2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
 Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
-[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could no
+[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-07.08.53:264][818]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-07.08.53:264][818]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1481.57] Compile of ZombieCharacter_BP successful, but with 6 Warning(s) [in 322 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-07.09.23:404][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.10-07.09.23:480][ 75]LogSavePackage: Save=59.11ms
+[2016.11.10-07.09.23:480][ 75]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap41F80CBA4BFD5690DE45C3BBC0253986.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-07.09.23:482][ 75]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-07.10.02:605][634]LogSavePackage: Save=12.50ms
+[2016.11.10-07.10.02:605][634]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/marilyn0D11EE4D4AF1DA24E1FA23B929042593.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn.uasset'
+[2016.11.10-07.10.02:609][634]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Models/Zombie/Marilyn/marilyn.uasset
+[2016.11.10-07.10.02:628][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawn_BP" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset" SILENT=true
+[2016.11.10-07.10.02:667][634]LogSavePackage: Save=31.80ms
+[2016.11.10-07.10.02:667][634]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Spawn_BP5E0B4EB4401F04F7D2A8E89D0A55C4E8.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset'
+[2016.11.10-07.10.02:669][634]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset
+[2016.11.10-07.10.02:709][634]LogSavePackage: Save=19.40ms
+[2016.11.10-07.10.02:709][634]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/MarilynCharacter_BP5984CAA2447012C8158022A00EE24B3C.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset'
+[2016.11.10-07.10.02:712][634]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset
+[2016.11.10-07.10.11:828][748]LogActorComponent: U
