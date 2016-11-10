@@ -3,6 +3,8 @@
 #pragma once
 
 #include "Components/ActorComponent.h"
+#include <cstdio>
+#include <ctime>
 #include "ScreenFeedback.generated.h"
 
 
@@ -48,5 +50,5 @@ public:
 
 	float SurvivalDuration;
 
-	float StartSurvivalDuration;
+	std::clock_t StartSurvivalDuration;
 };

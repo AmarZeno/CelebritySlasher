@@ -3,6 +3,8 @@
 #include "CelebritySlasher.h"
 #include "ScreenFeedback.h"
 
+#define print(text) if (GEngine) GEngine->AddOnScreenDebugMessage(-1, 1.5, FColor::White,text)
+
 // Sets default values for this component's properties
 UScreenFeedback::UScreenFeedback()
 {
@@ -49,15 +51,18 @@ void UScreenFeedback::SetCurrentHealth(float NewHealth)
 void UScreenFeedback::IncreasePlayerHealth(float DeltaTime) {
 	if (GetCurrentHealth() != 100) {
 		if (StartSurvivalDuration == 0) {
-			StartSurvivalDuration = DeltaTime;
+			StartSurvivalDuration = std::clock();
 			OldHealth = GetCurrentHealth();
+			print(FString::Printf(TEXT("Start timer : %f"), StartSurvivalDuration));
 		}
-		SurvivalDuration = StartSurvivalDuration - DeltaTime;
+		SurvivalDuration = (std::clock() - StartSurvivalDuration)/ (float)CLOCKS_PER_SEC;
+		print(FString::Printf(TEXT("SurvivalDuration : %f"), SurvivalDuration));
+
 		if (SurvivalDuration > 10 && OldHealth == GetCurrentHealth()) {
 			SetCurrentHealth(GetCurrentHealth() + 5);
-			StartSurvivalDuration = 0;
 		}
-		else {
+
+		if (OldHealth != GetCurrentHealth()) {
 			StartSurvivalDuration = 0;
 		}
 	}
