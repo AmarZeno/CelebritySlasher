@@ -53,10 +53,10 @@ void UScreenFeedback::IncreasePlayerHealth(float DeltaTime) {
 		if (StartSurvivalDuration == 0) {
 			StartSurvivalDuration = std::clock();
 			OldHealth = GetCurrentHealth();
-			print(FString::Printf(TEXT("Start timer : %f"), StartSurvivalDuration));
+		//	print(FString::Printf(TEXT("Start timer : %f"), StartSurvivalDuration));
 		}
 		SurvivalDuration = (std::clock() - StartSurvivalDuration)/ (float)CLOCKS_PER_SEC;
-		print(FString::Printf(TEXT("SurvivalDuration : %f"), SurvivalDuration));
+	//	print(FString::Printf(TEXT("SurvivalDuration : %f"), SurvivalDuration));
 
 		if (SurvivalDuration > 10 && OldHealth == GetCurrentHealth()) {
 			SetCurrentHealth(GetCurrentHealth() + 5);
