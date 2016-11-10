@@ -45,15 +45,22 @@ void UMoveTowardsPlayer::MoveTowardsPlayer() {
 
 	//Enemy->SetActorRelativeLocation(FVector(Enemy->GetActorLocation().X - LocationDifference.X, Enemy->GetActorLocation().Y, Enemy->GetActorLocation().Z));
 
-	// Add velocity to the enemy character
-	Enemy->SpeedOfMovement = -0.5;
+	if (Enemy->SpeedOfMovement != 0) {
+		// Add velocity to the enemy character
+		Enemy->SpeedOfMovement = -0.5;
+	}
 }
 
 void UMoveTowardsPlayer::TriggerZombieAction()
 {
 	//print(FString::Printf(TEXT("Location Difference : %f"), Enemy->GetActorLocation().X - LocationDifference.X));
 	// -4700 Magic number to stop the zombie near the character
-	if (Enemy->GetActorLocation().X - LocationDifference.X < -4700) {
+
+	FVector VectorDistance = Enemy->GetActorLocation() - GetWorld()->GetFirstPlayerController()->GetPawn()->GetActorLocation();
+
+//	print(FString::Printf(TEXT("%f"), VectorDistance.Size()));
+
+	if (VectorDistance.Size() < 500) {
 		// Stop moving
 		Enemy->SpeedOfMovement = 0;
 
