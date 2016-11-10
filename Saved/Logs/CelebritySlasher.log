@@ -1719,4 +1719,297 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2016.11.10-03.36.27:522][416]LogSavePackage: Save=10.25ms
 [2016.11.10-03.36.27:522][416]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_neck_bite_Auto1BAC9CABF4C2B7AAD74AA4D83F6B834BD.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_neck_bite_Auto1.uasset'
 [2016.11.10-03.36.27:523][416]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_neck_bite_Auto1.uasset
-[2016.11.10-03.36.27:523][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zo
+[2016.11.10-03.36.27:523][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_run] ([1] browsable assets)...
+[2016.11.10-03.36.27:548][416]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_run.zombie_run]
+[2016.11.10-03.36.27:548][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_run]
+[2016.11.10-03.36.27:559][416]LogSavePackage: Save=9.74ms
+[2016.11.10-03.36.27:559][416]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_run_Auto1790EBEDE4D23EFCFB9CE9494FB8FD60C.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_run_Auto1.uasset'
+[2016.11.10-03.36.27:560][416]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_run_Auto1.uasset
+[2016.11.10-03.36.27:560][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_scream] ([1] browsable assets)...
+[2016.11.10-03.36.27:582][416]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_scream.zombie_scream]
+[2016.11.10-03.36.27:582][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_scream]
+[2016.11.10-03.36.27:594][416]LogSavePackage: Save=9.96ms
+[2016.11.10-03.36.27:594][416]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_scream_Auto142C06AE84177DD1FDF449B82CAD531EB.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_scream_Auto1.uasset'
+[2016.11.10-03.36.27:595][416]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_scream_Auto1.uasset
+[2016.11.10-03.36.27:595][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Zombie/Marilyn/zombie_walk] ([1] browsable assets)...
+[2016.11.10-03.36.27:618][416]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Models/Zombie/Marilyn/zombie_walk.zombie_walk]
+[2016.11.10-03.36.27:618][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Zombie/Marilyn/zombie_walk]
+[2016.11.10-03.36.27:630][416]LogSavePackage: Save=10.14ms
+[2016.11.10-03.36.27:630][416]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/zombie_walk_Auto18C93721D4717607B70C6418C9CD3621D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_walk_Auto1.uasset'
+[2016.11.10-03.36.27:630][416]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/Autosaves/Game/Models/Zombie/Marilyn/zombie_walk_Auto1.uasset
+[2016.11.10-03.36.27:631][416]LogFileHelpers: Auto-saving content packages took 0.586
+[2016.11.10-03.36.51:981][490]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.10-03.36.51:981][490]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.10-03.37.19:636][966]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.10-03.37.25:902][392]LogBlueprint:Warning: [MarilynAnimation_BP] 'IsCrawling' variable not found. Base class was probably changed.
+[2016.11.10-03.37.25:902][392]LogBlueprint:Warning: [MarilynAnimation_BP] 'IsCrawling' variable not found. Base class was probably changed.
+[2016.11.10-03.37.25:918][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable IsScreaming is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.37.25:918][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable DidGetHit is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.37.25:921][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error  AnimGraphNode_SequencePlayer_444  references an unknown sequence
+[2016.11.10-03.37.25:921][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error  AnimGraphNode_SequencePlayer_443  references an unknown sequence
+[2016.11.10-03.37.25:921][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error  AnimGraphNode_SequencePlayer_442  references an unknown sequence
+[2016.11.10-03.37.25:922][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error  AnimGraphNode_SequencePlayer_441  references an unknown sequence
+[2016.11.10-03.37.25:922][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error  AnimGraphNode_SequencePlayer_440  references an unknown sequence
+[2016.11.10-03.37.25:925][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error Missing allocated node for AnimGraphNode_SequencePlayer_444 while searching for node links - likely due to the node having outstanding errors.
+[2016.11.10-03.37.25:925][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error Missing allocated node for AnimGraphNode_SequencePlayer_443 while searching for node links - likely due to the node having outstanding errors.
+[2016.11.10-03.37.25:925][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error Missing allocated node for AnimGraphNode_SequencePlayer_442 while searching for node links - likely due to the node having outstanding errors.
+[2016.11.10-03.37.25:925][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error Missing allocated node for AnimGraphNode_SequencePlayer_441 while searching for node links - likely due to the node having outstanding errors.
+[2016.11.10-03.37.25:925][392]LogBlueprint:Error: [Compiler MarilynAnimation_BP] Error Missing allocated node for AnimGraphNode_SequencePlayer_440 while searching for node links - likely due to the node having outstanding errors.
+[2016.11.10-03.37.25:925][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_5
+[2016.11.10-03.37.25:925][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_35
+[2016.11.10-03.37.26:043][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 4 Warning(s) [in 132 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.26:043][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.26:043][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 6 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.26:043][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 7 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.26:045][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 8 Warning(s) [in 2 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.26:045][392]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0858.54] Compile of MarilynAnimation_BP failed. 10 Fatal Issue(s) 9 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.37.40:520][417]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (marilyn)
+[2016.11.10-03.37.55:025][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.10-03.37.57:263][806]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (marilyn)
+[2016.11.10-03.38.29:117][375]Cmd: TRANSACTION UNDO
+[2016.11.10-03.38.29:117][375]LogEditorTransaction: Undo Edit Intensity
+[2016.11.10-03.38.29:127][375]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2016.11.10-03.38.29:146][375]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.38.29:154][375]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.10-03.38.29:176][375]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.11.10-03.38.33:756][641]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.11.10-03.38.57:034][588]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (marilyn)
+[2016.11.10-03.39.27:038][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2016.11.10-03.39.54:590][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.10-03.39.54:666][267]LogSavePackage: Save=55.53ms
+[2016.11.10-03.39.54:666][267]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMap3A13AA1643E5ACA6A6D12F8587461E14.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-03.39.54:672][267]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-03.40.11:795][734]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (marilyn)
+[2016.11.10-03.40.18:271][295]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2016.11.10-03.40.18:281][295]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2016.11.10-03.40.23:034][779]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (HollyWoodHill02)
+[2016.11.10-03.40.23:757][839]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.11.10-03.40.23:761][839]Recompiling CelebritySlasher...
+[2016.11.10-03.40.23:762][839]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 5344 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.10-03.40.23:763][839]Warning: Starting HotReload took  0.0s.
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: New page: Compilation - Nov 9, 2016, 1:41:04 PM
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: Info Performing full C++ include scan (no include cache file)
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: Info Parsing headers for CelebritySlasherEditor
+[2016.11.10-03.41.04:040][321]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\CelebritySlasher.uproject" "C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info Reflection code generated for CelebritySlasherEditor in 2.6858872 seconds
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info Performing 13 actions (4 in parallel)
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info [3/13] Resource ModuleVersionResource.rc.inl
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info [2/13] Resource PCLaunch.rc
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info PCH.CelebritySlasher.h.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info CelebritySlasher.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info EnemyCharacter.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info CelebritySlasherGameMode.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info GyroMotion.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Source\CelebritySlasher\EnemyCharacter.cpp(30) : warning C4458: declaration of 'InputComponent' hides class member
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info LookAt.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info MoveTowardsPlayer.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info PlayerCharacter.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog:Error: Error C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Source\CelebritySlasher\PlayerCharacter.cpp(30) : warning C4458: declaration of 'InputComponent' hides class member
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info ScreenFeedback.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info CelebritySlasher.generated.cpp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info [13/13] Link UE4Editor-CelebritySlasher-5344.dll
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info    Creating library C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5344.lib and object C:\Users\u1077160\Documents\rapidprototyping\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher-5344.exp
+[2016.11.10-03.41.04:041][321]CompilerResultsLog: Info Total build time: 40.14 seconds
+[2016.11.10-03.41.04:041][321]LogMainFrame: MainFrame: Module compiling took 40.285 seconds
+[2016.11.10-03.41.04:085][321]LogContentBrowser: Native class hierarchy updated for 'CelebritySlasher' in 0.0014 seconds. Added 7 classes and 2 folders.
+[2016.11.10-03.41.04:087][321]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2016.11.10-03.41.04:342][321]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2165 classes and 427 folders.
+[2016.11.10-03.41.04:354][321]Display: HotReload took 40.6s.
+[2016.11.10-03.41.18:044][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-03.41.27:983][  1]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2016.11.10-03.41.36:875][728]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.10-03.43.37:938][104]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2016.11.10-03.43.43:119][497]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.10-03.43.47:535][863]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.10-03.44.58:331][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.10-03.44.58:439][866]LogSavePackage: Save=53.54ms
+[2016.11.10-03.44.58:439][866]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMapE62C2BD84474B6ECF668B89BBE6A53D5.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-03.44.58:446][866]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-03.44.59:662][968]BlueprintLog: New page: Compile MarilynAnimation_BP
+[2016.11.10-03.44.59:679][968]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable IsScreaming is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.44.59:679][968]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable DidGetHit is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.44.59:685][968]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_5
+[2016.11.10-03.44.59:686][968]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_35
+[2016.11.10-03.44.59:796][968]BlueprintEditorCompileResults:Warning: Warning Variable IsScreaming is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.44.59:797][968]BlueprintEditorCompileResults:Warning: Warning Variable DidGetHit is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-03.44.59:797][968]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_5
+[2016.11.10-03.44.59:797][968]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_35
+[2016.11.10-03.44.59:797][968]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [1312.30] Compile of MarilynAnimation_BP successful, but with 4 Warning(s) [in 135 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-03.45.00:677][ 36]LogSavePackage: Save=33.60ms
+[2016.11.10-03.45.00:677][ 36]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/MarilynAnimation_BP871AF0AA495B633AC10F25B702A7043D.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Animations/Zombie/MarilynAnimation_BP.uasset'
+[2016.11.10-03.45.00:683][ 36]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Animations/Zombie/MarilynAnimation_BP.uasset
+[2016.11.10-03.45.02:636][198]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.11.10-03.45.02:640][198]Recompiling CelebritySlasher...
+[2016.11.10-03.45.02:640][198]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 5883 Win64 Development -editorrecompile -canskiplink "C:/Users/u1077160/Documents/rapidprototyping/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.10-03.45.02:641][198]Warning: Starting HotReload took  0.0s.
+[2016.11.10-03.45.03:378][252]CompilerResultsLog: New page: Compilation - Nov 9, 2016, 1:45:03 PM
+[2016.11.10-03.45.03:378][252]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.10-03.45.03:378][252]CompilerResultsLog: Info Target is up to date
+[2016.11.10-03.45.03:378][252]LogMainFrame: MainFrame: Module compiling took 0.742 seconds
+[2016.11.10-03.45.03:588][252]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2165 classes and 427 folders.
+[2016.11.10-03.45.03:588][252]Display: HotReload took  1.0s.
+[2016.11.10-03.45.04:459][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-03.45.04:459][314]PIE: New page: PIE session: GameMap (Nov 9, 2016, 1:45:04 PM)
+[2016.11.10-03.45.04:459][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-03.45.04:467][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007855s)
+[2016.11.10-03.45.04:468][314]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-03.45.04:468][314]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2016.11.10-03.45.04:468][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.009207s)
+[2016.11.10-03.45.04:526][314]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.11.10-03.45.04:533][314]LogInit: FAudioDevice initialized.
+[2016.11.10-03.45.04:558][314]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-03.45.04:561][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-20.45.04
+[2016.11.10-03.45.04:561][314]LogWorld: Bringing up level for play took: 0.001594
+[2016.11.10-03.45.04:561][314]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-03.45.04:561][314]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-03.45.04:561][314]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-03.45.04:562][314]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-03.45.04:562][314]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-03.45.04:562][314]LogBlueprintUserMessages: [Spawn_BP_2] X=489.506 Y=-4787.273 Z=0.000
+[2016.11.10-03.45.04:563][314]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=489.506 Y=-4787.273 Z=1598.891] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.04:563][314]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-03.45.04:563][314]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-03.45.04:563][314]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.385
+[2016.11.10-03.45.09:555][705]LogBlueprintUserMessages: [Spawn_BP_2] X=-2886.089 Y=235.188 Z=0.000
+[2016.11.10-03.45.09:556][705]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2886.089 Y=235.188 Z=200.335] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.09:556][705]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-03.45.09:556][705]LogBlueprintUserMessages: [Spawn_BP_2] X=1103.782 Y=4207.645 Z=0.000
+[2016.11.10-03.45.09:557][705]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.09:557][705]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.09:557][705]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-03.45.09:557][705]LogBlueprintUserMessages: [Spawn_BP_2] X=821.547 Y=6184.586 Z=0.000
+[2016.11.10-03.45.09:558][705]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.09:558][705]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.09:558][705]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-03.45.14:872][ 19]LogBlueprintUserMessages: [Spawn_BP_2] X=-2875.347 Y=4515.542 Z=0.000
+[2016.11.10-03.45.14:873][ 19]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.14:873][ 19]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.14:873][ 19]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-03.45.14:873][ 19]LogBlueprintUserMessages: [Spawn_BP_2] X=-2147.297 Y=3761.823 Z=0.000
+[2016.11.10-03.45.14:874][ 19]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.14:874][ 19]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.14:874][ 19]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-03.45.14:874][ 19]LogBlueprintUserMessages: [Spawn_BP_2] X=3851.916 Y=-6016.070 Z=0.000
+[2016.11.10-03.45.14:874][ 19]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.14:874][ 19]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.14:874][ 19]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-03.45.14:874][ 19]LogBlueprintUserMessages: [Spawn_BP_2] X=2388.491 Y=247.262 Z=0.000
+[2016.11.10-03.45.14:875][ 19]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=2388.491 Y=247.262 Z=36.328] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.14:875][ 19]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-03.45.14:875][ 19]LogBlueprintUserMessages: [Spawn_BP_2] X=-9530.341 Y=4106.407 Z=0.000
+[2016.11.10-03.45.14:876][ 19]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.14:876][ 19]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.14:876][ 19]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-03.45.19:875][317]LogBlueprintUserMessages: [Spawn_BP_2] X=1042.258 Y=-2593.923 Z=0.000
+[2016.11.10-03.45.19:876][317]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.19:876][317]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.19:876][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:876][317]LogBlueprintUserMessages: [Spawn_BP_2] X=3829.455 Y=-1980.454 Z=0.000
+[2016.11.10-03.45.19:877][317]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.19:877][317]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.19:877][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:877][317]LogBlueprintUserMessages: [Spawn_BP_2] X=-5722.116 Y=4664.613 Z=0.000
+[2016.11.10-03.45.19:878][317]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.19:878][317]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.19:878][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:878][317]LogBlueprintUserMessages: [Spawn_BP_2] X=-9175.838 Y=-5571.642 Z=0.000
+[2016.11.10-03.45.19:879][317]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-9175.838 Y=-5571.642 Z=429.383] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.19:879][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:879][317]LogBlueprintUserMessages: [Spawn_BP_2] X=-5372.984 Y=4808.112 Z=0.000
+[2016.11.10-03.45.19:880][317]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.19:880][317]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.19:880][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:880][317]LogBlueprintUserMessages: [Spawn_BP_2] X=-2160.969 Y=5895.266 Z=0.000
+[2016.11.10-03.45.19:881][317]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.19:881][317]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.19:881][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.19:881][317]LogBlueprintUserMessages: [Spawn_BP_2] X=2882.647 Y=-2820.085 Z=0.000
+[2016.11.10-03.45.19:881][317]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=2882.647 Y=-2820.085 Z=361.841] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.19:881][317]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-03.45.20:629][359]LogCharacterMovement: ZombieCharacter_BP_C_3 is stuck and failed to move! Velocity: X=-15.20 Y=9.08 Z=0.00 Location: X=1094.13 Y=-2626.30 Z=512.91 Normal: X=0.07 Y=0.45 Z=0.89 PenetrationDepth:65.201 Actor:HollyWoodHill02_11 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2016.11.10-03.45.22:297][454]LogCharacterMovement: ZombieCharacter_BP_C_4 is stuck and failed to move! Velocity: X=-254.11 Y=159.46 Z=0.00 Location: X=858.21 Y=-2440.56 Z=535.71 Normal: X=0.67 Y=0.56 Z=0.49 PenetrationDepth:25.624 Actor:ZombieCharacter_BP_C_3 Component:CharacterMesh0 BoneName:LeftToeBase (0 other events since notify)
+[2016.11.10-03.45.24:875][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-412.866 Y=1822.963 Z=0.000
+[2016.11.10-03.45.24:876][605]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-412.866 Y=1822.963 Z=45.168] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.24:876][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:876][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-5436.462 Y=-1313.115 Z=0.000
+[2016.11.10-03.45.24:877][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:877][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:877][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:877][605]LogBlueprintUserMessages: [Spawn_BP_2] X=807.387 Y=2946.341 Z=0.000
+[2016.11.10-03.45.24:878][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:878][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:878][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:878][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-1992.995 Y=4468.172 Z=0.000
+[2016.11.10-03.45.24:879][605]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1992.995 Y=4468.172 Z=32.276] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.24:879][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:879][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-3742.561 Y=1703.613 Z=0.000
+[2016.11.10-03.45.24:880][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:880][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:880][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:880][605]LogBlueprintUserMessages: [Spawn_BP_2] X=64.688 Y=-1600.112 Z=0.000
+[2016.11.10-03.45.24:881][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:881][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:881][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:881][605]LogBlueprintUserMessages: [Spawn_BP_2] X=2160.944 Y=4547.584 Z=0.000
+[2016.11.10-03.45.24:882][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:882][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:882][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:882][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-10741.805 Y=4858.731 Z=0.000
+[2016.11.10-03.45.24:882][605]LogTemp:Warning: LookAt reporting!
+[2016.11.10-03.45.24:882][605]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-03.45.24:882][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.24:882][605]LogBlueprintUserMessages: [Spawn_BP_2] X=-6170.860 Y=2108.568 Z=0.000
+[2016.11.10-03.45.24:883][605]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-6170.860 Y=2108.568 Z=114.591] for [MarilynCharacter_BP_C]
+[2016.11.10-03.45.24:883][605]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-03.45.50:908][ 49]LogCharacterMovement: MarilynCharacter_BP_C_10 is stuck and failed to move! Velocity: X=-17.25 Y=-8.53 Z=0.00 Location: X=-4631.19 Y=1185.53 Z=268.31 Normal: X=0.80 Y=0.59 Z=-0.03 PenetrationDepth:1.402 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2016.11.10-03.45.52:983][169]LogCharacterMovement: MarilynCharacter_BP_C_11 is stuck and failed to move! Velocity: X=-245.04 Y=-126.02 Z=0.00 Location: X=-4627.68 Y=1084.58 Z=272.26 Normal: X=0.92 Y=0.38 Z=-0.03 PenetrationDepth:0.651 Actor:ZombieCharacter_BP_C_9 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2016.11.10-03.45.54:128][239]LogCharacterMovement: MarilynCharacter_BP_C_10 is stuck and failed to move! Velocity: X=-25.41 Y=-12.57 Z=0.00 Location: X=-4641.38 Y=1094.91 Z=271.79 Normal: X=0.75 Y=-0.66 Z=-0.01 PenetrationDepth:22.296 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightHand (24 other events since notify)
+[2016.11.10-03.45.55:005][307]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.55:072][312]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.55:085][313]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:776][662]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:790][663]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:803][664]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:817][665]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:833][666]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:861][668]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:874][669]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:930][673]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.45.59:943][674]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.46.01:586][797]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.46.04:573][ 21]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-03.46.10:333][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.10-03.46.10:398][457]LogSavePackage: Save=52.52ms
+[2016.11.10-03.46.10:398][457]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/GameMapC05556D648668FD85E0F05B6EDFF4869.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-03.46.10:400][457]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-03.46.11:798][565]LogSavePackage: Save=28.89ms
+[2016.11.10-03.46.11:798][565]LogSavePackage: Moving '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Saved/MarilynAnimation_BP2771E5B04D34B8DB277232A7210E27B6.tmp' to '../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Animations/Zombie/MarilynAnimation_BP.uasset'
+[2016.11.10-03.46.11:799][565]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Blueprints/Animations/Zombie/MarilynAnimation_BP.uasset
+[2016.11.10-03.46.30:947][734]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.10-03.46.30:974][734]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.46.30:988][734]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.10-03.46.31:027][734]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2016.11.10-03.46.31:059][734]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.46.33:824][784]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2016.11.10-03.46.33:869][784]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.46.33:885][784]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2016.11.10-03.46.33:931][784]LogMaterial: Missing cached shader map for material blinn1, compiling. 
+[2016.11.10-03.46.33:967][784]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.11.10-03.46.42:647][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="../../../../../../Users/u1077160/Documents/rapidprototyping/CelebritySlasher/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.11.10-03.46.42:721][615]LogSavePackage: Save=51.67ms
+[2016.11.10-
