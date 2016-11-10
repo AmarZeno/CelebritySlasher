@@ -1,0 +1,1642 @@
+﻿Log file open, 11/09/16 19:04:07
+LogInit:Display: Running engine for game: CelebritySlasher
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1749466884) SRandInit(-1749466883).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071463
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit:Warning: Incompatible or missing module: UE4Editor-CelebritySlasher.dll
+Running C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher Development Win64 -project="C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/CelebritySlasher.uproject" -editorrecompile -progress -noubtmakefiles -NoHotReloadFromIDE
+@progress push 5%
+Parsing headers for CelebritySlasherEditor
+  Running UnrealHeaderTool "C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\CelebritySlasher.uproject" "C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\Intermediate\Build\Win64\CelebritySlasherEditor\Development\CelebritySlasherEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for CelebritySlasherEditor in 5.4940776 seconds
+@progress pop
+Performing 13 actions (4 in parallel)
+[2/13] Resource PCLaunch.rc
+[3/13] Resource ModuleVersionResource.rc.inl
+PCH.CelebritySlasher.h.cpp
+CelebritySlasher.generated.cpp
+MoveTowardsPlayer.cpp
+EnemyCharacter.cpp
+CelebritySlasherGameMode.cpp
+C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\Source\CelebritySlasher\EnemyCharacter.cpp(30): warning C4458: declaration of 'InputComponent' hides class member
+C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
+GyroMotion.cpp
+LookAt.cpp
+PlayerCharacter.cpp
+C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\Source\CelebritySlasher\PlayerCharacter.cpp(30): warning C4458: declaration of 'InputComponent' hides class member
+C:\Program Files (x86)\Epic Games\4.13\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(316): note: see declaration of 'AActor::InputComponent'
+ScreenFeedback.cpp
+CelebritySlasher.cpp
+[13/13] Link UE4Editor-CelebritySlasher.dll
+   Creating library C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher.lib and object C:\Work\EAE\1st Sem\Rapid Prototyping\RP-4\CelebritySlasher\CelebritySlasher\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CelebritySlasher.exp
+Total build time: 68.38 seconds
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.11.10-02.05.20:715][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.10-02.05.20:715][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.11.10-02.05.20:731][  0]LogInit: Computer: DESKTOP-DKRONP8
+[2016.11.10-02.05.20:731][  0]LogInit: User: AjaySathish
+[2016.11.10-02.05.20:731][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.11.10-02.05.20:731][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2016.11.10-02.05.20:731][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2016.11.10-02.05.20:732][  0]LogMemory: Platform Memory Stats for Windows
+[2016.11.10-02.05.20:732][  0]LogMemory: Process Physical Memory: 259.45 MB used, 259.45 MB peak
+[2016.11.10-02.05.20:732][  0]LogMemory: Process Virtual Memory: 260.45 MB used, 260.45 MB peak
+[2016.11.10-02.05.20:732][  0]LogMemory: Physical Memory: 4263.52 MB used, 16247.77 MB total
+[2016.11.10-02.05.20:732][  0]LogMemory: Virtual Memory: 630.23 MB used, 134217728.00 MB total
+[2016.11.10-02.05.21:372][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.11.10-02.05.25:198][  0]LogD3D11RHI: D3D11 adapters:
+[2016.11.10-02.05.26:440][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2016.11.10-02.05.26:440][  0]LogD3D11RHI:       3040/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.11.10-02.05.26:448][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2016.11.10-02.05.26:448][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.11.10-02.05.26:449][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.11.10-02.05.26:449][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.11.10-02.05.26:449][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.11.10-02.05.26:453][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.11.10-02.05.26:453][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2016.11.10-02.05.26:453][  0]LogWindows: EnumDisplayDevices:
+[2016.11.10-02.05.26:453][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2016.11.10-02.05.26:453][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.11.10-02.05.26:454][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.11.10-02.05.26:454][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.11.10-02.05.26:454][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2016.11.10-02.05.26:454][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.11.10-02.05.26:454][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.11.10-02.05.26:454][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.11.10-02.05.26:936][  0]LogD3D11RHI: Async texture creation enabled
+[2016.11.10-02.05.27:158][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2016.11.10-02.05.27:159][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Intermediate/Shaders/WorkingDirectory/1144/).
+[2016.11.10-02.05.27:159][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AJAYSA~1/AppData/Local/Temp/UnrealShaderWorkingDir/2743B18E43D4625CDC7FD3B510929163/'.
+[2016.11.10-02.05.27:159][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.11.10-02.05.30:406][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.11.10-02.05.30:418][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.11.10-02.05.30:427][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.11.10-02.05.30:435][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.11.10-02.05.30:442][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.11.10-02.05.30:451][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.11.10-02.05.30:457][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.11.10-02.05.30:463][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.11.10-02.05.30:469][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.11.10-02.05.30:476][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.11.10-02.05.30:482][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.11.10-02.05.30:497][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.11.10-02.05.30:497][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.11.10-02.05.30:498][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.11.10-02.05.30:549][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.11.10-02.05.30:556][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.11.10-02.05.30:563][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.11.10-02.05.30:571][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.11.10-02.05.30:577][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.11.10-02.05.30:597][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.11.10-02.05.30:597][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.11.10-02.05.30:967][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache: Loaded boot cache 0.67s 62MB C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.11.10-02.05.31:641][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.11.10-02.05.31:687][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.11.10-02.05.31:699][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.11.10-02.05.34:130][  0]LogInit: Selected Device Profile: [Windows]
+[2016.11.10-02.05.34:187][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.11.10-02.05.34:282][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.11.10-02.05.34:282][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.11.10-02.05.34:282][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.11.10-02.05.34:441][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.11.10-02.05.35:989][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: celebrityslasher, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 584922918
+[2016.11.10-02.05.36:098][  0]LogAssetRegistry: FAssetRegistry took 0.0223 seconds to start up
+[2016.11.10-02.05.36:141][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.039212 seconds
+[2016.11.10-02.05.36:146][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.11.10-02.05.36:146][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2016.11.10-02.05.36:146][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.11.10-02.05.36:152][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.11.10-02.05.37:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.10-02.05.37:711][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.11.10-02.06.16:350][  0]LogSubstanceCoreModule: Substance CPU Engine Loaded, Max Texture Size 2048
+[2016.11.10-02.06.16:390][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.11.10-02.06.16:413][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.11.10-02.06.17:706][  0]SourceControl: Info Source control is disabled
+[2016.11.10-02.06.17:821][  0]SourceControl: Info Source control is disabled
+[2016.11.10-02.06.17:829][  0]SourceControl: Info Source control is disabled
+[2016.11.10-02.06.17:838][  0]SourceControl: Info Source control is disabled
+[2016.11.10-02.06.18:325][  0]LogEngine: Initializing Engine...
+[2016.11.10-02.06.18:326][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.11.10-02.06.18:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.11.10-02.06.18:683][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.06.18:749][  0]LogInit: FAudioDevice initialized.
+[2016.11.10-02.06.18:776][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/Ajay Sathish/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.11.10-02.06.18:780][  0]LogInit: Texture streaming: Enabled
+[2016.11.10-02.06.18:805][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.10-02.06.18:927][  0]LogInit: Transaction tracking system initialized
+[2016.11.10-02.06.18:972][  0]BlueprintLog: New page: Editor Load
+[2016.11.10-02.06.19:100][  0]LocalizationService: Info Localization service is disabled
+[2016.11.10-02.06.19:913][  0]LogConsoleResponse:Display: 
+[2016.11.10-02.06.22:274][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.11.10-02.06.22:274][  0]LogCook:Display: Mobile HDR setting 1
+[2016.11.10-02.06.23:347][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/' took 0.02s
+[2016.11.10-02.06.23:833][  0]SourceControl: Info Source control is disabled
+[2016.11.10-02.06.23:833][  0]Cmd: MAP LOAD FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.10-02.06.23:833][  0]LogEditorServer:Warning: Can't find file '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/GameMap.umap'
+[2016.11.10-02.06.23:833][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.10-02.06.23:868][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 35.155ms to complete.
+[2016.11.10-02.06.23:868][  0]LogFileHelpers: Loading map 'GameMap' took 0.035
+[2016.11.10-02.06.24:169][  0]LogCollectionManager: Loaded 1 collections in 0.001811 seconds
+[2016.11.10-02.06.24:212][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Collections/' took 0.01s
+[2016.11.10-02.06.24:212][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Developers/AjaySathish/Collections/' took 0.01s
+[2016.11.10-02.06.24:212][  0]LogFileCache: Scanning file cache for directory 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Collections/' took 0.01s
+[2016.11.10-02.06.24:212][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000004 seconds
+[2016.11.10-02.06.24:212][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.11.10-02.06.24:221][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2163 classes and 423 folders.
+[2016.11.10-02.06.24:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.11.10-02.06.24:225][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.11.10-02.06.24:227][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0017 seconds. Added 12 classes and 0 folders.
+[2016.11.10-02.06.24:233][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2016.11.10-02.06.27:116][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0059 seconds. Added 0 classes and 0 folders.
+[2016.11.10-02.06.27:133][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0055 seconds. Added 1 classes and 2 folders.
+[2016.11.10-02.06.27:152][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.11.10-02.06.27:158][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.11.10-02.06.27:185][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2016.11.10-02.06.27:186][  0]LogLoad: (Engine Initialization) Total time: 140.75 seconds
+[2016.11.10-02.06.27:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.12 seconds
+[2016.11.10-02.06.27:186][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.11.10-02.06.27:186][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.11.10-02.06.27:204][  0]LogOcInput: OculusInput pre-init called
+[2016.11.10-02.06.27:222][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.11.10-02.06.27:841][  0]LogRenderer: Reallocating scene render targets to support 820x436 (Frame:2).
+[2016.11.10-02.06.27:927][  1]LogAssetRegistry: Asset discovery search completed in 51.8514 seconds
+[2016.11.10-02.06.27:927][  1]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000005 seconds (found 0 objects)
+[2016.11.10-02.06.27:927][  1]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000019 seconds (updated 0 objects)
+[2016.11.10-02.06.40:968][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:968][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:968][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:968][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:969][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:969][450]LogBlueprint:Warning: [ZombieCharacter_BP] 'ScreenFeedback' variable not found. Base class was probably changed.
+[2016.11.10-02.06.40:976][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.06.40:976][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.06.40:977][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.06.40:977][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.06.40:977][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.06.40:977][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.06.40:981][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.54] Compile of ZombieCharacter_BP successful, but with 6 Warning(s) [in 10 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.40:982][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.54] Compile of ZombieCharacter_BP successful, but with 7 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.40:982][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.54] Compile of ZombieCharacter_BP successful, but with 8 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.06.41:039][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.06.41:043][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.61] Compile of ZombieCharacter_BP successful, but with 6 Warning(s) [in 11 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.41:043][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.61] Compile of ZombieCharacter_BP successful, but with 7 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.41:044][450]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [0154.61] Compile of ZombieCharacter_BP successful, but with 8 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.06.42:081][450]LogTexture:Display: Building textures: bloodblur (AutoDXT)
+[2016.11.10-02.06.42:739][450]LogAudioDerivedData:Display: Building compressed audio format OGG wave Groan3_converted...
+[2016.11.10-02.06.42:874][450]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2016.11.10-02.06.42:876][450]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.10-02.06.42:885][450]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.10-02.06.42:886][450]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.10-02.06.42:888][450]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2016.11.10-02.06.42:892][450]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.10-02.06.42:903][450]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.10-02.06.42:904][450]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.10-02.06.42:905][450]LogTexture:Display: Building textures: SkyOcclusion0_5 (AutoDXT)
+[2016.11.10-02.06.42:908][450]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.10-02.06.42:924][450]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.10-02.06.42:925][450]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.10-02.06.42:926][450]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
+[2016.11.10-02.06.42:927][450]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2016.11.10-02.06.42:928][450]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2016.11.10-02.06.42:945][450]LogStaticMesh: Building static mesh CityScapeFinal...
+[2016.11.10-02.07.01:808][450]LogStaticMesh: Built static mesh [18.88s] /Game/Models/CityScape/CityScapeFinal.CityScapeFinal
+[2016.11.10-02.07.01:830][450]LogStaticMesh: Building static mesh HollyWoodHill02...
+[2016.11.10-02.07.01:893][450]LogStaticMesh: Built static mesh [0.07s] /Game/Models/World/HollyWoodHill02.HollyWoodHill02
+[2016.11.10-02.07.02:077][450]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2016.11.10-02.07.02:221][450]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2016.11.10-02.07.02:511][450]LogMaterial: Missing cached shader map for material NewMaterial2, compiling. 
+[2016.11.10-02.07.02:740][450]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.07.02:862][450]LogAudioDerivedData:Display: Building compressed audio format OGG wave Background_Music...
+[2016.11.10-02.07.05:838][450]Cmd: MAP LOAD FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.11.10-02.07.05:838][450]LightingResults: New page: Lighting Build
+[2016.11.10-02.07.05:842][450]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0019 seconds. Added 5 classes and 0 folders.
+[2016.11.10-02.07.05:843][450]LoadErrors: New page: Loading map: GameMap.umap
+[2016.11.10-02.07.05:843][450]MapCheck: New page: Map Check
+[2016.11.10-02.07.05:843][450]LightingResults: New page: Lighting Build
+[2016.11.10-02.07.05:868][450]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.11.10-02.07.05:899][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.11.10-02.07.05:950][450]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.586ms to complete.
+[2016.11.10-02.07.05:950][450]LogFileHelpers: Loading map 'GameMap' took 0.114
+[2016.11.10-02.08.15:286][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.08.15:286][766]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:08:15 PM)
+[2016.11.10-02.08.15:286][766]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.08.15:298][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011161s)
+[2016.11.10-02.08.15:298][766]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.08.15:299][766]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2016.11.10-02.08.15:299][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.012668s)
+[2016.11.10-02.08.15:313][766]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.08.15:322][766]LogInit: FAudioDevice initialized.
+[2016.11.10-02.08.15:434][766]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.08.15:445][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 60) at 2016.11.09-19.08.15
+[2016.11.10-02.08.15:446][766]LogWorld: Bringing up level for play took: 0.007352
+[2016.11.10-02.08.15:470][766]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 11 classes and 0 folders.
+[2016.11.10-02.08.15:470][766]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.08.15:470][766]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.08.15:470][766]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.08.15:484][766]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.08.15:544][766]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.08.15:545][766]LogBlueprintUserMessages: [Spawn_BP_2] X=-8862.840 Y=-5737.896 Z=0.000
+[2016.11.10-02.08.15:545][766]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.08.15:554][766]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.08.15:555][766]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.08.15:555][766]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.08.15:555][766]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.08.15:555][766]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.503
+[2016.11.10-02.08.28:454][533]LogBlueprintUserMessages: [Player_Pawn_C_0] TAP
+[2016.11.10-02.08.29:771][612]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-02.08.29:787][613]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-02.08.29:804][614]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-02.08.29:820][615]LogBlueprintUserMessages: [Player_Pawn_C_0] Collided
+[2016.11.10-02.12.03:117][539]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 112 classes and 0 folders.
+[2016.11.10-02.12.04:058][539]LogRenderer: Reallocating scene render targets to support 912x540 (Frame:29131).
+[2016.11.10-02.14.25:644][754]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.10-02.14.46:788][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.14.46:788][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.14.46:788][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.14.46:789][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.14.46:789][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.14.46:789][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.14.46:795][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.36] Compile of MarilynCharacter_BP successful, but with 6 Warning(s) [in 19 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.14.46:824][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.14.46:829][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.39] Compile of MarilynCharacter_BP successful, but with 6 Warning(s) [in 18 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:830][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.39] Compile of MarilynCharacter_BP successful, but with 7 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:830][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.39] Compile of MarilynCharacter_BP successful, but with 8 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:886][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.45] Compile of MarilynCharacter_BP successful, but with 9 Warning(s) [in 56 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:886][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.45] Compile of MarilynCharacter_BP successful, but with 10 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.14.46:886][982]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0640.45] Compile of MarilynCharacter_BP successful, but with 11 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.15.00:126][134]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.10-02.15.02:643][340]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.10-02.15.02:679][340]LogBlueprint:Warning: [MarilynAnimation_BP] 'IsCrawling' variable not found. Base class was probably changed.
+[2016.11.10-02.15.02:679][340]LogBlueprint:Warning: [MarilynAnimation_BP] 'IsCrawling' variable not found. Base class was probably changed.
+[2016.11.10-02.15.02:680][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable IsScreaming is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-02.15.02:680][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable DidGetHit is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-02.15.02:687][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_5
+[2016.11.10-02.15.02:688][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_35
+[2016.11.10-02.15.02:690][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.25] Compile of MarilynAnimation_BP successful, but with 4 Warning(s) [in 9 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:690][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.25] Compile of MarilynAnimation_BP successful, but with 5 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:690][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.25] Compile of MarilynAnimation_BP successful, but with 6 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:692][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable IsScreaming is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-02.15.02:692][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Variable DidGetHit is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2016.11.10-02.15.02:702][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_5
+[2016.11.10-02.15.02:702][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning Could not find a variable named "IsCrawling" in 'MarilynAnimation_BP_C'.
+Make sure 'MarilynAnimation_BP_C' has been compiled for  K2Node_VariableGet_35
+[2016.11.10-02.15.02:704][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.27] Compile of MarilynAnimation_BP successful, but with 4 Warning(s) [in 12 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:704][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.27] Compile of MarilynAnimation_BP successful, but with 5 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:704][340]LogBlueprint:Warning: [Compiler MarilynAnimation_BP] Warning [0656.27] Compile of MarilynAnimation_BP successful, but with 6 Warning(s) [in 0 ms] (/Game/Blueprints/Animations/Zombie/MarilynAnimation_BP.MarilynAnimation_BP)
+[2016.11.10-02.15.02:705][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_run.zombie_run
+[2016.11.10-02.15.02:717][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_walk.zombie_walk
+[2016.11.10-02.15.02:726][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_idle.zombie_idle
+[2016.11.10-02.15.02:750][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_scream.zombie_scream
+[2016.11.10-02.15.02:757][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_death.zombie_death
+[2016.11.10-02.15.02:782][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_attack.zombie_attack
+[2016.11.10-02.15.02:794][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_crawl.zombie_crawl
+[2016.11.10-02.15.02:820][340]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Zombie/Marilyn/zombie_dying.zombie_dying
+[2016.11.10-02.15.15:593][376]BlueprintLog: New page: Compile MarilynCharacter_BP
+[2016.11.10-02.15.15:620][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.15.15:620][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.15.15:620][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.15.15:620][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.15.15:621][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.15.15:621][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.15.15:871][376]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.15.15:872][376]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0669.43] Compile of MarilynCharacter_BP successful, but with 6 Warning(s) [in 279 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.18.10:250][603]BlueprintLog: New page: Compile MarilynCharacter_BP
+[2016.11.10-02.18.10:279][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.18.10:280][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.18.10:280][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.18.10:280][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.18.10:280][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.18.10:280][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.18.10:619][603]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.18.10:619][603]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [0844.18] Compile of MarilynCharacter_BP successful, but with 6 Warning(s) [in 368 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.18.31:104][615]LogSavePackage: Save=53.90ms
+[2016.11.10-02.18.31:105][615]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/MarilynCharacter_BP8EF63B9B4EEE5AE7E1F8A99CD04DCC47.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset'
+[2016.11.10-02.18.31:108][615]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset
+[2016.11.10-02.18.32:575][758]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.10-02.18.38:899][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.18.38:900][462]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:18:38 PM)
+[2016.11.10-02.18.38:900][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.18.38:908][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008614s)
+[2016.11.10-02.18.38:910][462]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.18.38:910][462]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2016.11.10-02.18.38:910][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.010481s)
+[2016.11.10-02.18.38:927][462]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.18.38:936][462]LogInit: FAudioDevice initialized.
+[2016.11.10-02.18.38:971][462]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.18.38:979][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.18.38
+[2016.11.10-02.18.38:980][462]LogWorld: Bringing up level for play took: 0.006078
+[2016.11.10-02.18.38:982][462]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.18.38:982][462]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.18.38:982][462]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.18.38:983][462]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.18.38:983][462]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.18.38:983][462]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.18.38:983][462]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.18.38:983][462]LogBlueprintUserMessages: [Spawn_BP_2] X=239.498 Y=6909.046 Z=0.000
+[2016.11.10-02.18.38:983][462]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.18.38:985][462]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.18.38:986][462]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.18.38:986][462]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.18.38:986][462]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.18.38:986][462]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.928
+[2016.11.10-02.18.50:834][853]LogEditorViewport: Clicking on Actor (LMB): MarilynCharacter_BP_C (MarilynCharacter_BP)
+[2016.11.10-02.18.52:578][ 59]Cmd: DELETE
+[2016.11.10-02.18.52:578][ 59]Cmd: ACTOR DELETE
+[2016.11.10-02.18.52:580][ 59]LogEditorActor: Deleted Actor: MarilynCharacter_BP_C
+[2016.11.10-02.18.52:593][ 59]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2016.11.10-02.19.17:091][970]LogSavePackage: Save=48.50ms
+[2016.11.10-02.19.17:091][970]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/GameMap_Auto1E009E8224B67759C8D108491886FB6AA.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto1.umap'
+[2016.11.10-02.19.17:094][970]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Autosaves/Game/Maps/GameMap_Auto1.umap
+[2016.11.10-02.19.17:096][970]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.091
+[2016.11.10-02.19.17:096][970]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2016.11.10-02.19.19:962][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.19.19:962][295]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:19:19 PM)
+[2016.11.10-02.19.19:962][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.19.19:971][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008970s)
+[2016.11.10-02.19.19:972][295]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.19.19:972][295]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2016.11.10-02.19.19:972][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.010468s)
+[2016.11.10-02.19.19:987][295]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.19.19:995][295]LogInit: FAudioDevice initialized.
+[2016.11.10-02.19.20:024][295]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.19.20:029][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.19.20
+[2016.11.10-02.19.20:029][295]LogWorld: Bringing up level for play took: 0.003203
+[2016.11.10-02.19.20:030][295]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.19.20:030][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.19.20:030][295]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.19.20:031][295]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.19.20:031][295]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.19.20:031][295]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.19.20:031][295]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.19.20:031][295]LogBlueprintUserMessages: [Spawn_BP_2] X=-8440.951 Y=-1380.452 Z=0.000
+[2016.11.10-02.19.20:048][295]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.19.20:048][295]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.19.20:048][295]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.19.20:048][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.19.20:048][295]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.01
+[2016.11.10-02.19.31:808][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.19.31:808][639]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:19:31 PM)
+[2016.11.10-02.19.31:808][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.19.31:817][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009115s)
+[2016.11.10-02.19.31:819][639]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.19.31:819][639]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2016.11.10-02.19.31:819][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.011119s)
+[2016.11.10-02.19.31:833][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.19.31:842][639]LogInit: FAudioDevice initialized.
+[2016.11.10-02.19.31:879][639]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.19.31:886][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.19.31
+[2016.11.10-02.19.31:887][639]LogWorld: Bringing up level for play took: 0.004915
+[2016.11.10-02.19.31:888][639]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.19.31:888][639]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.19.31:888][639]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.19.31:889][639]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.19.31:889][639]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.19.31:889][639]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.19.31:889][639]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.19.31:889][639]LogBlueprintUserMessages: [Spawn_BP_2] X=-4741.128 Y=5777.774 Z=0.000
+[2016.11.10-02.19.31:891][639]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.19.31:891][639]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.19.31:891][639]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.19.31:891][639]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.19.31:891][639]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.167
+[2016.11.10-02.20.14:200][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.20.14:201][606]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:20:14 PM)
+[2016.11.10-02.20.14:201][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.20.14:210][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009132s)
+[2016.11.10-02.20.14:211][606]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.20.14:211][606]LogPlayLevel: PIE: World Init took: (0.001596s)
+[2016.11.10-02.20.14:212][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.011005s)
+[2016.11.10-02.20.14:227][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.20.14:236][606]LogInit: FAudioDevice initialized.
+[2016.11.10-02.20.14:264][606]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.20.14:269][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.20.14
+[2016.11.10-02.20.14:269][606]LogWorld: Bringing up level for play took: 0.003103
+[2016.11.10-02.20.14:270][606]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.20.14:270][606]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.20.14:270][606]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.20.14:270][606]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.20.14:270][606]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.20.14:271][606]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.20.14:271][606]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.20.14:271][606]LogBlueprintUserMessages: [Spawn_BP_2] X=-9648.021 Y=2692.315 Z=0.000
+[2016.11.10-02.20.14:271][606]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.20.14:272][606]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.20.14:272][606]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.20.14:272][606]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.20.14:272][606]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.20.14:272][606]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.214
+[2016.11.10-02.20.29:345][377]LogEditorViewport: Clicking on Actor (LMB): MarilynCharacter_BP_C (MarilynCharacter_BP)
+[2016.11.10-02.21.08:732][823]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.08:732][823]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.21.09:659][927]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.09:659][927]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.21.11:948][182]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.11:948][182]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.21.13:565][362]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.13:565][362]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.21.14:630][477]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.14:630][477]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.21.15:126][532]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.21.15:126][532]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.23.39:864][210]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2016.11.10-02.24.53:815][780]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2016.11.10-02.25.02:357][428]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.11.10-02.25.10:965][990]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2016.11.10-02.27.17:830][425]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Source/CelebritySlasher/EnemyCharacter.h'
+[2016.11.10-02.27.17:966][425]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Source/CelebritySlasher/EnemyCharacter.cpp'
+[2016.11.10-02.29.34:900][ 84]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.11.10-02.29.37:718][377]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.11.10-02.29.37:718][377]LogPlayLevel: [PlayLevel] Compiling ZombieCharacter_BP before play...
+[2016.11.10-02.29.37:745][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.29.37:745][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.29.37:745][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.29.37:745][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.29.37:745][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.29.37:746][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'ZombieCharacter_BP_C'.
+Make sure 'ZombieCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.29.37:767][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.33] Compile of ZombieCharacter_BP successful, but with 6 Warning(s) [in 34 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:768][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.33] Compile of ZombieCharacter_BP successful, but with 7 Warning(s) [in 1 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:768][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.33] Compile of ZombieCharacter_BP successful, but with 8 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:911][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.47] Compile of ZombieCharacter_BP successful, but with 9 Warning(s) [in 142 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:912][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.47] Compile of ZombieCharacter_BP successful, but with 10 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:912][377]LogBlueprint:Warning: [Compiler ZombieCharacter_BP] Warning [1531.47] Compile of ZombieCharacter_BP successful, but with 11 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/ZombieCharacter_BP.ZombieCharacter_BP)
+[2016.11.10-02.29.37:912][377]LogPlayLevel: [PlayLevel] Compiling MarilynCharacter_BP before play...
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_283
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_388
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_281
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_280
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_387
+[2016.11.10-02.29.37:937][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning Could not find a variable named "ScreenFeedback" in 'MarilynCharacter_BP_C'.
+Make sure 'MarilynCharacter_BP_C' has been compiled for  K2Node_VariableGet_282
+[2016.11.10-02.29.37:941][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.50] Compile of MarilynCharacter_BP successful, but with 6 Warning(s) [in 15 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.37:941][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.50] Compile of MarilynCharacter_BP successful, but with 7 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.37:942][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.50] Compile of MarilynCharacter_BP successful, but with 8 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.37:949][377]LogUObjectGlobals:Warning: Guid referenced by CapsuleComponent /Game/Maps/GameMap.GameMap:PersistentLevel.MarilynCharacter_BP_637.CollisionCylinder is already used by CapsuleComponent /Game/Maps/GameMap.GameMap:PersistentLevel.REINST_MarilynCharacter_BP_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.10-02.29.37:949][377]LogUObjectGlobals:Warning: Guid referenced by ArrowComponent /Game/Maps/GameMap.GameMap:PersistentLevel.MarilynCharacter_BP_637.Arrow is already used by ArrowComponent /Game/Maps/GameMap.GameMap:PersistentLevel.REINST_MarilynCharacter_BP_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.10-02.29.37:949][377]LogUObjectGlobals:Warning: Guid referenced by CharacterMovementComponent /Game/Maps/GameMap.GameMap:PersistentLevel.MarilynCharacter_BP_637.CharMoveComp is already used by CharacterMovementComponent /Game/Maps/GameMap.GameMap:PersistentLevel.REINST_MarilynCharacter_BP_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.10-02.29.37:949][377]LogUObjectGlobals:Warning: Guid referenced by SkeletalMeshComponent /Game/Maps/GameMap.GameMap:PersistentLevel.MarilynCharacter_BP_637.CharacterMesh0 is already used by SkeletalMeshComponent /Game/Maps/GameMap.GameMap:PersistentLevel.REINST_MarilynCharacter_BP_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2016.11.10-02.29.38:385][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.95] Compile of MarilynCharacter_BP successful, but with 9 Warning(s) [in 442 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.38:386][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.95] Compile of MarilynCharacter_BP successful, but with 10 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.38:386][377]LogBlueprint:Warning: [Compiler MarilynCharacter_BP] Warning [1531.95] Compile of MarilynCharacter_BP successful, but with 11 Warning(s) [in 0 ms] (/Game/Blueprints/ZombieCharacter/MarilynCharacter_BP.MarilynCharacter_BP)
+[2016.11.10-02.29.38:386][377]LogPlayLevel: [PlayLevel] Compiling EnemyAnimation_BP before play...
+[2016.11.10-02.29.38:525][377]LogPlayLevel: PlayLevel: Blueprint regeneration took 807 ms (3 blueprints)
+[2016.11.10-02.29.38:525][377]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:29:38 PM)
+[2016.11.10-02.29.38:526][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.29.38:536][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009975s)
+[2016.11.10-02.29.38:537][377]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.29.38:537][377]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2016.11.10-02.29.38:537][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.011621s)
+[2016.11.10-02.29.38:552][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.29.38:561][377]LogInit: FAudioDevice initialized.
+[2016.11.10-02.29.38:592][377]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.29.38:596][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.29.38
+[2016.11.10-02.29.38:597][377]LogWorld: Bringing up level for play took: 0.003055
+[2016.11.10-02.29.38:597][377]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.29.38:597][377]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.29.38:597][377]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.29.38:598][377]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.29.38:598][377]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.29.38:598][377]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.29.38:598][377]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.29.38:598][377]LogBlueprintUserMessages: [Spawn_BP_2] X=3031.578 Y=-1035.869 Z=0.000
+[2016.11.10-02.29.38:600][377]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.29.38:600][377]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.29.38:600][377]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.29.38:600][377]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.29.38:600][377]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.542
+[2016.11.10-02.29.38:613][378]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'ZombieCharacter_BP_C_0', movement 'Walking'
+[2016.11.10-02.31.41:988][138]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.11.10-02.32.11:956][812]BlueprintLog: New page: Compile Spawn_BP
+[2016.11.10-02.32.14:223][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawn_BP" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset" SILENT=true
+[2016.11.10-02.32.14:275][996]LogSavePackage: Save=32.52ms
+[2016.11.10-02.32.14:275][996]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Spawn_BPC837A4EE4321601899F84A8BDC946720.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset'
+[2016.11.10-02.32.14:279][996]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset
+[2016.11.10-02.32.16:772][237]LogEditorViewport: Clicking on Actor (LMB): MarilynCharacter_BP_C (MarilynCharacter_BP)
+[2016.11.10-02.32.18:234][411]Cmd: DELETE
+[2016.11.10-02.32.18:234][411]Cmd: ACTOR DELETE
+[2016.11.10-02.32.18:235][411]LogEditorActor: Deleted Actor: MarilynCharacter_BP_C
+[2016.11.10-02.32.18:250][411]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2016.11.10-02.32.19:804][586]LogSavePackage: Save=48.18ms
+[2016.11.10-02.32.19:804][586]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/GameMap0B6AE68746A1FD3DF0AD6DAAE269C4AE.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-02.32.19:808][586]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-02.32.20:883][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.32.20:884][698]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:32:20 PM)
+[2016.11.10-02.32.20:884][698]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.32.20:892][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008237s)
+[2016.11.10-02.32.20:893][698]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.32.20:893][698]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2016.11.10-02.32.20:894][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.010072s)
+[2016.11.10-02.32.20:912][698]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.32.20:920][698]LogInit: FAudioDevice initialized.
+[2016.11.10-02.32.20:953][698]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.32.20:957][698]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.32.20
+[2016.11.10-02.32.20:957][698]LogWorld: Bringing up level for play took: 0.002118
+[2016.11.10-02.32.20:958][698]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.32.20:958][698]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.32.20:958][698]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.32.20:959][698]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.32.20:959][698]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.32.20:959][698]LogBlueprintUserMessages: [Spawn_BP_2] X=1600.380 Y=6810.594 Z=0.000
+[2016.11.10-02.32.20:959][698]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.32.20:974][698]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.32.20:974][698]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.32.20:974][698]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.32.20:974][698]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.32.20:974][698]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.916
+[2016.11.10-02.32.50:003][728]BlueprintLog: New page: Compile Spawn_BP
+[2016.11.10-02.32.51:161][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawn_BP" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset" SILENT=true
+[2016.11.10-02.32.51:213][818]LogSavePackage: Save=33.32ms
+[2016.11.10-02.32.51:213][818]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Spawn_BPC0FFB742478398F6CE6DAEBB4B71D2E8.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset'
+[2016.11.10-02.32.51:216][818]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset
+[2016.11.10-02.32.53:550][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.32.53:550][ 57]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:32:53 PM)
+[2016.11.10-02.32.53:550][ 57]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.32.53:558][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008220s)
+[2016.11.10-02.32.53:559][ 57]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.32.53:560][ 57]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2016.11.10-02.32.53:560][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.009810s)
+[2016.11.10-02.32.53:575][ 57]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.32.53:583][ 57]LogInit: FAudioDevice initialized.
+[2016.11.10-02.32.53:614][ 57]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.32.53:618][ 57]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.32.53
+[2016.11.10-02.32.53:618][ 57]LogWorld: Bringing up level for play took: 0.002078
+[2016.11.10-02.32.53:619][ 57]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.32.53:619][ 57]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.32.53:619][ 57]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.32.53:619][ 57]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.32.53:619][ 57]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.32.53:619][ 57]LogBlueprintUserMessages: [Spawn_BP_2] X=-4282.129 Y=-2301.817 Z=0.000
+[2016.11.10-02.32.53:619][ 57]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.32.53:621][ 57]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.32.53:621][ 57]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.32.53:621][ 57]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.32.53:621][ 57]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.32.53:621][ 57]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.437
+[2016.11.10-02.32.59:199][683]LogBlueprintUserMessages: [Spawn_BP_2] X=-4744.546 Y=-6302.139 Z=0.000
+[2016.11.10-02.32.59:199][683]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.32.59:200][683]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.32.59:200][683]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.32.59:200][683]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.32.59:200][683]LogBlueprintUserMessages: [Spawn_BP_2] X=-3167.348 Y=-3786.497 Z=0.000
+[2016.11.10-02.32.59:201][683]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.32.59:202][683]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.32.59:202][683]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.32.59:202][683]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.32.59:202][683]LogBlueprintUserMessages: [Spawn_BP_2] X=-11003.532 Y=6078.239 Z=0.000
+[2016.11.10-02.32.59:202][683]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.32.59:203][683]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.32.59:203][683]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.32.59:203][683]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.33.04:199][198]LogBlueprintUserMessages: [Spawn_BP_2] X=2595.040 Y=3482.720 Z=0.000
+[2016.11.10-02.33.04:201][198]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.04:201][198]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.04:201][198]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.33.04:201][198]LogBlueprintUserMessages: [Spawn_BP_2] X=-4558.505 Y=-7052.141 Z=0.000
+[2016.11.10-02.33.04:201][198]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.04:202][198]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.04:202][198]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.04:202][198]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.33.04:202][198]LogBlueprintUserMessages: [Spawn_BP_2] X=-2832.376 Y=-7884.806 Z=0.000
+[2016.11.10-02.33.04:202][198]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.04:203][198]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.04:203][198]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.04:203][198]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.33.04:203][198]LogBlueprintUserMessages: [Spawn_BP_2] X=4076.045 Y=2234.884 Z=0.000
+[2016.11.10-02.33.04:203][198]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.04:204][198]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.04:204][198]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.04:204][198]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.33.04:204][198]LogBlueprintUserMessages: [Spawn_BP_2] X=2532.050 Y=-1934.014 Z=0.000
+[2016.11.10-02.33.04:204][198]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.04:205][198]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.04:206][198]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.04:206][198]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.33.06:728][494]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-8.39 Y=1.55 Z=0.00 Location: X=-644.66 Y=118.91 Z=208.33 Normal: X=-0.03 Y=-1.00 Z=0.01 PenetrationDepth:16.064 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2016.11.10-02.33.09:200][781]LogBlueprintUserMessages: [Spawn_BP_2] X=3137.051 Y=-1677.667 Z=0.000
+[2016.11.10-02.33.09:201][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:201][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:201][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:201][781]LogBlueprintUserMessages: [Spawn_BP_2] X=3742.050 Y=-3302.130 Z=0.000
+[2016.11.10-02.33.09:202][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:202][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:202][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:202][781]LogBlueprintUserMessages: [Spawn_BP_2] X=263.425 Y=5793.099 Z=0.000
+[2016.11.10-02.33.09:202][781]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.09:203][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:204][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:204][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:204][781]LogBlueprintUserMessages: [Spawn_BP_2] X=1226.345 Y=-1314.508 Z=0.000
+[2016.11.10-02.33.09:205][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:205][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:205][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:205][781]LogBlueprintUserMessages: [Spawn_BP_2] X=-7443.361 Y=-1371.164 Z=0.000
+[2016.11.10-02.33.09:206][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:206][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:206][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:206][781]LogBlueprintUserMessages: [Spawn_BP_2] X=-2150.227 Y=1905.626 Z=0.000
+[2016.11.10-02.33.09:207][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:207][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:207][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:207][781]LogBlueprintUserMessages: [Spawn_BP_2] X=-10541.604 Y=450.668 Z=0.000
+[2016.11.10-02.33.09:207][781]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.09:209][781]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.09:209][781]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.09:209][781]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.33.09:403][803]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-9.04 Y=1.67 Z=0.00 Location: X=-697.65 Y=132.96 Z=212.60 Normal: X=-0.17 Y=0.98 Z=-0.02 PenetrationDepth:1.875 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:RightArm (12 other events since notify)
+[2016.11.10-02.33.14:202][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-127.701 Y=3756.250 Z=0.000
+[2016.11.10-02.33.14:203][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:204][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:204][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:204][367]LogBlueprintUserMessages: [Spawn_BP_2] X=103.751 Y=-6088.052 Z=0.000
+[2016.11.10-02.33.14:204][367]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.14:205][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:205][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:205][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:205][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-5419.372 Y=-4334.950 Z=0.000
+[2016.11.10-02.33.14:205][367]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.14:206][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:206][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:206][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:206][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-7626.961 Y=-1622.403 Z=0.000
+[2016.11.10-02.33.14:207][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:207][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:207][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:207][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-2702.978 Y=-7171.956 Z=0.000
+[2016.11.10-02.33.14:207][367]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.14:208][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:208][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:209][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:209][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-8378.449 Y=123.732 Z=0.000
+[2016.11.10-02.33.14:210][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:210][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:210][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:210][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-9404.360 Y=-633.236 Z=0.000
+[2016.11.10-02.33.14:211][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:211][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:211][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:211][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-4891.035 Y=-3714.050 Z=0.000
+[2016.11.10-02.33.14:211][367]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.33.14:212][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:212][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:212][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.14:212][367]LogBlueprintUserMessages: [Spawn_BP_2] X=-8999.074 Y=-2097.018 Z=0.000
+[2016.11.10-02.33.14:213][367]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.14:213][367]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.14:213][367]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.33.22:312][269]LogCharacterMovement: ZombieCharacter_BP_C_17 is stuck and failed to move! Velocity: X=-295.03 Y=54.38 Z=0.00 Location: X=-2019.53 Y=446.90 Z=240.97 Normal: X=-0.16 Y=-0.99 Z=0.00 PenetrationDepth:7.393 Actor:ZombieCharacter_BP_C_23 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.33.22:744][317]LogCharacterMovement: ZombieCharacter_BP_C_8 is stuck and failed to move! Velocity: X=-295.92 Y=49.34 Z=0.00 Location: X=-4625.94 Y=986.52 Z=278.50 Normal: X=-0.81 Y=-0.58 Z=-0.05 PenetrationDepth:3.398 Actor:ZombieCharacter_BP_C_7 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2016.11.10-02.33.22:946][339]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-8.55 Y=1.58 Z=0.00 Location: X=-4644.27 Y=918.85 Z=282.89 Normal: X=-0.63 Y=0.78 Z=-0.05 PenetrationDepth:8.501 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2016.11.10-02.33.23:948][449]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-8.60 Y=1.58 Z=0.00 Location: X=-4643.12 Y=891.98 Z=280.23 Normal: X=0.22 Y=0.98 Z=0.00 PenetrationDepth:26.110 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:Head (37 other events since notify)
+[2016.11.10-02.33.24:425][501]LogCharacterMovement: ZombieCharacter_BP_C_8 is stuck and failed to move! Velocity: X=-9.79 Y=1.62 Z=0.00 Location: X=-4640.58 Y=1028.11 Z=275.88 Normal: X=0.99 Y=-0.16 Z=0.07 PenetrationDepth:5.766 Actor:ZombieCharacter_BP_C_14 Component:CharacterMesh0 BoneName:RightHand (19 other events since notify)
+[2016.11.10-02.33.25:303][597]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-156.89 Y=35.97 Z=0.00 Location: X=-4637.11 Y=970.74 Z=278.55 Normal: X=0.97 Y=-0.25 Z=0.07 PenetrationDepth:0.500 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightHand (51 other events since notify)
+[2016.11.10-02.33.25:312][598]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-9.54 Y=1.76 Z=0.00 Location: X=-4678.46 Y=891.43 Z=279.84 Normal: X=0.43 Y=-0.90 Z=0.04 PenetrationDepth:5.030 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftForeArm (17 other events since notify)
+[2016.11.10-02.33.25:593][629]LogCharacterMovement: ZombieCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-865.68 Y=6.99 Z=0.00 Location: X=-4715.09 Y=951.16 Z=279.20 Normal: X=0.36 Y=0.93 Z=0.01 PenetrationDepth:7.207 Actor:ZombieCharacter_BP_C_5 Component:CharacterMesh0 BoneName:LeftForeArm (0 other events since notify)
+[2016.11.10-02.33.26:262][700]LogCharacterMovement: ZombieCharacter_BP_C_6 is stuck and failed to move! Velocity: X=-9.07 Y=1.81 Z=0.00 Location: X=-4613.66 Y=864.78 Z=283.11 Normal: X=0.48 Y=0.88 Z=0.02 PenetrationDepth:18.547 Actor:ZombieCharacter_BP_C_15 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2016.11.10-02.33.26:426][718]LogCharacterMovement: ZombieCharacter_BP_C_8 is stuck and failed to move! Velocity: X=-22.11 Y=-18.55 Z=0.00 Location: X=-4640.97 Y=1068.04 Z=273.32 Normal: X=0.98 Y=-0.21 Z=0.07 PenetrationDepth:0.414 Actor:ZombieCharacter_BP_C_14 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2016.11.10-02.33.26:472][723]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-97.96 Y=-22.53 Z=0.00 Location: X=-4619.86 Y=1001.27 Z=276.55 Normal: X=0.52 Y=-0.85 Z=0.05 PenetrationDepth:2.199 Actor:ZombieCharacter_BP_C_8 Component:CharacterMesh0 BoneName:RightArm (14 other events since notify)
+[2016.11.10-02.33.26:507][727]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-9.27 Y=1.71 Z=0.00 Location: X=-4696.77 Y=892.41 Z=279.84 Normal: X=-0.17 Y=-0.99 Z=0.00 PenetrationDepth:0.957 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:Head (5 other events since notify)
+[2016.11.10-02.33.26:702][747]LogCharacterMovement: ZombieCharacter_BP_C_1 is stuck and failed to move! Velocity: X=-54.62 Y=2.62 Z=0.00 Location: X=-4709.75 Y=1029.66 Z=275.34 Normal: X=0.01 Y=-1.00 Z=0.01 PenetrationDepth:10.459 Actor:ZombieCharacter_BP_C_14 Component:CharacterMesh0 BoneName:RightUpLeg (0 other events since notify)
+[2016.11.10-02.33.26:733][750]LogCharacterMovement: ZombieCharacter_BP_C_3 is stuck and failed to move! Velocity: X=-638.09 Y=17.64 Z=0.00 Location: X=-4734.30 Y=833.11 Z=285.03 Normal: X=-0.22 Y=-0.97 Z=-0.00 PenetrationDepth:7.788 Actor:ZombieCharacter_BP_C_5 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.33.27:161][796]LogCharacterMovement: ZombieCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-532.72 Y=136.17 Z=0.00 Location: X=-4731.35 Y=953.33 Z=279.20 Normal: X=-0.25 Y=-0.97 Z=-0.00 PenetrationDepth:0.566 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightUpLeg (7 other events since notify)
+[2016.11.10-02.33.27:705][854]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-9.00 Y=1.66 Z=0.00 Location: X=-4696.84 Y=892.41 Z=281.00 Normal: X=0.76 Y=0.65 Z=0.04 PenetrationDepth:10.115 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftForeArm (42 other events since notify)
+[2016.11.10-02.33.27:965][883]LogCharacterMovement: ZombieCharacter_BP_C_11 is stuck and failed to move! Velocity: X=-241.16 Y=47.30 Z=0.00 Location: X=-4647.45 Y=942.19 Z=279.62 Normal: X=0.61 Y=-0.79 Z=0.05 PenetrationDepth:0.090 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.33.28:713][966]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-233.66 Y=43.07 Z=0.00 Location: X=-4696.84 Y=892.41 Z=281.00 Normal: X=0.55 Y=0.84 Z=0.03 PenetrationDepth:0.643 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftForeArm (55 other events since notify)
+[2016.11.10-02.33.29:044][  1]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-9.49 Y=1.75 Z=0.00 Location: X=-4646.47 Y=1060.11 Z=275.62 Normal: X=0.92 Y=-0.38 Z=0.07 PenetrationDepth:1.363 Actor:ZombieCharacter_BP_C_14 Component:CharacterMesh0 BoneName:RightArm (5 other events since notify)
+[2016.11.10-02.33.29:991][101]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-9.25 Y=1.71 Z=0.00 Location: X=-4696.84 Y=892.41 Z=281.00 Normal: X=0.57 Y=0.82 Z=0.03 PenetrationDepth:0.011 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftUpLeg (18 other events since notify)
+[2016.11.10-02.33.30:410][136]LogCharacterMovement: ZombieCharacter_BP_C_11 is stuck and failed to move! Velocity: X=-9.59 Y=1.77 Z=0.00 Location: X=-4644.87 Y=974.84 Z=278.42 Normal: X=0.92 Y=-0.38 Z=0.07 PenetrationDepth:1.575 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightArm (3 other events since notify)
+[2016.11.10-02.33.30:881][183]LogCharacterMovement: ZombieCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-521.91 Y=602.93 Z=0.00 Location: X=-4731.35 Y=953.33 Z=279.20 Normal: X=-0.63 Y=-0.78 Z=-0.03 PenetrationDepth:14.079 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:Hips (5 other events since notify)
+[2016.11.10-02.33.30:938][189]LogCharacterMovement: ZombieCharacter_BP_C_4 is stuck and failed to move! Velocity: X=-18.10 Y=-5.90 Z=0.00 Location: X=-4638.34 Y=1118.34 Z=270.75 Normal: X=0.62 Y=-0.78 Z=-0.01 PenetrationDepth:10.568 Actor:ZombieCharacter_BP_C_16 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.33.30:996][195]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-76.78 Y=14.15 Z=0.00 Location: X=-4696.84 Y=892.41 Z=281.00 Normal: X=0.51 Y=0.86 Z=0.02 PenetrationDepth:37.249 Actor:ZombieCharacter_BP_C_12 Component:CharacterMesh0 BoneName:RightForeArm (69 other events since notify)
+[2016.11.10-02.33.31:044][200]LogCharacterMovement: ZombieCharacter_BP_C_12 is stuck and failed to move! Velocity: X=-9.09 Y=3.40 Z=0.00 Location: X=-4623.24 Y=906.52 Z=281.39 Normal: X=0.37 Y=0.93 Z=-0.00 PenetrationDepth:24.024 Actor:ZombieCharacter_BP_C_17 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2016.11.10-02.33.31:064][202]LogCharacterMovement: ZombieCharacter_BP_C_1 is stuck and failed to move! Velocity: X=-27.00 Y=61.22 Z=0.00 Location: X=-4705.45 Y=1019.98 Z=278.33 Normal: X=0.98 Y=-0.17 Z=0.07 PenetrationDepth:8.023 Actor:ZombieCharacter_BP_C_7 Component:CharacterMesh0 BoneName:RightForeArm (0 other events since notify)
+[2016.11.10-02.33.31:146][210]LogCharacterMovement: ZombieCharacter_BP_C_6 is stuck and failed to move! Velocity: X=-11.41 Y=2.28 Z=0.00 Location: X=-4660.92 Y=832.26 Z=283.09 Normal: X=0.50 Y=0.87 Z=0.02 PenetrationDepth:23.679 Actor:ZombieCharacter_BP_C_18 Component:CharacterMesh0 BoneName:Spine2 (13 other events since notify)
+[2016.11.10-02.33.31:386][233]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-9.37 Y=1.73 Z=0.00 Location: X=-4643.52 Y=1053.39 Z=274.56 Normal: X=0.20 Y=0.98 Z=0.00 PenetrationDepth:19.305 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:Spine2 (2 other events since notify)
+[2016.11.10-02.33.32:073][303]LogCharacterMovement: ZombieCharacter_BP_C_12 is stuck and failed to move! Velocity: X=-4.45 Y=10.31 Z=0.00 Location: X=-4619.39 Y=902.83 Z=281.62 Normal: X=-0.29 Y=-0.96 Z=-0.00 PenetrationDepth:15.707 Actor:ZombieCharacter_BP_C_23 Component:CharacterMesh0 BoneName:Hips (44 other events since notify)
+[2016.11.10-02.33.32:147][311]LogCharacterMovement: ZombieCharacter_BP_C_6 is stuck and failed to move! Velocity: X=-55.73 Y=11.13 Z=0.00 Location: X=-4660.19 Y=829.70 Z=283.19 Normal: X=0.29 Y=-0.96 Z=0.03 PenetrationDepth:12.516 Actor:ZombieCharacter_BP_C_17 Component:CharacterMesh0 BoneName:LeftHand (27 other events since notify)
+[2016.11.10-02.33.32:279][325]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-9.33 Y=1.72 Z=0.00 Location: X=-4696.90 Y=892.38 Z=281.00 Normal: X=0.00 Y=-1.00 Z=0.01 PenetrationDepth:9.480 Actor:ZombieCharacter_BP_C_12 Component:CharacterMesh0 BoneName:RightHand (26 other events since notify)
+[2016.11.10-02.33.32:423][339]LogCharacterMovement: ZombieCharacter_BP_C_23 is stuck and failed to move! Velocity: X=-178.68 Y=98.83 Z=0.00 Location: X=-4581.91 Y=964.09 Z=278.37 Normal: X=-0.06 Y=-0.77 Z=0.63 PenetrationDepth:0.554 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:RightToeBase (0 other events since notify)
+[2016.11.10-02.33.32:718][371]LogCharacterMovement: ZombieCharacter_BP_C_4 is stuck and failed to move! Velocity: X=-23.89 Y=-3.62 Z=0.00 Location: X=-4670.90 Y=1126.05 Z=271.29 Normal: X=0.76 Y=-0.65 Z=-0.02 PenetrationDepth:0.383 Actor:ZombieCharacter_BP_C_16 Component:CharacterMesh0 BoneName:RightArm (1 other events since notify)
+[2016.11.10-02.33.33:233][414]LogCharacterMovement: ZombieCharacter_BP_C_12 is stuck and failed to move! Velocity: X=-8.84 Y=3.31 Z=0.00 Location: X=-4622.97 Y=905.01 Z=281.30 Normal: X=-0.43 Y=-0.90 Z=-0.01 PenetrationDepth:10.170 Actor:ZombieCharacter_BP_C_23 Component:CharacterMesh0 BoneName:Head (15 other events since notify)
+[2016.11.10-02.33.33:300][421]LogCharacterMovement: ZombieCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-9.17 Y=1.69 Z=0.00 Location: X=-4646.53 Y=1058.35 Z=274.56 Normal: X=0.45 Y=-0.89 Z=0.04 PenetrationDepth:31.609 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:LeftHand (39 other events since notify)
+[2016.11.10-02.33.33:692][459]LogCharacterMovement: ZombieCharacter_BP_C_17 is stuck and failed to move! Velocity: X=-19.63 Y=37.53 Z=0.00 Location: X=-4591.98 Y=842.88 Z=284.07 Normal: X=-0.45 Y=-0.89 Z=-0.02 PenetrationDepth:1.169 Actor:ZombieCharacter_BP_C_23 Component:CharacterMesh0 BoneName:RightForeArm (2 other events since notify)
+[2016.11.10-02.33.33:937][485]LogCharacterMovement: ZombieCharacter_BP_C_5 is stuck and failed to move! Velocity: X=-788.55 Y=683.67 Z=0.00 Location: X=-4696.90 Y=892.38 Z=281.00 Normal: X=0.45 Y=0.89 Z=0.02 PenetrationDepth:3.344 Actor:ZombieCharacter_BP_C_6 Component:CharacterMesh0 BoneName:LeftForeArm (35 other events since notify)
+[2016.11.10-02.33.34:118][504]LogCharacterMovement: ZombieCharacter_BP_C_1 is stuck and failed to move! Velocity: X=-735.75 Y=198.80 Z=0.00 Location: X=-4705.45 Y=1019.98 Z=278.33 Normal: X=0.08 Y=-1.00 Z=0.02 PenetrationDepth:11.365 Actor:ZombieCharacter_BP_C_7 Component:CharacterMesh0 BoneName:Spine1 (1 other events since notify)
+[2016.11.10-02.33.34:428][535]LogCharacterMovement: ZombieCharacter_BP_C_12 is stuck and failed to move! Velocity: X=-29.61 Y=7.00 Z=0.00 Location: X=-4656.63 Y=963.57 Z=278.40 Normal: X=0.98 Y=-0.19 Z=-0.02 PenetrationDepth:0.721 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:RightArm (9 other events since notify)
+[2016.11.10-02.33.34:693][561]LogCharacterMovement: ZombieCharacter_BP_C_4 is stuck and failed to move! Velocity: X=-41.43 Y=-13.71 Z=0.00 Location: X=-4685.60 Y=1125.27 Z=271.41 Normal: X=0.30 Y=0.95 Z=-0.02 PenetrationDepth:0.354 Actor:ZombieCharacter_BP_C_7 Component:CharacterMesh0 BoneName:LeftForeArm (89 other events since notify)
+[2016.11.10-02.33.35:132][607]LogCharacterMovement: ZombieCharacter_BP_C_6 is stuck and failed to move! Velocity: X=-9.07 Y=1.81 Z=0.00 Location: X=-4660.94 Y=830.06 Z=283.19 Normal: X=-0.04 Y=-1.00 Z=0.01 PenetrationDepth:10.811 Actor:ZombieCharacter_BP_C_23 Component:CharacterMesh0 BoneName:RightForeArm (37 other events since notify)
+[2016.11.10-02.33.49:642][985]BlueprintLog: New page: Compile Spawn_BP
+[2016.11.10-02.33.50:399][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawn_BP" FILE="../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset" SILENT=true
+[2016.11.10-02.33.50:451][ 35]LogSavePackage: Save=32.77ms
+[2016.11.10-02.33.50:451][ 35]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Spawn_BPBD56E1C54A75ECB3722FCA9F865CFE71.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset'
+[2016.11.10-02.33.50:455][ 35]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Spawn_BP.uasset
+[2016.11.10-02.33.58:843][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.33.58:843][842]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:33:58 PM)
+[2016.11.10-02.33.58:843][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.33.58:852][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008852s)
+[2016.11.10-02.33.58:853][842]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.33.58:854][842]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2016.11.10-02.33.58:854][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.010735s)
+[2016.11.10-02.33.58:868][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.33.58:876][842]LogInit: FAudioDevice initialized.
+[2016.11.10-02.33.58:906][842]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.33.58:909][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.33.58
+[2016.11.10-02.33.58:910][842]LogWorld: Bringing up level for play took: 0.002146
+[2016.11.10-02.33.58:910][842]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.33.58:910][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.33.58:910][842]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.33.58:911][842]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.33.58:911][842]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.33.58:911][842]LogBlueprintUserMessages: [Spawn_BP_2] X=2717.115 Y=-1453.362 Z=0.000
+[2016.11.10-02.33.58:913][842]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.33.58:913][842]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.33.58:913][842]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.33.58:913][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.33.58:913][842]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.855
+[2016.11.10-02.34.04:587][451]LogBlueprintUserMessages: [Spawn_BP_2] X=-2502.288 Y=1998.505 Z=0.000
+[2016.11.10-02.34.04:623][451]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2502.288 Y=1998.505 Z=79.915] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.04:624][451]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.34.04:624][451]LogBlueprintUserMessages: [Spawn_BP_2] X=-9230.527 Y=-4161.729 Z=0.000
+[2016.11.10-02.34.04:624][451]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.04:628][451]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.04:628][451]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.04:628][451]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.34.04:628][451]LogBlueprintUserMessages: [Spawn_BP_2] X=3605.815 Y=-690.357 Z=0.000
+[2016.11.10-02.34.04:628][451]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.04:632][451]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.04:632][451]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.04:632][451]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.34.09:588][998]LogBlueprintUserMessages: [Spawn_BP_2] X=-2371.425 Y=-5478.762 Z=0.000
+[2016.11.10-02.34.09:588][998]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.09:589][998]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.09:589][998]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.09:590][998]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.34.09:590][998]LogBlueprintUserMessages: [Spawn_BP_2] X=-5779.735 Y=6927.623 Z=0.000
+[2016.11.10-02.34.09:590][998]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-5779.735 Y=6927.623 Z=134.720] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.09:591][998]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.34.09:591][998]LogBlueprintUserMessages: [Spawn_BP_2] X=415.284 Y=-95.928 Z=0.000
+[2016.11.10-02.34.09:592][998]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.09:592][998]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.09:592][998]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.34.09:592][998]LogBlueprintUserMessages: [Spawn_BP_2] X=-2615.085 Y=2351.913 Z=0.000
+[2016.11.10-02.34.09:593][998]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.09:594][998]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.09:594][998]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.34.09:594][998]LogBlueprintUserMessages: [Spawn_BP_2] X=-5106.374 Y=-3084.327 Z=0.000
+[2016.11.10-02.34.09:594][998]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.09:595][998]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.09:595][998]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.09:595][998]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.34.14:585][567]LogBlueprintUserMessages: [Spawn_BP_2] X=-9185.604 Y=-6197.649 Z=0.000
+[2016.11.10-02.34.14:586][567]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.14:587][567]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.14:587][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:587][567]LogBlueprintUserMessages: [Spawn_BP_2] X=4232.788 Y=-2521.013 Z=0.000
+[2016.11.10-02.34.14:587][567]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.14:588][567]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.14:588][567]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.14:588][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:588][567]LogBlueprintUserMessages: [Spawn_BP_2] X=1046.164 Y=2564.606 Z=0.000
+[2016.11.10-02.34.14:589][567]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.14:589][567]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.14:589][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:589][567]LogBlueprintUserMessages: [Spawn_BP_2] X=-9502.996 Y=-3512.966 Z=0.000
+[2016.11.10-02.34.14:589][567]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.14:591][567]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.14:591][567]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.14:591][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:591][567]LogBlueprintUserMessages: [Spawn_BP_2] X=-9840.409 Y=1730.548 Z=0.000
+[2016.11.10-02.34.14:592][567]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.14:592][567]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.14:592][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:592][567]LogBlueprintUserMessages: [Spawn_BP_2] X=-3754.280 Y=2133.646 Z=0.000
+[2016.11.10-02.34.14:593][567]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-3754.280 Y=2133.646 Z=112.936] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.14:593][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.14:593][567]LogBlueprintUserMessages: [Spawn_BP_2] X=-8292.510 Y=6019.260 Z=0.000
+[2016.11.10-02.34.14:593][567]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-8292.510 Y=6019.260 Z=16.804] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.14:594][567]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.34.19:587][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-4181.051 Y=-3140.984 Z=0.000
+[2016.11.10-02.34.19:587][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:589][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:589][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:589][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:589][164]LogBlueprintUserMessages: [Spawn_BP_2] X=905.534 Y=6400.067 Z=0.000
+[2016.11.10-02.34.19:589][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:590][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:590][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:590][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:590][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-10639.263 Y=-1474.725 Z=0.000
+[2016.11.10-02.34.19:590][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:591][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:591][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:591][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:591][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-9281.310 Y=-2608.320 Z=0.000
+[2016.11.10-02.34.19:591][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:592][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:592][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:592][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:592][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-9515.692 Y=-391.750 Z=0.000
+[2016.11.10-02.34.19:593][164]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-9515.692 Y=-391.750 Z=54.993] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.19:593][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:593][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-2373.866 Y=-4425.972 Z=0.000
+[2016.11.10-02.34.19:593][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:594][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:595][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:595][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:595][164]LogBlueprintUserMessages: [Spawn_BP_2] X=-26.136 Y=197.106 Z=0.000
+[2016.11.10-02.34.19:596][164]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-26.136 Y=197.106 Z=90.657] for [MarilynCharacter_BP_C]
+[2016.11.10-02.34.19:596][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:596][164]LogBlueprintUserMessages: [Spawn_BP_2] X=315.184 Y=5802.851 Z=0.000
+[2016.11.10-02.34.19:596][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:597][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:597][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:597][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.19:597][164]LogBlueprintUserMessages: [Spawn_BP_2] X=1000.752 Y=-2450.424 Z=0.000
+[2016.11.10-02.34.19:597][164]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.19:598][164]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.19:598][164]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.19:598][164]LogBlueprintUserMessages: [Spawn_BP_2] 9
+[2016.11.10-02.34.20:976][325]LogCharacterMovement: ZombieCharacter_BP_C_12 is stuck and failed to move! Velocity: X=-295.78 Y=50.16 Z=0.00 Location: X=-88.42 Y=177.03 Z=188.24 Normal: X=0.11 Y=-0.56 Z=-0.82 PenetrationDepth:2.100 Actor:ZombieCharacter_BP_C_9 Component:CharacterMesh0 BoneName:LeftToeBase (0 other events since notify)
+[2016.11.10-02.34.21:233][355]LogCharacterMovement: MarilynCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-294.19 Y=58.75 Z=0.00 Location: X=-160.66 Y=37.20 Z=203.36 Normal: X=0.20 Y=0.98 Z=0.00 PenetrationDepth:13.911 Actor:ZombieCharacter_BP_C_10 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2016.11.10-02.34.22:757][531]LogCharacterMovement: ZombieCharacter_BP_C_9 is stuck and failed to move! Velocity: X=-295.07 Y=54.16 Z=0.00 Location: X=-533.86 Y=27.42 Z=211.59 Normal: X=0.20 Y=0.98 Z=0.00 PenetrationDepth:10.303 Actor:ZombieCharacter_BP_C_10 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.34.24:329][717]LogCharacterMovement: MarilynCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-294.19 Y=58.75 Z=0.00 Location: X=-964.28 Y=204.09 Z=219.17 Normal: X=-0.18 Y=-0.98 Z=0.00 PenetrationDepth:6.877 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:RightHand (3 other events since notify)
+[2016.11.10-02.34.25:498][856]LogCharacterMovement: ZombieCharacter_BP_C_1 is stuck and failed to move! Velocity: X=-630.39 Y=27.65 Z=0.00 Location: X=-4709.12 Y=960.12 Z=278.64 Normal: X=0.45 Y=-0.89 Z=0.04 PenetrationDepth:9.608 Actor:ZombieCharacter_BP_C_0 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2016.11.10-02.34.26:209][941]LogCharacterMovement: ZombieCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-103.22 Y=91.06 Z=0.00 Location: X=-4658.36 Y=909.88 Z=281.39 Normal: X=-0.64 Y=-0.77 Z=0.00 PenetrationDepth:24.733 Actor:ZombieCharacter_BP_C_2 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2016.11.10-02.34.27:458][ 89]LogCharacterMovement: MarilynCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-294.19 Y=58.75 Z=0.00 Location: X=-1807.00 Y=369.01 Z=240.60 Normal: X=0.51 Y=-0.86 Z=0.05 PenetrationDepth:1.489 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:RightForeArm (1 other events since notify)
+[2016.11.10-02.34.28:477][192]LogCharacterMovement: MarilynCharacter_BP_C_2 is stuck and failed to move! Velocity: X=-8.17 Y=10.91 Z=0.00 Location: X=-4640.98 Y=1075.79 Z=273.61 Normal: X=0.99 Y=-0.13 Z=0.07 PenetrationDepth:0.297 Actor:ZombieCharacter_BP_C_1 Component:CharacterMesh0 BoneName:LeftForeArm (0 other events since notify)
+[2016.11.10-02.34.29:046][259]LogCharacterMovement: ZombieCharacter_BP_C_0 is stuck and failed to move! Velocity: X=-364.33 Y=416.87 Z=0.00 Location: X=-4705.23 Y=922.01 Z=312.05 Normal: X=-0.51 Y=-0.78 Z=0.37 PenetrationDepth:8.784 Actor:ZombieCharacter_BP_C_2 Component:CharacterMesh0 BoneName:RightUpLeg (0 other events since notify)
+[2016.11.10-02.34.29:113][267]LogCharacterMovement: MarilynCharacter_BP_C_7 is stuck and failed to move! Velocity: X=-295.04 Y=54.33 Z=0.00 Location: X=-2286.59 Y=460.98 Z=254.77 Normal: X=0.48 Y=-0.88 Z=0.05 PenetrationDepth:5.728 Actor:ZombieCharacter_BP_C_11 Component:CharacterMesh0 BoneName:RightArm (2 other events since notify)
+[2016.11.10-02.34.38:393][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.10-02.34.39:281][458]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2016.11.10-02.34.41:777][754]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2016.11.10-02.34.59:440][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.34.59:440][794]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:34:59 PM)
+[2016.11.10-02.34.59:440][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.34.59:448][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008165s)
+[2016.11.10-02.34.59:449][794]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.34.59:449][794]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2016.11.10-02.34.59:449][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.009689s)
+[2016.11.10-02.34.59:464][794]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.34.59:473][794]LogInit: FAudioDevice initialized.
+[2016.11.10-02.34.59:504][794]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.34.59:507][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.34.59
+[2016.11.10-02.34.59:508][794]LogWorld: Bringing up level for play took: 0.002173
+[2016.11.10-02.34.59:509][794]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.34.59:509][794]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.34.59:509][794]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.34.59:509][794]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.34.59:510][794]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.34.59:510][794]LogBlueprintUserMessages: [Spawn_BP_2] X=-3415.663 Y=-7478.458 Z=0.000
+[2016.11.10-02.34.59:510][794]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.34.59:511][794]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.34.59:511][794]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.34.59:511][794]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.34.59:511][794]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.34.59:511][794]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.547
+[2016.11.10-02.35.04:430][382]LogBlueprintUserMessages: [Spawn_BP_2] X=-8590.631 Y=-4105.073 Z=0.000
+[2016.11.10-02.35.04:430][382]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.04:431][382]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.04:431][382]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.04:431][382]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.04:431][382]LogBlueprintUserMessages: [Spawn_BP_2] X=-12303.639 Y=-5927.834 Z=0.000
+[2016.11.10-02.35.04:431][382]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.04:432][382]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.04:432][382]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.04:432][382]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.04:432][382]LogBlueprintUserMessages: [Spawn_BP_2] X=-171.420 Y=5316.627 Z=0.000
+[2016.11.10-02.35.04:432][382]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.04:433][382]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.04:433][382]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.04:433][382]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.16:785][836]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.11.10-02.35.22:894][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.10-02.35.23:778][667]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.10-02.35.47:022][401]LogSavePackage: Save=48.67ms
+[2016.11.10-02.35.47:022][401]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/GameMapB04DDC0443C80383CC2BF5A592CAC956.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-02.35.47:027][401]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-02.35.47:942][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.11.10-02.35.47:942][490]PIE: New page: PIE session: GameMap (Nov 9, 2016, 12:35:47 PM)
+[2016.11.10-02.35.47:942][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2016.11.10-02.35.47:951][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008393s)
+[2016.11.10-02.35.47:952][490]LogAIModule: Creating AISystem for world GameMap
+[2016.11.10-02.35.47:952][490]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2016.11.10-02.35.47:952][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.010152s)
+[2016.11.10-02.35.47:965][490]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.11.10-02.35.47:975][490]LogInit: FAudioDevice initialized.
+[2016.11.10-02.35.48:003][490]LogWorld: Game class is 'CelebritySlasherGameMode_BP_C'
+[2016.11.10-02.35.48:007][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2016.11.09-19.35.48
+[2016.11.10-02.35.48:007][490]LogWorld: Bringing up level for play took: 0.002224
+[2016.11.10-02.35.48:008][490]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.35.48:008][490]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.11.10-02.35.48:008][490]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.35.48:009][490]LogTemp:Warning: GyroMotion reporting!
+[2016.11.10-02.35.48:009][490]PIE:Warning: Warning The widget 'BloodEffectHUD_C' was already added to the screen.
+[2016.11.10-02.35.48:009][490]LogBlueprintUserMessages: [Spawn_BP_2] X=-10805.214 Y=-3443.492 Z=0.000
+[2016.11.10-02.35.48:010][490]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-10805.214 Y=-3443.492 Z=276.186] for [MarilynCharacter_BP_C]
+[2016.11.10-02.35.48:010][490]LogBlueprintUserMessages: [Spawn_BP_2] 1
+[2016.11.10-02.35.48:011][490]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.11.10-02.35.48:011][490]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.047
+[2016.11.10-02.35.53:554][131]LogBlueprintUserMessages: [Spawn_BP_2] X=-6616.152 Y=-2667.472 Z=0.000
+[2016.11.10-02.35.53:554][131]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.53:556][131]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.53:556][131]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.53:556][131]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.53:556][131]LogBlueprintUserMessages: [Spawn_BP_2] X=-3329.199 Y=4126.906 Z=0.000
+[2016.11.10-02.35.53:557][131]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.53:557][131]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.53:557][131]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.53:557][131]LogBlueprintUserMessages: [Spawn_BP_2] X=-7074.796 Y=-647.688 Z=0.000
+[2016.11.10-02.35.53:559][131]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.53:559][131]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.53:559][131]LogBlueprintUserMessages: [Spawn_BP_2] 3
+[2016.11.10-02.35.58:554][714]LogBlueprintUserMessages: [Spawn_BP_2] X=-14511.234 Y=5105.635 Z=0.000
+[2016.11.10-02.35.58:554][714]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.58:555][714]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.58:555][714]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.58:555][714]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.35.58:555][714]LogBlueprintUserMessages: [Spawn_BP_2] X=-7170.754 Y=-3343.541 Z=0.000
+[2016.11.10-02.35.58:555][714]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.58:556][714]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.58:556][714]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.58:556][714]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.35.58:556][714]LogBlueprintUserMessages: [Spawn_BP_2] X=-5102.517 Y=5891.760 Z=0.000
+[2016.11.10-02.35.58:558][714]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.58:558][714]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.58:558][714]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.35.58:558][714]LogBlueprintUserMessages: [Spawn_BP_2] X=-4132.641 Y=-5236.422 Z=0.000
+[2016.11.10-02.35.58:558][714]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.35.58:559][714]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.35.58:559][714]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.35.58:559][714]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.35.58:559][714]LogBlueprintUserMessages: [Spawn_BP_2] X=-4893.253 Y=3102.135 Z=0.000
+[2016.11.10-02.35.58:560][714]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-4893.253 Y=3102.135 Z=110.850] for [MarilynCharacter_BP_C]
+[2016.11.10-02.35.58:560][714]LogBlueprintUserMessages: [Spawn_BP_2] 5
+[2016.11.10-02.36.03:558][299]LogBlueprintUserMessages: [Spawn_BP_2] X=556.268 Y=-1847.655 Z=0.000
+[2016.11.10-02.36.03:559][299]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=556.268 Y=-1847.655 Z=299.610] for [MarilynCharacter_BP_C]
+[2016.11.10-02.36.03:559][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:559][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-8605.238 Y=3554.157 Z=0.000
+[2016.11.10-02.36.03:560][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:560][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:560][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:560][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-3817.119 Y=-7257.328 Z=0.000
+[2016.11.10-02.36.03:560][299]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.36.03:561][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:562][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:562][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:562][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-885.807 Y=-206.896 Z=0.000
+[2016.11.10-02.36.03:563][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:563][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:563][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:563][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-11000.381 Y=4079.739 Z=0.000
+[2016.11.10-02.36.03:563][299]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.36.03:564][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:564][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:564][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:564][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-7507.960 Y=-3682.137 Z=0.000
+[2016.11.10-02.36.03:564][299]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.36.03:566][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:566][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:566][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.03:566][299]LogBlueprintUserMessages: [Spawn_BP_2] X=-12238.071 Y=2002.119 Z=0.000
+[2016.11.10-02.36.03:566][299]LogBlueprintUserMessages: [Spawn_BP_2] False value
+[2016.11.10-02.36.03:567][299]LogTemp:Warning: LookAt reporting!
+[2016.11.10-02.36.03:567][299]LogTemp:Warning: Move Towards reporting!
+[2016.11.10-02.36.03:567][299]LogBlueprintUserMessages: [Spawn_BP_2] 7
+[2016.11.10-02.36.06:133][606]LogCharacterMovement: ZombieCharacter_BP_C_9 is stuck and failed to move! Velocity: X=-295.68 Y=50.76 Z=0.00 Location: X=-430.40 Y=99.42 Z=201.24 Normal: X=-0.11 Y=-0.86 Z=0.50 PenetrationDepth:14.432 Actor:ZombieCharacter_BP_C_7 Component:CharacterMesh0 BoneName:RightLeg (0 other events since notify)
+[2016.11.10-02.36.19:008][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.10-02.36.23:018][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HollyWoodHill02)
+[2016.11.10-02.36.43:832][932]LogActorFactory: Actor Factory created Cube
+[2016.11.10-02.36.45:466][126]LogActorFactory: Actor Factory created Cube
+[2016.11.10-02.37.10:932][ 38]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.10-02.37.43:770][445]Cmd: DELETE
+[2016.11.10-02.37.43:771][445]Cmd: ACTOR DELETE
+[2016.11.10-02.37.43:772][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.11.10-02.37.43:788][445]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2016.11.10-02.37.46:905][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.11.10-02.37.50:893][870]LogActorFactory: Actor Factory created Cube
+[2016.11.10-02.37.52:097][942]LogActorFactory: Actor Factory created Cube
+[2016.11.10-02.38.48:750][230]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2016.11.10-02.38.49:868][297]Cmd: DELETE
+[2016.11.10-02.38.49:868][297]Cmd: ACTOR DELETE
+[2016.11.10-02.38.49:869][297]LogEditorActor: Deleted Actor: Cube_Blueprint_C
+[2016.11.10-02.38.49:884][297]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2016.11.10-02.38.56:935][702]MapCheck: New page: Map Check
+[2016.11.10-02.38.56:949][702]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.10-02.38.56:949][702]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.10-02.38.57:032][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.10-02.38.57:041][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2016.11.10-02.38.57:047][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2016.11.10-02.38.57:073][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Invisible_Material, compiling. 
+[2016.11.10-02.38.57:099][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2016.11.10-02.38.57:106][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert3, compiling. 
+[2016.11.10-02.38.57:114][702]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial2, compiling. 
+[2016.11.10-02.38.57:571][702]LogLevel:Display: Export Material TexCoord Scales took 0.014 seconds.
+[2016.11.10-02.38.57:575][702]TextureStreamingBuild:Display: Build Texture Streaming took 0.004 seconds.
+[2016.11.10-02.38.57:588][702]LightingResults: New page: Lighting Build - Nov 9, 2016, 12:38:57 PM
+[2016.11.10-02.38.57:794][702]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.10-02.38.57:855][702]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.10-02.38.57:895][702]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.10-02.38.58:917][702]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.10-02.38.58:917][702]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1144
+[2016.11.10-02.39.02:269][702]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.10-02.39.02:269][702]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.10-02.39.02:269][702]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.10-02.39.02:269][702]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.10-02.39.02:269][702]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.10-02.39.02:564][702]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.10-02.39.02:564][702]MapCheck: New page: GameMap - Nov 9, 2016, 12:39:02 PM
+[2016.11.10-02.39.02:577][702]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.11.10-02.39.02:626][702]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 62.161ms to complete.
+[2016.11.10-02.39.02:648][702]LogEditorBuildUtils: Build time 0:05
+[2016.11.10-02.39.02:808][704]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2016.11.10-02.39.02:814][704]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert3, compiling. 
+[2016.11.10-02.39.02:842][705]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2016.11.10-02.39.02:858][705]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2016.11.10-02.39.08:312][952]Job is a success!
+[2016.11.10-02.39.08:312][952]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: SkyOcclusion1_5 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2016.11.10-02.39.08:535][953]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.11.10-02.39.08:536][953]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2016.11.10-02.39.08:536][953]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (BGRA8)
+[2016.11.10-02.39.08:536][953]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2016.11.10-02.39.08:536][953]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (BGRA8)
+[2016.11.10-02.39.08:560][953]Lightmass on DESKTOP-DKRONP8: 3.88 sec total, 202 ms importing, 43 ms setup, 1.35 sec photons, 2.25 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 15.5 sec total, 2.54 sec processing.
+[2016.11.10-02.39.08:591][953]LogStaticLightingSystem: Illumination: 10.9 sec (134 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2016.11.10-02.39.08:591][953]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2016.11.10-02.39.08:591][953]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.10-02.39.09:299][954]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.10-02.39.09:299][954]MapCheck: New page: GameMap - Nov 9, 2016, 12:39:09 PM
+[2016.11.10-02.39.09:351][954]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 51.514ms to complete.
+[2016.11.10-02.39.26:250][926]MapCheck: New page: Map Check
+[2016.11.10-02.39.26:263][926]Cmd: MAP REBUILD ALLVISIBLE
+[2016.11.10-02.39.26:263][926]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.11.10-02.39.26:288][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.11.10-02.39.26:295][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2016.11.10-02.39.26:301][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2016.11.10-02.39.26:309][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Invisible_Material, compiling. 
+[2016.11.10-02.39.26:316][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2, compiling. 
+[2016.11.10-02.39.26:323][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert3, compiling. 
+[2016.11.10-02.39.26:331][926]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial2, compiling. 
+[2016.11.10-02.39.26:843][926]LogLevel:Display: Export Material TexCoord Scales took 0.005 seconds.
+[2016.11.10-02.39.26:849][926]TextureStreamingBuild:Display: Build Texture Streaming took 0.006 seconds.
+[2016.11.10-02.39.26:864][926]LightingResults: New page: Lighting Build - Nov 9, 2016, 12:39:26 PM
+[2016.11.10-02.39.26:877][926]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.11.10-02.39.26:880][926]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.11.10-02.39.26:880][926]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.11.10-02.39.26:881][926]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.11.10-02.39.26:881][926]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1144
+[2016.11.10-02.39.31:442][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.11.10-02.39.31:442][926]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.11.10-02.39.31:442][926]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.11.10-02.39.31:442][926]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.11.10-02.39.31:442][926]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.11.10-02.39.31:554][926]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.11.10-02.39.31:554][926]MapCheck: New page: GameMap - Nov 9, 2016, 12:39:31 PM
+[2016.11.10-02.39.31:555][926]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2016.11.10-02.39.31:614][926]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 59.186ms to complete.
+[2016.11.10-02.39.31:636][926]LogEditorBuildUtils: Build time 0:05
+[2016.11.10-02.39.36:871][199]LightingResults:Warning: Warning CityScapeFinal Object has wrapping UVs.
+[2016.11.10-02.39.36:921][202]Job is a success!
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: SkyOcclusion0_5 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (BGRA8)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (BGRA8)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (BGRA8)
+[2016.11.10-02.39.37:160][203]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (BGRA8)
+[2016.11.10-02.39.37:193][203]Lightmass on DESKTOP-DKRONP8: 4.09 sec total, 256 ms importing, 60 ms setup, 1.41 sec photons, 2.34 sec processing, 0 ms extra exporting [5/5 mappings]. Threads: 16.2 sec total, 2.64 sec processing.
+[2016.11.10-02.39.37:199][203]LogStaticLightingSystem: Illumination: 10.3 sec (133 ms encoding lightmaps, 49 ms encoding shadowmaps)
+[2016.11.10-02.39.37:200][203]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 10 textures
+[2016.11.10-02.39.37:200][203]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2016.11.10-02.39.37:459][204]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.11.10-02.39.37:459][204]MapCheck: New page: GameMap - Nov 9, 2016, 12:39:37 PM
+[2016.11.10-02.39.37:509][204]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.608ms to complete.
+[2016.11.10-02.39.40:898][400]Recompiling CelebritySlasher...
+[2016.11.10-02.39.40:898][400]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe CelebritySlasher -ModuleWithSuffix CelebritySlasher 702 Win64 Development -editorrecompile -canskiplink "C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/CelebritySlasher.uproject"  -2015]
+[2016.11.10-02.39.40:906][400]Warning: Starting HotReload took  0.1s.
+[2016.11.10-02.39.43:806][574]CompilerResultsLog: New page: Compilation - Nov 9, 2016, 12:39:43 PM
+[2016.11.10-02.39.43:806][574]CompilerResultsLog: Info Creating makefile for hot reloading CelebritySlasher (no existing makefile)
+[2016.11.10-02.39.43:806][574]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.11.10-02.39.43:806][574]CompilerResultsLog: Info Performing full C++ include scan (no include cache file)
+[2016.11.10-02.39.43:806][574]CompilerResultsLog: Info Target is up to date
+[2016.11.10-02.39.43:806][574]LogMainFrame: MainFrame: Module compiling took 2.915 seconds
+[2016.11.10-02.39.44:061][574]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2165 classes and 427 folders.
+[2016.11.10-02.39.44:090][574]Display: HotReload took  3.3s.
+[2016.11.10-02.39.55:561][948]LogSavePackage: Save=48.20ms
+[2016.11.10-02.39.55:561][948]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/EnemyAnimation_BPF12EFC3448A0EA927590DA9511B286BD.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Animations/Zombie/EnemyAnimation_BP.uasset'
+[2016.11.10-02.39.55:565][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/Animations/Zombie/EnemyAnimation_BP.uasset
+[2016.11.10-02.39.55:670][948]LogSavePackage: Save=47.71ms
+[2016.11.10-02.39.55:670][948]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/MarilynCharacter_BP20C590A5461C095B605F398AFE4C3772.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset'
+[2016.11.10-02.39.55:673][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/MarilynCharacter_BP.uasset
+[2016.11.10-02.39.55:796][948]LogSavePackage: Save=48.67ms
+[2016.11.10-02.39.55:796][948]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/ZombieCharacter_BPB09F82E3429DC0B13476EBB454E9B80E.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset'
+[2016.11.10-02.39.55:800][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Blueprints/ZombieCharacter/ZombieCharacter_BP.uasset
+[2016.11.10-02.39.55:950][948]LogSavePackage: Save=50.84ms
+[2016.11.10-02.39.55:950][948]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/GameMapBDF8E2C54B5D26920FA5E48E145354B9.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap'
+[2016.11.10-02.39.55:954][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Maps/GameMap.umap
+[2016.11.10-02.39.55:980][948]LogFileHelpers: Saving map 'GameMap' took 0.176
+[2016.11.10-02.39.56:050][948]LogSavePackage: Save=20.98ms
+[2016.11.10-02.39.56:050][948]LogSavePackage: Moving '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Cube_BlueprintABB0B68F4DCB43CC1876E792E6AC34E0.tmp' to '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Materials/Cube_Blueprint.uasset'
+[2016.11.10-02.39.56:053][948]LogSavePackage:Display: Finished SavePackage ../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Materials/Cube_Blueprint.uasset
+[2016.11.10-02.39.56:130][948]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.11.10-02.39.56:351][949]Cmd: QUIT_EDITOR
+[2016.11.10-02.39.56:906][949]LogExit: Preparing to exit.
+[2016.11.10-02.39.57:312][949]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/' was aborted.
+[2016.11.10-02.39.57:340][949]LogExit: Editor shut down
+[2016.11.10-02.39.57:341][949]LogExit: Transaction tracking system shut down
+[2016.11.10-02.39.57:468][949]LogObj: Freed 0b from 0 cluster array pools.
+[2016.11.10-02.39.57:468][949]LogExit: Object subsystem successfully closed.
+[2016.11.10-02.39.57:480][949]LogD3D11RHI: Shutdown
+[2016.11.10-02.39.57:480][949]LogD3D11RHI: CleanupD3DDevice
+[2016.11.10-02.39.57:617][949]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (240)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module BlueprintGraph (239)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (238)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (237)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module StatsViewer (236)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (235)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module CrashTracker (234)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module SceneOutliner (233)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module WidgetCarousel (232)
+[2016.11.10-02.39.57:630][949]LogModuleManager: Shutting down and abandoning module AddContentDialog (231)
+[2016.11.10-02.39.57:630][949]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module GameplayTags (230)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module EditorWidgets (229)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module CollectionManager (228)
+[2016.11.10-02.39.57:631][949]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Collections/' was aborted.
+[2016.11.10-02.39.57:631][949]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/Developers/AjaySathish/Collections/' was aborted.
+[2016.11.10-02.39.57:631][949]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Saved/Collections/' was aborted.
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module FoliageEdit (227)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module LandscapeEditor (226)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (225)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module ActorPickerMode (224)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module GeometryMode (223)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module TextureAlignMode (222)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module BspMode (221)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module HardwareSurvey (220)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (219)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module SequenceRecorder (218)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module AutomationWorker (217)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (216)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module PlacementMode (215)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (214)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (213)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (212)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (211)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (210)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module Media (209)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (208)
+[2016.11.10-02.39.57:631][949]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (207)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module CharacterAI (206)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module SmartSnapping (205)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module SessionServices (204)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module ViewportSnapping (203)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module ViewportInteraction (202)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module LogVisualizer (201)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (200)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module IntroTutorials (199)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (198)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (197)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (196)
+[2016.11.10-02.39.57:632][949]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (195)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (194)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (193)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (192)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module NiagaraEditor (191)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module MergeActors (190)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module SizeMap (189)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module TreeMap (188)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module ReferenceViewer (187)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module LocalizationService (186)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (185)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module HardwareTargeting (184)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (183)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module UndoHistory (182)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module UserFeedback (181)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module XmlParser (180)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module Blutility (179)
+[2016.11.10-02.39.57:732][949]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (178)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (177)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module InputBindingEditor (176)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (175)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module SettingsEditor (174)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module ProjectLauncher (173)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module SessionFrontend (172)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module ProfilerClient (171)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (170)
+[2016.11.10-02.39.57:733][949]LogModuleManager: Shutting down and abandoning module DeviceManager (169)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module AutomationController (168)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module AutomationWindow (167)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module Layers (166)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (165)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module DetailCustomizations (164)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module PackagesDialog (163)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module AnimGraph (162)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module Persona (161)
+[2016.11.10-02.39.57:788][949]LogModuleManager: Shutting down and abandoning module Kismet (160)
+[2016.11.10-02.39.57:795][949]LogModuleManager: Shutting down and abandoning module GraphEditor (159)
+[2016.11.10-02.39.57:796][949]LogModuleManager: Shutting down and abandoning module ClassViewer (158)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module Toolbox (157)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module ModuleUI (156)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module MovieSceneTools (155)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module OutputLog (154)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module GammaUI (153)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module Documentation (152)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module Niagara (151)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (150)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module AnalyticsET (149)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module PortalServices (148)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module PortalRpc (147)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module MessagingRpc (146)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module GameplayDebugger (145)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module AITestSuite (144)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module AIModule (143)
+[2016.11.10-02.39.57:811][949]LogModuleManager: Shutting down and abandoning module ProfilerService (142)
+[2016.11.10-02.39.57:966][949]LogModuleManager: Shutting down and abandoning module TaskGraph (141)
+[2016.11.10-02.39.57:966][949]LogModuleManager: Shutting down and abandoning module SubstanceEditor (140)
+[2016.11.10-02.39.57:966][949]LogModuleManager: Shutting down and abandoning module SlateRemote (139)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SteamVRController (138)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SteamVR (137)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (136)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (135)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module OculusLibrary (134)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module OculusInput (133)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (132)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module CableComponent (131)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (130)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (128)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module HTML5Networking (127)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (126)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module GeometryCache (125)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module AlembicLibrary (124)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module AlembicImporter (123)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SuperSearch (122)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (121)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (120)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module PluginBrowser (119)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (118)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module EpicSurvey (117)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (116)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module UObjectPlugin (115)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (114)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (113)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module SourceControl (112)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module GitSourceControl (111)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (110)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (109)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (108)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module MeshPaint (107)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (106)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (105)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module HotReload (104)
+[2016.11.10-02.39.57:967][949]LogDirectoryWatcher: A directory notification for 'C:/Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Binaries/Win64' was aborted.
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module MainFrame (103)
+[2016.11.10-02.39.57:967][949]LogModuleManager: Shutting down and abandoning module LevelEditor (102)
+[2016.11.10-02.39.57:969][949]LogModuleManager: Shutting down and abandoning module ContentBrowser (101)
+[2016.11.10-02.39.57:970][949]LogModuleManager: Shutting down and abandoning module Paper2DEditor (100)
+[2016.11.10-02.39.57:970][949]LogModuleManager: Shutting down and abandoning module CelebritySlasher (99)
+[2016.11.10-02.39.57:970][949]LogModuleManager: Shutting down and abandoning module UdpMessaging (98)
+[2016.11.10-02.39.58:071][949]LogModuleManager: Shutting down and abandoning module TcpMessaging (97)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module SubstanceCore (96)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (95)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module Paper2D (94)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (93)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module WmfMedia (92)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module MediaAssets (91)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (90)
+[2016.11.10-02.39.58:171][949]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (89)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module VREditor (88)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (87)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module PropertyEditor (86)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (85)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module FunctionalTesting (84)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (83)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module Sequencer (82)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (81)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module MessageLog (80)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module AssetTools (79)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module UMGEditor (78)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module UMG (77)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module SlateReflector (76)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module Slate (75)
+[2016.11.10-02.39.58:172][949]LogModuleManager: Shutting down and abandoning module EditorStyle (74)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (73)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (72)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module XAudio2 (71)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module Networking (69)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module Core (68)
+[2016.11.10-02.39.58:177][949]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (67)
+[2016.11.10-02.39.58:177][949]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.11.10-02.39.58:177][949]LogDirectoryWatcher: A directory notification for '../../../../../../Work/EAE/1st Sem/Rapid Prototyping/RP-4/CelebritySlasher/CelebritySlasher/Content/' was aborted.
+[2016.11.10-02.39.58:177][949]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.11.10-02.39.58:178][949]LogModuleManager: Shutting down and abandoning module AssetRegistry (66)
+[2016.11.10-02.39.58:332][949]LogModuleManager: Shutting down and abandoning module KismetCompiler (65)
+[2016.11.10-02.39.58:332][949]LogModuleManager: Shutting down and abandoning module PhysXFormats (64)
+[2016.11.10-02.39.58:332][949]LogModuleManager: Shutting down and abandoning module MeshUtilities (63)
+[2016.11.10-02.39.58:332][949]LogModuleManager: Shutting down and abandoning module DerivedDataCache (62)
+[2016.11.10-02.39.58:423][949]LogDerivedDataCache: Shutdown
+[2016.11.10-02.39.58:423][949]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (61)
+[2016.11.10-02.39.58:423][949]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (60)
+[2016.11.10-02.39.58:423][949]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (59)
+[2016.11.10-02.39.58:423][949]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (58)
+[2016.11.10-02.39.58:423][949]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (57)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (56)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (55)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (54)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module ImageWrapper (53)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (52)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (51)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (50)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (49)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (48)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (47)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (46)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (45)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (44)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (43)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Messaging (42)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (41)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (40)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (39)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (38)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (37)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (36)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (35)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (34)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (33)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (32)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (31)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (30)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (29)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (28)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (27)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module TargetPlatform (26)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module InputCore (25)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module Settings (24)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module OculusRift (23)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module GearVR (22)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.11.10-02.39.58:424][949]LogOnline:Display: Unloading online subsystem: NULL
+[2016.11.10-02.39.58:424][949]LogModuleManager: Shutting down and abandoning module HTTP (17)
+[2016.11.10-02.39.58:424][949]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.11.10-02.39.58:424][949]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B93D1EEBF-4E05-0988-504C-D29106547A4C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=2007ea0449c77b785b93338fbe282799%7C212d209d3ab64bde90ec43b8f786d5e0%7Cb20de7de-9010-4b24-8267-a383ba51c528&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module XMPP (16)
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.11.10-02.39.58:437][949]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.11.10-02.39.58:439][949]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.11.10-02.39.58:441][949]LogExit: Exiting.
+[2016.11.10-02.39.58:456][949]Log file closed, 11/09/16 19:39:58
