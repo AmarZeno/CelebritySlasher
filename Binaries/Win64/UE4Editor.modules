@@ -3,6 +3,6 @@
 	"BuildId" : "",
 	"Modules" : 
 	{
-		"CelebritySlasher" : "UE4Editor-CelebritySlasher-5344.dll"
+		"CelebritySlasher" : "UE4Editor-CelebritySlasher.dll"
 	}
 }

@@ -41,4 +41,12 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category = "Health")
 	void SetCurrentHealth(float NewHealth);
+
+	void IncreasePlayerHealth(float Health);
+
+	float OldHealth;
+
+	float SurvivalDuration;
+
+	float StartSurvivalDuration;
 };

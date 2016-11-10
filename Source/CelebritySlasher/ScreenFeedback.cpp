@@ -20,7 +20,7 @@ UScreenFeedback::UScreenFeedback()
 void UScreenFeedback::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	StartSurvivalDuration = 0;
 }
 
 
@@ -28,7 +28,7 @@ void UScreenFeedback::BeginPlay()
 void UScreenFeedback::TickComponent( float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction )
 {
 	Super::TickComponent( DeltaTime, TickType, ThisTickFunction );
-
+	IncreasePlayerHealth(DeltaTime);
 }
 
 float UScreenFeedback::GetMaxHealth()
@@ -44,5 +44,22 @@ float UScreenFeedback::GetCurrentHealth()
 void UScreenFeedback::SetCurrentHealth(float NewHealth)
 {
 	CurrentHealth = NewHealth;
+}
+
+void UScreenFeedback::IncreasePlayerHealth(float DeltaTime) {
+	if (GetCurrentHealth() != 100) {
+		if (StartSurvivalDuration == 0) {
+			StartSurvivalDuration = DeltaTime;
+			OldHealth = GetCurrentHealth();
+		}
+		SurvivalDuration = StartSurvivalDuration - DeltaTime;
+		if (SurvivalDuration > 10 && OldHealth == GetCurrentHealth()) {
+			SetCurrentHealth(GetCurrentHealth() + 5);
+			StartSurvivalDuration = 0;
+		}
+		else {
+			StartSurvivalDuration = 0;
+		}
+	}
 }
 
