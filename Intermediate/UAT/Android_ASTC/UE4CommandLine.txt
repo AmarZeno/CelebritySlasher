@@ -1,1 +1,0 @@
-../../../CelebritySlasher/CelebritySlasher.uproject  /Game/Maps/GameMap -Messaging -SessionId=DF6DA87B4ABBAF8BBD0DE3AD2CD8AC9D -SessionOwner="u1077160" -SessionName="Launch On Device" -iterative
